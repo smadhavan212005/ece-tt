@@ -1,192 +1,121 @@
-# Department College Timetable Generator
+# Department Timetable Generator
 
-A professional, college-grade **Department Timetable Preparation and Automatic Timetable Generation System** designed for engineering departments (ECE, VLSI, and extensible to CSE, EEE, AI & DS, etc.).
+Timetable preparation and automatic generation for engineering departments at **PSG Institute of Technology and Applied Research** (ECE and VLSI, extensible to other departments).
 
-The system automatically generates conflict-free weekly timetables considering classes, subjects, subject types, faculty availability, classrooms, shared laboratories, variable classrooms, and the Peer Learning Hall overflow.
-
-Built with **HTML5, Vanilla CSS3, and Vanilla JavaScript** for 100% static client-side execution deployable directly to **GitHub Pages** with zero backend or external database required. An offline **Python 3 CSP scheduling engine and 15 automated test cases** are also provided.
+The generator produces conflict-free weekly timetables from the classes, subjects, faculty, classrooms and laboratories you configure. It runs entirely in the browser (HTML, CSS and vanilla JavaScript, no backend), so it can be opened locally or hosted on GitHub Pages. A Python mirror of the scheduling engine and a 15-case test suite are included.
 
 ---
 
-## 🌟 Key Features
+## Features
 
-1. **4-Digit Class Code Standard & Live Interpretation**:
-   - Class format: `Year` (1-4) + `Branch` (1: ECE, 2: VLSI, extensible) + `Division` (1: A, 2: B...) + `Semester` (1-8).
-   - E.g. `3125` &rarr; 3rd Year ECE Division B Semester 5.
-   - Real-time live interpretation badge and validation.
-
-2. **Master Catalogs Pre-Populated from PSG iTech CSVs**:
-   - **227+ Master Subjects** across Semesters 1 to 8, Professional Verticals (Chip Design, Signal Processing, RF, Biomedical, Space), and Open Electives.
-   - **173+ Master Faculty** organized department-wise (ECE, VLSI, CSE, AI & DS, EEE, Civil, Mathematics, Physics, Chemistry, English, Humanities, Tamil).
-   - Editable modals to Add, Edit, Delete subjects and faculty with dependency checks.
-
-3. **Multi-Class Configuration Workflow**:
-   - Class-by-class setup with visual progress indicators (`✓ Complete`, `○ Pending`).
-   - Searchable subject list with multi-select and weekly hours input.
-   - Searchable multi-faculty assignment per subject.
-   - Subject type overrides: `Main Course`, `Lab`, `Elective Course`, `Honours Course`, `Free Period`.
-
-4. **Rigorous Constraint-Satisfaction (CSP) Engine**:
-   - **Hard Constraints**:
-     - Class conflict (at most one course per slot unless simultaneous group).
-     - Faculty conflict (global: no faculty double-booked across the college).
-     - Classroom collision prevention.
-     - Shared laboratory collision prevention (e.g. shared `VLSI Lab`).
-     - Other-department faculty availability whitelisting (interactive matrix).
-     - Continuous laboratory periods (e.g. 3 continuous periods).
-     - Lab lunch rule (labs cannot cross lunch between P4 and P5).
-     - **Main-Course Period 1 Rule**: If a class has 5 Main Courses, all 5 are distributed across Period 1 on separate working days (Mon–Fri).
-     - Fixed classrooms for 1st and 2nd years.
-     - Variable classrooms for 3rd and 4th years.
-     - Lab-released classroom reuse (rooms freed by classes attending labs).
-     - Peer Learning Hall used strictly as variable overflow for 3rd & 4th years.
-     - Room seating capacity checks.
-   - **Soft Optimization Constraints**:
-     - Subject distribution across the week (avoiding clusters of theory lectures).
-     - Faculty continuous teaching limits (minimizing fatigue).
-     - Classroom stability for senior classes.
-     - Timetable Quality Score (0–100) calculation.
-
-5. **Multi-Dimensional Timetable Views & Output**:
-   - **Class Timetables**: Weekly Day &times; Period grid with Subject, Faculty, Room/Lab, and Lock/Unlock status.
-   - **Faculty Timetables**: Weekly schedule showing Class, Subject, and Room/Lab movement info (`Class &rarr; Room`).
-   - **Classroom Timetables**: Room occupancy grid.
-   - **Laboratory Timetables**: Physical lab occupancy grid.
-   - **Interactive Cell Swapper / Manual Editor**: Click-to-swap slots with instant real-time conflict prevention.
-
-6. **Import, Export & Print**:
-   - **Save Project**: Exports complete state as `department-timetable-project.json`.
-   - **Load Project**: Drag-and-drop or upload project JSON file.
-   - **CSV Export**: Timetable export for Classes, Faculty, Rooms, and Labs.
-   - **A4 Landscape Print**: High-resolution print styles with official institutional header.
+- **Class codes**: four digits, `Year` `Branch` `Division` `Semester`. For example `3125` is 3rd year, ECE, Division B, Semester 5. A live badge interprets the code as you type.
+- **Two regulations**: the subject picker offers **2021** and **2025** regulation catalogues.
+- **Master catalogues** (editable, with dependency checks):
+  - **Subjects**: 365 in total (227 for 2021, 138 for 2025), covering semesters, professional verticals, open, minor, one-credit, language and mandatory courses.
+  - **Faculty**: 207 across 13 departments, scraped from psgitech.ac.in. New faculty can be added from the **Master Faculty** dialog.
+- **Class configuration**: searchable subject picker, hours per week, subject type (`Main Course`, `Lab`, `Elective Course`, `Honours Course`, `Free Period`), multiple faculty per subject, simultaneous-course groups and free periods.
+- **Constraint engine**:
+  - Hard rules: no class, faculty, room or shared-lab clashes; other-department faculty availability; continuous lab periods that never cross lunch; the Period 1 rule for main courses; fixed rooms for years 1-2 and variable rooms for years 3-4; reuse of rooms freed by lab sessions; Peer Learning Hall as overflow for years 3-4; seating capacity checks.
+  - Soft rules: even subject distribution, limits on continuous teaching, stable rooms for senior classes, and a 0-100 quality score.
+- **Views**: class, faculty, classroom and laboratory timetables, with click-to-swap editing that checks conflicts live and lets you lock slots.
+- **Import, export and print**: save and load the project as JSON, export timetables as CSV, print to A4 landscape.
 
 ---
 
-## 🏗️ Project Architecture
+## Directory Structure
 
 ```text
-c:/Users/Harikrishna/OneDrive/Desktop/ECE Timetable/
-├── index.html                   # Main static web application
-├── README.md                    # Documentation
-├── .gitignore                   # Git ignore file
-├── BE_ECE_All_Subjects_Codes.csv# Source dataset: ECE & VLSI subjects
-├── PSG_iTech_Faculty_Department_Wise.csv # Source dataset: Faculty database
+ECE Timetable/
+├── index.html                                # Web application entry point
+├── psgitech.png                              # PSG iTech logo (header, left)
+├── ecea.png                                  # ECE Association logo (header, right)
+├── BE_ECE_All_Subjects_Codes.csv             # Subject catalogue source (2021 and 2025 regulations)
+├── PSG_iTech_Faculty_Department_Wise.csv     # Faculty catalogue source
 ├── css/
-│   └── style.css                # Professional academic theme & print stylesheet
+│   └── style.css                             # Theme and print styles
 ├── js/
-│   ├── app.js                   # Application coordinator & event listeners
-│   ├── data.js                  # Preloaded master datasets & sample project
-│   ├── class-parser.js          # 4-digit code validator & parser
-│   ├── subject-manager.js       # Master subject list CRUD & search
-│   ├── faculty-manager.js       # Master faculty CRUD & availability matrix
-│   ├── classroom-manager.js     # Classroom allocation & Peer Learning Hall
-│   ├── constraints.js           # Hard and soft constraints rules
-│   ├── timetable-engine.js      # Client-side CSP scheduling engine
-│   ├── validator.js             # Post-generation validator & conflict reporter
-│   ├── optimizer.js             # Quality score calculation (0 - 100)
-│   ├── export.js                # JSON save/load, CSV exports, Print
-│   └── ui.js                    # UI controller, forms, grids & cell editor
+│   ├── data.js                               # Embedded master data and sample project
+│   ├── app.js                                # Application coordinator, master dialogs
+│   ├── ui.js                                 # Step screens, grids, cell editor
+│   ├── class-parser.js                       # Class code parser
+│   ├── subject-manager.js                    # Subject catalogue operations
+│   ├── faculty-manager.js                    # Faculty catalogue and availability
+│   ├── classroom-manager.js                  # Classroom and Peer Learning Hall allocation
+│   ├── constraints.js                        # Hard and soft constraints
+│   ├── timetable-engine.js                   # Scheduling engine
+│   ├── validator.js                          # Post-generation validation
+│   ├── optimizer.js                          # Quality score
+│   └── export.js                             # JSON, CSV and print
 ├── data/
-│   ├── subjects.json            # Parsed master subjects list
-│   ├── faculty.json             # Parsed faculty list by department
-│   ├── branches.json            # Configurable branches (1: ECE, 2: VLSI...)
-│   ├── sample-project.json      # Pre-configured 8-class ECE + VLSI scenario
-│   └── convert_csv_data.py      # CSV parser utility
+│   ├── subjects.json                         # Generated from the subjects CSV
+│   ├── faculty.json                          # Generated from the faculty CSV
+│   ├── branches.json                         # Branch codes (1 ECE, 2 VLSI, ...)
+│   ├── sample-project.json                   # Sample 8-class ECE + VLSI scenario
+│   ├── convert_csv_data.py                   # CSV to JSON converter
+│   ├── scrape_faculty.py                     # Scrapes faculty from psgitech.ac.in into the CSV
+│   ├── sync_faculty_data.py                  # Rebuilds faculty.json and embeds it in js/data.js
+│   └── sync_subjects_data.py                 # Rebuilds subjects.json and embeds it in js/data.js
 └── python/
-    ├── timetable_engine.py      # Standalone Python mirror of CSP engine
-    ├── validator.py             # Python constraint validator
-    └── test_cases.py            # Automated test runner for 15 test scenarios
+    ├── timetable_engine.py                   # Python mirror of the scheduling engine
+    ├── validator.py                          # Python constraint validator
+    └── test_cases.py                         # 15 automated test scenarios
 ```
 
 ---
 
-## 🚀 How to Run Locally
+## Running
 
-### Option 1: Direct Browser Launch (Zero Installation)
-Simply double-click `index.html` or open it in any modern browser (Chrome, Edge, Firefox, Safari).
-The embedded datasets in `js/data.js` allow the entire system to run offline without any web server.
+Open `index.html` in any modern browser. The data in `js/data.js` is embedded, so no server is needed.
 
-### Option 2: Local HTTP Server (Python)
-If you prefer running through a local server:
-```bash
-python -m http.server 8000
-```
-Open your browser at `http://localhost:8000`.
-
----
-
-## 🧪 Running Automated Test Suite (15 Test Cases)
-
-To run the Python automated test cases covering all 15 scenarios specified in Section 72:
+To use a local server instead:
 
 ```bash
-python python/test_cases.py
+python3 -m http.server 8000
 ```
 
-### Verified Test Cases:
-- **Test 1**: Enough Classrooms (4 classes, 4 classrooms) &rarr; `[PASSED]`
-- **Test 2**: Insufficient Classrooms (8 classes, 6 classrooms) &rarr; `[PASSED]`
-- **Test 3**: Faculty Conflict Prevention &rarr; `[PASSED]`
-- **Test 4**: Shared Laboratory Conflict Prevention &rarr; `[PASSED]`
-- **Test 5**: Other-Department Faculty Availability Whitelist &rarr; `[PASSED]`
-- **Test 6**: Five Main Courses / Five Working Days (P1 Rule) &rarr; `[PASSED]`
-- **Test 7**: Impossible Main Course Requirement Diagnostics &rarr; `[PASSED]`
-- **Test 8**: 3-Period VLSI Lab Continuity & Non-Lunch Rule &rarr; `[PASSED]`
-- **Test 9**: Lab-Released Classroom Dynamic Reuse &rarr; `[PASSED]`
-- **Test 10**: Peer Learning Hall Overflow for Senior Classes &rarr; `[PASSED]`
-- **Test 11**: Simultaneous Courses Configuration &rarr; `[PASSED]`
-- **Test 12**: Multiple Faculty Jointly Handling One Subject &rarr; `[PASSED]`
-- **Test 13**: Room Seating Capacity Checking &rarr; `[PASSED]`
-- **Test 14**: Locked Timetable Slot Preservation &rarr; `[PASSED]`
-- **Test 15**: Completely Impossible Timetable Conflict Reporting &rarr; `[PASSED]`
+then open `http://localhost:8000`.
 
 ---
 
-## 🌐 Deploying to GitHub Pages
+## Updating the Data
 
-1. Push this repository to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Department Timetable Generator"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<repo-name>.git
-   git push -u origin main
-   ```
-2. Navigate to your repository on GitHub:
-   - Go to **Settings** &rarr; **Pages**.
-   - Under **Build and deployment** &rarr; **Branch**, select `main` and root folder `/`.
-   - Click **Save**.
-3. Your static application will be live at:
-   `https://<your-username>.github.io/<repo-name>/`
+`js/data.js` is what the app reads; the CSV files are the sources. After editing a CSV, regenerate it:
+
+```bash
+# Faculty: scrape psgitech.ac.in, merge into the CSV, then refresh the app data
+python3 data/scrape_faculty.py            # add --dry-run to preview the changes
+python3 data/sync_faculty_data.py
+
+# Subjects: refresh the app data after editing BE_ECE_All_Subjects_Codes.csv
+python3 data/sync_subjects_data.py
+```
+
+The subjects CSV has the columns `Group, Category, Subject Code, Subject Title, Regulation` (`2021` or `2025`). The scraper needs `beautifulsoup4`.
 
 ---
 
-## 📖 User Guide
+## Tests
 
-### 1. Department Setup (Step 1)
-- Enter **Total Number of Classes** and **Total Number of Available Classrooms**.
-- Note: **Do NOT include Peer Learning Hall in the classroom count**. Peer Learning Hall is automatically reserved as overflow for 3rd and 4th years.
-- Enter unique Classroom identifiers (e.g. `101`, `102`, `103`...) and optional seating capacity.
-- **Tip**: Click **"Load Sample Realistic Dataset (ECE + VLSI)"** to instantly populate an 8-class scenario!
+```bash
+python3 python/test_cases.py
+```
 
-### 2. Enter Classes (Step 2)
-- Enter 4-digit class codes (e.g. `1113`, `2115`, `2215`, `3115`, `3215`, `4117`).
-- View the live interpretation badge beside the input.
-- Edit or delete classes from the summary table.
+Runs 15 scenarios against the Python engine: classroom sufficiency, faculty and lab conflicts, other-department availability, the Period 1 rule, lab continuity, room reuse, Peer Learning Hall overflow, simultaneous courses, joint faculty, seating capacity, locked slots, and impossible-timetable reporting.
 
-### 3. Select Class & Configure (Steps 3 & 4)
-- Select a class to configure.
-- Search and pick subjects from the Master Catalog.
-- Set **Hours/Week** and **Subject Type** (`Main Course`, `Lab`, `Elective Course`, `Honours Course`, `Free Period`).
-- If **Lab**, enter the physical **Lab Name** (e.g. `VLSI Lab`, `Circuits Lab`) and continuous periods.
-- Assign **Multiple Faculty** per subject using the searchable faculty picker.
-- Mark faculty as **Same Department** or **Other Department** (Mathematics, CSE, etc.) and configure their weekly availability whitelist.
-- Save configuration and return to class selection.
+---
 
-### 4. Generate & Inspect Dashboard (Step 5)
-- Click **Generate Department Timetable**.
-- Inspect validation metrics and Timetable Quality Score (0–100).
-- Switch between **Class Timetables**, **Faculty Timetables**, **Classroom Timetables**, and **Laboratory Timetables**.
-- **Interactive Editing**: Click a cell, then click another cell to swap. Hard constraints are verified in real time before moving! Click 🔒 to lock a slot.
-- Export as JSON, CSV, or print to A4 Landscape.
+## User Guide
+
+1. **Department Setup**: enter the number of classes and classrooms, and each room's identifier and capacity. Do not count the Peer Learning Hall; it is added automatically as overflow for years 3-4. **Load Sample Realistic Dataset** fills in an 8-class scenario.
+2. **Classes & Classrooms**: enter four-digit class codes (for example `1113`, `2115`, `3215`, `4117`) and check the interpretation badge.
+3. **Select Class**: pick a class to configure.
+4. **Class Configuration**: choose the regulation (2021 or 2025) in the subject picker, add subjects, set hours and type, name the lab and continuous periods for labs, assign faculty, and set availability for other-department faculty.
+5. **Generation & Dashboard**: generate the timetable, review the validation results and quality score, switch between class, faculty, room and lab views, edit by clicking two cells to swap, then export or print.
+
+Master data is managed from the header: **Master Subjects** and **Master Faculty** (including **+ Add Faculty**), and **Save** / **Load** for the project file.
+
+---
+
+## Deploying to GitHub Pages
+
+Push the repository to GitHub, then under **Settings > Pages** choose the `main` branch and the root folder. The app is served at `https://<username>.github.io/<repository>/`.
