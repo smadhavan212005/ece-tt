@@ -1,0 +1,200 @@
+﻿Department,Faculty Name,Designation,Specialization,Email
+ECE,Dr. P. Vijayakumar,Professor & HoD,"VLSI (Low Power), Automation",pvk@psgitech.ac.in
+ECE,Dr. M. Jayasanthi,Professor,ASIC Design and Signal processing,jayasanthiranjith@psgitech.ac.in
+ECE,Dr. C. Arvind,Professor,Signal Processing & Communication Systems,arvind@psgitech.ac.in
+ECE,Dr. G. Santhanamari,Associate Professor,"Image Processing, Embedded systems",gsm@psgitech.ac.in
+ECE,Dr. D. Selvakumar,Associate Professor,"Nanoelectronics, Embedded systems",selvakumar@psgitech.ac.in
+ECE,Dr. B. A. Sapna,Associate Professor,Communication Systems,sapna.ec@psgitech.ac.in
+ECE,Dr. S. Sridevi Sathya Priya,Associate Professor,"VLSI, FPGA based Hardware Security, Cryptographic Hardware Architecture , PUF based Security Systems",sridevi.ec@psgitech.ac.in
+ECE,Dr. S. Padmapriya,Assistant Professor (Selection Grade),"Low Power VLSI, Reconfigurable Architectures, Signal Processing and Computer Vision",padmapriya@psgitech.ac.in
+ECE,Dr. M. Jothibasu,Assistant Professor (Selection Grade),"Digital Signal Processing, Image processing",jothibasu@psgitech.ac.in
+ECE,Dr. M. Deepa,Assistant Professor (Selection Grade),Digital Design and VLSI Design,deepa@psgitech.ac.in
+ECE,Dr. K. Paldurai,Assistant Professor (Selection Grade),"Digital Arithmetic Circuit Design, Mixed Signal IC Design",paldurai.k@psgitech.ac.in
+ECE,Dr. T. Pravinraj,Assistant Professor (Selection Grade),"MEMS, VLSI Process Technology, Solver Development",pravinraj@psgitech.ac.in
+ECE,Dr. P. Sridhar,Assistant Professor (Selection Grade),"Signal Processing, Image Processing, Computer Vision",sridhar.p@psgitech.ac.in
+ECE,Dr. S. P. Cowsigan,Assistant Professor (Selection Grade),"RF, Microwave and Antenna Design",cowsigan@psgitech.ac.in
+ECE,Dr. J. S. Sujin,Assistant Professor (Selection Grade),"Image Processing, Signal Processing, Robotics",sujin@psgitech.ac.in
+ECE,Dr. P. Sakthivel,Assistant Professor (Selection Grade),Wireless Technologies,drspvel.ec@psgitech.ac.in
+ECE,Dr. J. R. Dinesh Kumar,Assistant Professor (Selection Grade),"VLSI, Low Power Architectures, Biomedical Signal Processing and Machine Learning",dineshkumar.ec@psgitech.ac.in
+ECE,Dr. B. Tharini,Assistant Professor,"MIMO Antennas, Wireless Communication",tharini@psgitech.ac.in
+ECE,Dr. M. Priyadharshini,Assistant Professor,"Hardware Security, VLSI Design, AI",priyadharshini.ec@psgitech.ac.in
+ECE,Dr. S. Jayanthi Sree,Assistant Professor (Senior Grade),"Biomedical Image Processing, VLSI Design, ML",jayanthisree@psgitech.ac.in
+ECE,Mr. R. RajaRaja,Assistant Professor (Senior Grade),VLSI Design,rajaraja@psgitech.ac.in
+ECE,Ms. N. Susithra,Assistant Professor (Senior Grade),"VLSI Design, VLSI Signal Processing",susithra@psgitech.ac.in
+ECE,Dr. M. Sowmiya,Assistant Professor (Senior Grade),"Communication Systems, Biomedical Signal Processing, Machine Learning",sowmiya@psgitech.ac.in
+ECE,Ms. D.Archana,Assistant Professor (Senior Grade),Applied Electronics,archana@psgitech.ac.in
+ECE,Dr. N. Iswarya,Assistant Professor,Communication Systems,iswarya@psgitech.ac.in
+CSE,Dr. B. Gomathy,Professor & HOD (i/c),Data Analytics,drgomathy@psgitech.ac.in
+CSE,Dr. R. Manimegalai,Professor,"Distributed Computing VLSI Algorithms, IoT and Security",drrm@psgitech.ac.in
+CSE,Dr. S. Kalarani,HoD (i/c),"Cloud Computing, Deep Learning",kalarani@psgitech.ac.in
+CSE,Dr. R. Manjula Devi,Professor,"Machine Learning, Image Processing, Soft Computing, AI",manjuladevi.cs@psgitech.ac.in
+CSE,Mr. V. Harikrishnan,Professor of Practice,"Project Management, ERP",harikrishnan.cs@psgitech.ac.in
+CSE,Dr. I. Kala,Associate Professor,Mobile AdHoc Network and Database Management System,kala@psgitech.ac.in
+CSE,Dr. K. Malarvizhi,Assistant Professor (Selection Grade),"Machine Learning, Deep Learning",malarvizhi@psgitech.ac.in
+CSE,Dr. T. Kalai Selvi,Assistant Professor (Selection Grade),"Internet of Things (IoT), Data Management",tks.cs@psgitech.ac.in
+CSE,Dr. M. N. Kavitha,Assistant Professor (Selection Grade),"Machine Learning, Deep Learning & Operating System",kavitha@psgitech.ac.in
+CSE,Dr. A. Sunitha Nandhini,Assistant Professor (Selection Grade),"Artifical Intelligence, Internet of Things",asn@psgitech.ac.in
+CSE,Ms. M. Kirubadevi,Assistant Professor (Selection Grade),Software Engineering,kirubadevi@psgitech.ac.in
+CSE,Dr. M. Sangeetha,Assistant Professor (Selection Grade),"Deep Learning, Graph Neural Networks",sangeetha.cs@psgitech.ac.in
+CSE,Dr. M. Karthigha,Assistant Professor (Selection Grade),"Network Security, Augmented Reality & Virtual Reality",karthigha@psgitech.ac.in
+CSE,Ms. P. Jeevitha,Assistant Professor (Selection Grade),Machine Learning,jeevithap@psgitech.ac.in
+CSE,Dr. S. S. Saranya,Assistant Professor (Selection Grade),"Security, Blockchain",saranya@psgitech.ac.in
+CSE,Dr. Sathya Balaji,Assistant Professor (Selection Grade),"Machine Learning, Artificial Intelligence",sathyabalaji@psgitech.ac.in
+CSE,Ms. P. Shanmugapriya,Assistant Professor (Selection Grade),"DBMS, Machine Learning , Deep Learning",shanmugapriya@psgitech.ac.in
+CSE,Lt. V. Vilasini,Assistant Professor (Selection Grade),Data Science and Data Analytics,vilasini@psgitech.ac.in
+CSE,Dr. S. Vaishnavi,Assistant Professor (Selection Grade),"Data Science, Machine Learning",vaishnavis@psgitech.ac.in
+CSE,Dr. V. C. Maha Vishnu,Assistant Professor (Selection Grade),Video Data Mining and Image Analytics,mvvc@psgitech.ac.in
+CSE,Ms. P. Gouthami,Assistant Professor (Senior Grade),"Machine Learning, Deep Learning",gouthami.cs@psgitech.ac.in
+CSE,Ms. S. Leela,Assistant Professor (Senior Grade),Deep Learning,leela.cs@psgitech.ac.in
+CSE,Mr. B. Ajith Jerom,Assistant Professor,Data Science and Data Analytics,ajith@psgitech.ac.in
+CSE,Ms. C. Divya Gowri,Assistant Professor,"Data Mining, Database Management System",divya.cs@psgitech.ac.in
+CSE,Mr. S. Joemathew,Assistant Professor,"Software Testing, AI Testing",joemathews.cs@psgitech.ac.in
+CSE,Ms. S. V. Sowthika,Assistant Professor,"Machine Learning, DBMS",sowthika.cs@psgitech.ac.in
+CSE,Ms. R. Hemapriya,Assistant Professor,"DBMS, Machine Learning",hemapriya.cs@psgitech.ac.in
+CSE,Dr. B. Gomathi,Associate Professor,"Cloud Computing, Machine Learning, Optimization Techniques",gomathi@psgitech.ac.in
+CSE,Dr. P. Anantha Prabha,Assistant Professor (Selection Grade),"Deep Learning, Cloud Computing",ap@psgitech.ac.in
+CSE,Mr. K. S. Giriprasath,Assistant Professor (Selection Grade),"Cyber security, Network Security",giriprasath@psgitech.ac.in
+CSE,Dr. G. Sudha Sadasivam,Visiting Professor,"Big Data Analytics, Privacy Preservation",
+AI & DS,Dr. S. Kalarani,HoD (i/c),"Cloud Computing, Deep Learning",kalarani@psgitech.ac.in
+AI & DS,Dr. S. Lokesh,Professor,"AI, Human-Computer Interaction, Data Science",lokesh@psgitech.ac.in
+AI & DS,Dr. R. Priya Vaijayanthi,Associate Professor,"Machine Learning, Deep Learning, Generative AI",rpv.ai@psgitech.ac.in
+AI & DS,Dr. S. Sangeetha,Associate Professor,"Responsible AI, Deep Learning, Generative AI",sangeetha@psgitech.ac.in
+AI & DS,Mr. R. Muthu Kumar,Associate Professor of Practice,"DevOps, Technology Modernization",muthukumar.ai@psgitech.ac.in
+AI & DS,Mr. C. Santhosh,Assistant Professor (Selection Grade),"Data Science, Big Data Analysis",santhosh@psgitech.ac.in
+AI & DS,Ms. S. Dhivya,Assistant Professor (Selection Grade),"Database management systems, Fullstack development, Machine Learning",dhivya.ai@psgitech.ac.in
+AI & DS,Ms. G. Suganya,Assistant Professor (Senior Grade),"DevOps, Soft Computing",suganya@psgitech.ac.in
+AI & DS,Ms. P. Gomathi,Assistant Professor (Senior Grade),"Deep Learning, Computer Networks, Data Science",gomathi.ai@psgitech.ac.in
+AI & DS,Ms. P. Nirmala Priyadharshini,Assistant Professor (Senior Grade),"Cloud Computing, Object Oriented Programming",nirmala.ai@psgitech.ac.in
+AI & DS,Ms. E. Kalaivani,Assistant Professor (Senior Grade),Machine Learning,kalaivani.ai@psgitech.ac.in
+AI & DS,Ms. K. Sathya,Assistant Professor,"Machine Learning, Deep Learning",sathya@psgitech.ac.in
+AI & DS,Ms. K. Santhiya,Assistant Professor,"Data Structures, Machine Learning, Deep Learning",santhiya@psgitech.ac.in
+AI & DS,Ms. R. S. Niranjana,Assistant Professor,"Deep Learning, Cybersecurity, Data Structures",niranjana@psgitech.ac.in
+EEE,Dr. C. S. Subash Kumar,Associate Professor & HOD (i/c),Electrical Machines,css@psgitech.ac.in
+EEE,Dr. C. L. Vasu,Professor,Embedded Systems,clv@psgitech.ac.in
+EEE,Dr. E. Malar,Professor,Biomedical Instrumentation and MI Processing,emr@psgitech.ac.in
+EEE,Dr. M. Mohamed Iqbal,Professor,Power System and Renewable Energy,iqbal@psgitech.ac.in
+EEE,Dr. J. Baskaran,Professor,"Power System Engineering, Distributed Generation, Renewable Energy",baskaran@psgitech.ac.in
+EEE,Dr. D. Sivakumar,Visiting Professor,Instrumentation & Process Control,sivakumar@psgitech.ac.in
+EEE,Dr. N. Bharathi,Professor,"Process Control, Intelligent Controllers",bharathi.ee@psgitech.ac.in
+EEE,Mr. V. Sivaganesh,Professor of Practice,Applied Electronics,sivaganesh.v@psgitech.ac.in
+EEE,Dr. B. Adhavan,Associate Professor,Power Electronics and Drives,adhavan@psgitech.ac.in
+EEE,Dr. M. Sathiyanathan,Associate Professor,Power Electronics.Drives,sathiyangm@psgitech.ac.in
+EEE,Dr. E. Govinda Kumar,Associate Professor,"Control Systems, Sliding mode control, Controller optimization",govindakumar@psgitech.ac.in
+EEE,Dr. M. Elenchezhiyan,Associate Professor,Control & Instrumentation,elen.ee@psgitech.ac.in
+EEE,Dr. S. Julius Fusic,Associate Professor,Localization and Navigation of Autonomous Systems,sjf.ee@psgitech.ac.in
+EEE,Dr. R. Vijay,Associate Professor,"Power Systems Engineering, Applications of AI & ML in EEE, Green Hydrogen, Electric Vehicle Routing",vijay.ee@psgitech.ac.in
+EEE,Dr. M. Senthilkumar,Assistant Professor (Selection Grade),Embedded System,senthilkumar@psgitech.ac.in
+EEE,Mr. S. Ravikrishna,Assistant Professor (Selection Grade),Electrical Machines,ravikrishna@psgitech.ac.in
+EEE,Dr. C. V. Pavithra,Assistant Professor (Selection Grade),Electrical Machines,pavithra@psgitech.ac.in
+EEE,Dr. B. Suresh,Assistant Professor (Selection Grade),Power Electronics and Drives,suresh@psgitech.ac.in
+EEE,Dr. S. Arivoli,Assistant Professor (Selection Grade),Control Systems and Instrumentation,arivoli@psgitech.ac.in
+EEE,Dr. A. P. Roger Rozario,Assistant Professor (Selection Grade),"Internet of Things, AI & ML",rogerrozario@psgitech.ac.in
+EEE,Dr. H. Ramesh,Assistant Professor (Selection Grade),"Electrical Drives and Control, Motion Control Applications, Industry 4.0, Robotics",ramesh.ee@psgitech.ac.in
+EEE,Dr. K. Bavithra,Assistant Professor (Selection Grade),Power systems engineering (Restructuring),bavithra@psgitech.ac.in
+EEE,Ms. R. Divya,Assistant Professor (Selection Grade),Power Systems,divya@psgitech.ac.in
+EEE,Dr. G. Sophia Jasmine,Assistant Professor (Selection Grade),Power Systems Engineering,sophia.ee@psgitech.ac.in
+EEE,Dr. S. Karthikeyan,Assistant Professor (Selection Grade),Power Electronics and Drives,karthikeyans.ee@psgitech.ac.in
+EEE,Dr. A. Jeyashree,Assistant Professor (Senior Grade),Power Electronics & Drives.Solar Energy,jeyashreea@psgitech.ac.in
+EEE,Dr. V. R. Kavya,Assistant Professor (Senior Grade),Process Control,kavya.ee@psgitech.ac.in
+EEE,Dr. P. R. Jain Vinith,Assistant Professor (Senior Grade),"Power System Planning and Operation, Energy Management",jainvinith.ee@psgitech.ac.in
+EEE,Mr. V. Srimaheswaran,Assistant Professor (Senior Grade),Power Electronics & Drives,srimaheswaran.ee@psgitech.ac.in
+Civil,Dr. P. Muthupriya,Professor & HoD,Structural Engineering,muthupriya@psgitech.ac.in
+Civil,Dr. M. I. Abdul Aleem,Professor,Structural Engineering,aleem@psgitech.ac.in
+Civil,Dr. M. Arun,Professor,Structural Engineering,arun@psgitech.ac.in
+Civil,Dr. R. Rajkumar,Associate Professor,Infrastructure Engineering,rajkumar@psgitech.ac.in
+Civil,Dr. V. Navin Ganesh,Associate Professor,Transportation Engineering and Management,navinganesh@psgitech.ac.in
+Civil,Mr. S. Elayaraja,Assistant Professor (Selection Grade),Geotechnical Engineering,elayaraja@psgitech.ac.in
+Civil,Dr. M. R. Ezhil Kumar,Assistant Professor (Selection Grade),Environmental Management,ezhilkumar@psgitech.ac.in
+Civil,Mr. P. Balakumar,Assistant Professor (Selection Grade),Infrastructure Engineering,pbkciv@psgitech.ac.in
+Civil,Dr. J. Karthick,Assistant Professor (Senior Grade),Structural Engineering,karthick@psgitech.ac.in
+Civil,Dr. K. Govarthanambikai,Assistant Professor (Senior Grade),Infrastructure Engineering,kgk@psgitech.ac.in
+Civil,Ms. V. Selvapriya,Assistant Professor (Senior Grade),Structural Engineering,vsp@psgitech.ac.in
+Civil,Mr. K. Sakthi Prasanth,Assistant Professor (Senior Grade),Structural Engineering,ksp@psgitech.ac.in
+Civil,Ms. R. Nidhya,Assistant Professor (Senior Grade),Structural Engineering,nidhya@psgitech.ac.in
+Civil,Dr. P. A. Sivasubramani,Assistant Professor (Senior Grade),Infrastructure Engineer,sivasubramani@psgitech.ac.in
+Civil,Dr. R. Balaji,Assistant Professor,Environmental Engineering,balaji.civil@psgitech.ac.in
+Civil,Dr. N. Divyah,Assistant Professor,Structural Engineering,divyah@psgitech.ac.in
+Mathematics,Dr. S. Aramuthakannan,Professor & HoD (i/c),Optimization Techniques,sakannan@psgitech.ac.in
+Mathematics,Dr. M. Venkatesan,Professor,Solid Mechanics,coe@psgitech.ac.in
+Mathematics,Dr. R. S. Sankara Subramanian,Professor,Cryptography,rss@psgitech.ac.in
+Mathematics,Dr. P. Chinnaraj,Associate Professor,"Algebra, Probability and Queueing Theory",chinnaraj@psgitech.ac.in
+Mathematics,Dr. V. Chitra,Associate Professor,Graph Theory - Graph Decompositions & Factorization,chitra@psgitech.ac.in
+Mathematics,Mr. P. Gajendran,Assistant Professor (Selection Grade),Algebra Complex Analysis,gajendranp@psgitech.ac.in
+Mathematics,Dr. S. Anitha,Assistant Professor,"Fluid Dynamics, Heat exchange",anitha@psgitech.ac.in
+Mathematics,Dr. J. Grayna,Assistant Professor,Differential Equations,grayna@psgitech.ac.in
+Mathematics,Dr. E. Vignesh,Assistant Professor,"Computational fluid dynamics, Heat transfer",vignesh@psgitech.ac.in
+Mathematics,Dr. J. Prabu,Assistant Professor,Coding Theory,prabu@psgitech.ac.in
+Mathematics,Dr. T. P. Sandhiya,Assistant Professor,Graph Theory,sandhiya@psgitech.ac.in
+Mathematics,Dr. M. S. Surendar,Assistant Professor,Nonlinear Dynamics in Biology,surendar.sh@psgitech.ac.in
+Mathematics,Dr. M. Kalaiselvi,Assistant Professor,"Epidemic Model, Complex Networks, Mathematical Biology",kalaiselvi.sh@psgitech.ac.in
+Mathematics,Dr. D. Vignesh,Assistant Professor,"Wavelet Transform, Machine Learning",vignesh.sh@psgitech.ac.in
+Mathematics,Dr. Y. Mary Christin Otto,Assistant Professor,Functional Analysis,ymco.sh@psgitech.ac.in
+Mathematics,Dr. S. Duraimurugan,Assistant Professor,Graph theory,durai.sh@psgitech.ac.in
+Mathematics,Dr. A. R. Gokul,Assistant Professor,"Response Surface Methodology, Probability and statistics",gokul.sh@psgitech.ac.in
+Physics,Dr. S. Maruthamuthu,Professor & HoD (i/c),"Dye sensitized solar cells, Energy storage devices, Thin films",maruthamuthu@psgitech.ac.in
+Physics,Dr. D. Thangaraju,Associate Professor,Nano Biotechnology and Bioimageing,thangaraju@psgitech.ac.in
+Physics,Dr. T. K. Abilasha Ramadhas,Assistant Professor (Selection Grade),"Materials Science, Non-Destructive Testing",abilasha@psgitech.ac.in
+Physics,Dr. G. Bhavani,Assistant Professor (Senior Grade),"Luminescence, Nanomaterials",bhavani@psgitech.ac.in
+Physics,Dr. P. K. Kannan,Assistant Professor (Senior Grade),"Inorganic thin film solar cell, Perovskite, High entropy oxides",kannan@psgitech.ac.in
+Physics,Dr. Deepannita Chakraborty,Assistant Professor,Dilute Magnetic oxide Thin films,deepannita@psgitech.ac.in
+Physics,Dr. K. Mariselvam,Assistant Professor (Senior Grade),"Spectroscopy, Radiation detection, Glasses, Perovskites",mariselvam@psgitech.ac.in
+Physics,Dr. S. Gowrishankar,Assistant Professor (Senior Grade),"Thin Films, Nanomaterials for Optoelectronic Applications",gowrishankar.sh@psgitech.ac.in
+Physics,Dr. P. Mathan Kumar,Assistant Professor,"Thin films, Dye Sensitized Solar Cells, Electrochemical storage and conversion",mathankumar.sh@psgitech.ac.in
+Physics,Dr. Riza Paul,Assistant Professor,"Photocatalysis, Nanomaterials, Photoelectrochemical studies",rizapaul.sh@psgitech.ac.in
+Physics,Dr. T. Abhijith,Assistant Professor,"Nanoscience, Experimental Condensed Matter Physics",
+Physics,Dr. M. Veena,Assistant Professor,"Material Science, Electrocatalysis, Nanosensor",
+Physics,Dr. Sebin Devasia,Assistant Professor,"Computational Materials Science, Photovoltaics, Photodetectors",
+Physics,Dr. P. Atheek,Assistant Professor,"Thin Film, Piezoelectric Materials",
+Physics,Dr. S. Gunasekaran,Post-Doctoral Fellow,"Materials science, Energy storage",gunasekaran.sh@psgitech.ac.in
+Chemistry,Dr. G. Latha,Professor & HoD,Polymer Chemistry,latha@psgitech.ac.in
+Chemistry,Dr. K. Balaji,Professor,Polymer Chemistry,balaji@psgitech.ac.in
+Chemistry,Dr. A. Kumaravel,Associate Professor,Electro Chemistry,kumaravel@psgitech.ac.in
+Chemistry,Dr. S. Devaraju,Associate Professor,Polymer Nanocomposites and Hybrid Materials,devaraju@psgitech.ac.in
+Chemistry,Dr. S. Chandirasekar,Associate Professor,"Nanoscience, Polymer Chemistry",
+Chemistry,Dr. R. Sasikumar,Assistant Professor (Senior Grade),Polymer Science,sasikumar@psgitech.ac.in
+Chemistry,Dr. G. Sathiyan,Assistant Professor (Senior Grade),"Organic Chemistry, Organic/Perovskite Solar Cells, Chemosensor Polymers",
+Chemistry,Dr. P. Pradeepkumar,Assistant Professor (Research),Polymer Chemistry,pradeepkumar.sh@psgitech.ac.in
+Chemistry,Dr. M. Mayakkannan,Assistant Professor (Research),Nanomaterials for Energy Storage Applications,maya.sh@psgitech.ac.in
+Chemistry,Dr. G. Alagarsamy,Assistant Professor (Research),"Critical Metal Recovery, Wastewater Treatment",asg.sh@psgitech.ac.in
+Chemistry,Dr. S. Manigandan,Assistant Professor (Research),Polymer Chemistry,manigandan.sh@psgitech.ac.in
+Chemistry,Dr. V. Naveensubramaniam,Assistant Professor,Materials Chemistry,naveenv.sh@psgitech.ac.in
+Chemistry,Dr. S. Prabhu,Assistant Professor (Senior Grade),Photo/Electrocatalysis for Energy Applications,prabhu@psgitech.ac.in
+Chemistry,Dr. K Arunkumar,Assistant Professor,"Fuel Cell, Polymer Chemistry",arunkumar@psgitech.ac.in
+Chemistry,Dr. A. V. Rajalakshmi,Assistant Professor,"Fluorescent Sensors, Organic Chemistry",rajalakshmi@psgitech.ac.in
+English,Dr. K. Pramila,Professor & HOD,"English Literature, English Language Teaching and Softskills",pramila@psgitech.ac.in
+English,Dr. S. Gandhimathi,Associate Professor,"English Language Teaching, English Literature and Educational Psychology",gandhimathi@psgitech.ac.in
+English,Dr. R. Ravindran,Assistant Professor (Senior Grade),Comparative Literature,ravindran@psgitech.ac.in
+English,Dr. A. Muthukannan,Assistant Professor,American Literature,muthukannan@psgitech.ac.in
+English,Dr. V. Sutharshan,Assistant Professor,ELT and Fiction,sutharshan@psgitech.ac.in
+English,Dr. K. Satheesh Kumar,Assistant Professor,"English Language Teaching, Comparative Literature, & Public Speaking",sk.sh@psgitech.ac.in
+English,Dr. C. Ganesh,Assistant Professor,"Indian Writing in English, Comparative Literature",ganesh.sh@psgitech.ac.in
+Humanities,Dr. R. Ravikumar,Assistant Professor (Selection Grade),Agribusiness Management,ravikumar@psgitech.ac.in
+Humanities,Dr. R. Uma,Assistant Professor (Senior Grade),Human Resource Management,uma@psgitech.ac.in
+Humanities,Dr. K. Selvamohana,Assistant Professor (Senior Grade),Management (Marketing & Finance),selvamohana@psgitech.ac.in
+Tamil,Mr. T. Prakash,Assistant Professor - Tamil,Sangam Literature,prakash@psgitech.ac.in
+Tamil,Ms. S. Lubuna Leilani,Assistant Professor - Tamil,Tamil Literature,lls.sh@psgitech.ac.in
+Mechanical,Dr. P. Manoj Kumar,Professor & HOD,Heat Transfer Energy,manoj@psgitech.ac.in
+Mechanical,Dr. P. V. Mohanram,Professor,Mechanical Engineering,secretary@psgitech.ac.in
+Mechanical,Dr. G. Chandramohan,Professor,Mechanical Engineering,gcm@psgitech.ac.in
+Mechanical,Dr. N. Saravanakumar,Professor,Engineering Design,principal@psgitech.ac.in
+Mechanical,Dr. R. Ramesh,Professor,Engineering Design,ramesh@psgitech.ac.in
+Mechanical,Dr. G. Rajeshkumar,Professor,Engineering Design,rajesh@psgitech.ac.in
+Mechanical,Dr. S. Thirumalai Kumaran,Professor,Manufacturing Engineering,thirumalaikumaran@psgitech.ac.in
+Mechanical,Dr. V Rajkumar,Associate Professor,Manufacturing Engineering,rajkumarv@psgitech.ac.in
+Mechanical,Dr. K. Senthil Kumar,Associate Professor,Composite Materials,kmsenthilkumar@psgitech.ac.in
+Mechanical,Dr. X. Ajay Vasanth,Associate Professor,"Vibration, Smart Materials, IIOT",ajayvasanth@psgitech.ac.in
+Mechanical,Dr. S. Nanthakumar,Associate Professor,Lean Manufacturing,snkmech@psgitech.ac.in
+Mechanical,Dr. J. Nagarjun,Associate Professor,Engineering Design,nagarjun@psgitech.ac.in
+Mechanical,Dr. T. Prem kumar,Associate Professor,Solar energy and Thermal energy,premkumar@psgitech.ac.in
+Mechanical,Dr. G. Swaminathan,Assistant Professor (Selection Grade),"Smart Materials, Materials Characterization",swaminathan@psgitech.ac.in
+Mechanical,Dr. G. Girish,Assistant Professor (Selection Grade),"Material Science, Manufacturing and Industrial Engg.",girish@psgitech.ac.in
+Mechanical,Dr. R. Avinash Kumar,Assistant Professor (Selection Grade),Thermal & Fluids,avinash@psgitech.ac.in
+Mechanical,Dr. S. Jayachandran,Assistant Professor (Selection Grade),"Surface Coating, Material Characterization",jayachandran.me@psgitech.ac.in
+Mechanical,Dr. B. Jagadeesh,Assistant Professor (Senior Grade),Advanced Manufacturing,jagadeesh@psgitech.ac.in
+Mechanical,Dr. V. G. Shanmuga Priyan,Assistant Professor (Senior Grade),"Metal Matrix Composites, Non-conventional Machines, Micro-Machines",shanmugapriyan.me@psgitech.ac.in
+Mechanical,Dr. Yogesh Prabhu,Assistant Professor (Senior Grade),Material science,yogeshprabhu.me@psgitech.ac.in
+Mechanical,Dr. N. Bhuvanesh,Assistant Professor (Senior Grade),Thermal Engineering,bhuvanesh.me@psgitech.ac.in
+Mechanical,Mr. V. Vijai Kaarthi,Assistant Professor,Energy Engineering,vvk.mech@psgitech.ac.in
+Mechanical,Dr. P. Abhilash,Assistant Professor (Research),"Materials Joining, Additive manufacturing",abhilash.me@psgitech.ac.in
+Mechanical,Dr. M. Dinesh Kumar,Assistant Professor (Research),Fuel Cells,mdk.me@psgitech.ac.in
+Mechanical,Dr. G. Sathyamoorthy,Assistant Professor (Research),"Brake Friction Materials, Polymer Composites",sathyamoorthy.me@psgitech.ac.in

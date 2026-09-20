@@ -1,0 +1,2976 @@
+[
+  {
+    "code": "EC3552",
+    "name": "VLSI and Chip Design",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3561",
+    "name": "VLSI Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 5,
+    "defaultLab": "VLSI Lab",
+    "continuous": 3,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3401",
+    "name": "Digital VLSI Design",
+    "category": "Core",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3501",
+    "name": "CMOS Analog IC Design",
+    "category": "Core",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3601",
+    "name": "Low Power VLSI Design",
+    "category": "Core",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3611",
+    "name": "FPGA and ASIC Design Laboratory",
+    "category": "Core",
+    "defaultType": "Lab",
+    "semester": 6,
+    "defaultLab": "VLSI Lab",
+    "continuous": 3,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3701",
+    "name": "VLSI Testing and Verification",
+    "category": "Core",
+    "defaultType": "Main Course",
+    "semester": 7,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3702",
+    "name": "Hardware Description Languages (Verilog/VHDL)",
+    "category": "Core",
+    "defaultType": "Main Course",
+    "semester": 7,
+    "regulation": "2021"
+  },
+  {
+    "code": "VL3711",
+    "name": "Cadence / Synopsys EDA Lab",
+    "category": "Core",
+    "defaultType": "Lab",
+    "semester": 7,
+    "defaultLab": "EDA Lab",
+    "continuous": 3,
+    "regulation": "2021"
+  },
+  {
+    "code": "IP3151",
+    "name": "Induction Programme",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "HS3152",
+    "name": "Professional English - I",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "MA3151",
+    "name": "Matrices and Calculus",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "PH3151",
+    "name": "Engineering Physics",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "CY3151",
+    "name": "Engineering Chemistry",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3151",
+    "name": "Problem Solving and Python Programming",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3152",
+    "name": "Heritage of Tamils",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3171",
+    "name": "Problem Solving and Python Programming Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 1,
+    "regulation": "2021",
+    "defaultLab": "Computing Lab",
+    "continuous": 3
+  },
+  {
+    "code": "BS3171",
+    "name": "Physics and Chemistry Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 1,
+    "regulation": "2021",
+    "defaultLab": "Physics and Chemistry Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "GE3172",
+    "name": "English Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 1,
+    "regulation": "2021",
+    "defaultLab": "English Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "HS3252",
+    "name": "Professional English - II",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "MA3251",
+    "name": "Statistics and Numerical Methods",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "PH3254",
+    "name": "Physics for Electronics Engineering",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "BE3254",
+    "name": "Electrical and Instrumentation Engineering",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3251",
+    "name": "Engineering Graphics",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3251",
+    "name": "Circuit Analysis",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3252",
+    "name": "Tamils and Technology",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "SUB27",
+    "name": "NCC Credit Course Level 1",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3271",
+    "name": "Engineering Practices Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 2,
+    "regulation": "2021",
+    "defaultLab": "Engineering Practices Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "EC3271",
+    "name": "Circuits Analysis Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 2,
+    "regulation": "2021",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "GE3272",
+    "name": "Communication Laboratory / Foreign Language",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 2,
+    "regulation": "2021",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "MA3355",
+    "name": "Random Processes and Linear Algebra",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "CS3353",
+    "name": "C Programming and Data Structures",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3354",
+    "name": "Signals and Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3353",
+    "name": "Electronic Devices and Circuits",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3351",
+    "name": "Control Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3352",
+    "name": "Digital Systems Design",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3361",
+    "name": "Electronic Devices and Circuits Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 2,
+    "regulation": "2021",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "CS3362",
+    "name": "C Programming and Data Structures Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 2,
+    "regulation": "2021",
+    "defaultLab": "Computing Lab",
+    "continuous": 3
+  },
+  {
+    "code": "GE3361",
+    "name": "Professional Development",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3452",
+    "name": "Electromagnetic Fields",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3401",
+    "name": "Networks and Security",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3451",
+    "name": "Linear Integrated Circuits",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3492",
+    "name": "Digital Signal Processing",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3491",
+    "name": "Communication Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3451",
+    "name": "Environmental Sciences and Sustainability",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "SUB46",
+    "name": "NCC Credit Course Level 2",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3461",
+    "name": "Communication Systems Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 1,
+    "regulation": "2021",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "EC3462",
+    "name": "Linear Integrated Circuits Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 1,
+    "regulation": "2021",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "EC3501",
+    "name": "Wireless Communication",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3551",
+    "name": "Transmission Lines and RF Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "ET3491",
+    "name": "Embedded Systems and IOT Design",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "CS3491",
+    "name": "Artificial Intelligence and Machine Learning",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3791",
+    "name": "Human Values and Ethics",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3711",
+    "name": "Summer internship",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "EC3811",
+    "name": "Project Work / Internship",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3751",
+    "name": "Principles of Management",
+    "category": "Management Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3752",
+    "name": "Total Quality Management",
+    "category": "Management Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3753",
+    "name": "Engineering Economics and Financial Accounting",
+    "category": "Management Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3754",
+    "name": "Human Resource Management",
+    "category": "Management Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3755",
+    "name": "Knowledge Management",
+    "category": "Management Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "GE3792",
+    "name": "Industrial Management",
+    "category": "Management Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3081",
+    "name": "Introduction to Women and Gender Studies",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3082",
+    "name": "Elements of Literature",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3083",
+    "name": "Film Appreciation",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3084",
+    "name": "Disaster Risk Reduction and Management",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3085",
+    "name": "Well Being with Traditional Practices - Yoga, Ayurveda and Siddha",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Lab",
+    "semester": null,
+    "regulation": "2021",
+    "defaultLab": "Well Being with Traditional Practices - Yoga, Ayurveda and Siddha Lab",
+    "continuous": 3
+  },
+  {
+    "code": "MX3086",
+    "name": "History of Science and Technology in India",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3087",
+    "name": "Political and Economic Thought for a Humane Society",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3088",
+    "name": "State, Nation Building and Politics in India",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MX3089",
+    "name": "Industrial Safety",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC363",
+    "name": "Wide Bandgap Devices",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC361",
+    "name": "Validation and Testing Technology",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC370",
+    "name": "Low Power IC Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC362",
+    "name": "VLSI Testing and Design For Testability",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC342",
+    "name": "Mixed Signal IC Design Testing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC334",
+    "name": "Analog IC Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC332",
+    "name": "Advanced Digital Signal Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC366",
+    "name": "Image Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC356",
+    "name": "Speech Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC355",
+    "name": "Software Defined Radio",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC337",
+    "name": "DSP Architecture and Programming",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CCS338",
+    "name": "Computer Vision",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC350",
+    "name": "RF Transceivers",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC353",
+    "name": "Signal Integrity",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC335",
+    "name": "Antenna Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC341",
+    "name": "MICs and RF System Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC338",
+    "name": "EMI/EMC Pre-Compliance Testing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC349",
+    "name": "RFID System Design and Testing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM370",
+    "name": "Wearable Devices",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM352",
+    "name": "Human Assist Devices",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM368",
+    "name": "Therapeutic Equipment",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM355",
+    "name": "Medical Imaging Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM342",
+    "name": "Brain Computer Interface and Applications",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM341",
+    "name": "Body Area Networks",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC359",
+    "name": "Underwater Instrumentation System",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC358",
+    "name": "Underwater Imaging Systems and Image Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC357",
+    "name": "Underwater Communication",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC344",
+    "name": "Ocean Observation Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC360",
+    "name": "Underwater Navigation Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC343",
+    "name": "Ocean Acoustics",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC369",
+    "name": "IoT Processors",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC368",
+    "name": "IoT Based Systems Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC365",
+    "name": "Wireless Sensor Network Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC367",
+    "name": "Industrial IoT and Industry 4.0",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC340",
+    "name": "MEMS Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC339",
+    "name": "Fundamentals of Nanoelectronics",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC347",
+    "name": "Radar Technologies",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC336",
+    "name": "Avionics Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC346",
+    "name": "Positioning and Navigation Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC352",
+    "name": "Satellite Communication",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC348",
+    "name": "Remote Sensing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC351",
+    "name": "Rocketry and Space Mechanics",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC345",
+    "name": "Optical Communication & Networks",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC364",
+    "name": "Wireless Broad Band Networks",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC331",
+    "name": "4G/5G Communication Networks",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC354",
+    "name": "Software Defined Networks",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC371",
+    "name": "Massive MIMO Networks",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CEC333",
+    "name": "Advanced Wireless Communication Techniques",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAS351",
+    "name": "Space Science",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIE351",
+    "name": "Introduction to Industrial Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OBT351",
+    "name": "Food, Nutrition and Health",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCE351",
+    "name": "Environmental and Social Impact Assessment",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEE351",
+    "name": "Renewable Energy System",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEI351",
+    "name": "Introduction to Industrial Instrumentation and Control",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA351",
+    "name": "Graph Theory",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CCS355",
+    "name": "Neural Networks and Deep Learning",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CCW332",
+    "name": "Digital Marketing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIE352",
+    "name": "Resource Management Techniques",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMG351",
+    "name": "Fintech Regulation",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OFD351",
+    "name": "Holistic Nutrition",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "AI3021",
+    "name": "IT in Agricultural System",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEI352",
+    "name": "Introduction to Control Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPY351",
+    "name": "Pharmaceutical Nanotechnology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAE351",
+    "name": "Aviation Management",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CCS342",
+    "name": "DevOps",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CCS361",
+    "name": "Robotic Process Automation",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OHS351",
+    "name": "English for Competitive Examinations",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMG352",
+    "name": "NGOs and Sustainable Development",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMG353",
+    "name": "Democracy and Good Governance",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CME365",
+    "name": "Renewable Energy Technologies",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OME354",
+    "name": "Applied Design Thinking",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MF3003",
+    "name": "Reverse Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPR351",
+    "name": "Sustainable Manufacturing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "AU3791",
+    "name": "Electric and Hybrid Vehicles",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAS352",
+    "name": "Space Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIM351",
+    "name": "Industrial Management",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIE354",
+    "name": "Quality Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OSF351",
+    "name": "Fire Safety Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OML351",
+    "name": "Introduction to Non-Destructive Testing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMR351",
+    "name": "Mechatronics",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "ORA351",
+    "name": "Foundation of Robotics",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAE352",
+    "name": "Fundamentals of Aeronautical Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OGI351",
+    "name": "Remote Sensing Concepts",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAI351",
+    "name": "Urban Agriculture",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEN351",
+    "name": "Drinking Water Supply and Treatment",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEE352",
+    "name": "Electric Vehicle Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEI353",
+    "name": "Introduction to PLC Programming",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCH351",
+    "name": "Nano Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCH352",
+    "name": "Functional Materials",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OFD352",
+    "name": "Traditional Indian Foods",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OFD353",
+    "name": "Introduction to Food Processing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPY352",
+    "name": "IPR for Pharma Industry",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OTT351",
+    "name": "Basics of Textile Finishing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OTT352",
+    "name": "Industrial Engineering for Garment Industry",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OTT353",
+    "name": "Basics of Textile Manufacture",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPE351",
+    "name": "Introduction to Petroleum Refining and Petrochemicals",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CPE334",
+    "name": "Energy Conservation and Management",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPT351",
+    "name": "Basics of Plastics Processing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM348",
+    "name": "Foundation Skills in Integrated Product Development",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM333",
+    "name": "Assistive Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA352",
+    "name": "Operations Research",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA353",
+    "name": "Algebra and Number Theory",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA354",
+    "name": "Linear Algebra",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCE353",
+    "name": "Lean Concepts, Tools and Practices",
+    "category": "Open Elective",
+    "defaultType": "Lab",
+    "semester": null,
+    "regulation": "2021",
+    "defaultLab": "Lean Concepts, Tools and Practices Lab",
+    "continuous": 3
+  },
+  {
+    "code": "OBT352",
+    "name": "Basics of Microbial Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OBT353",
+    "name": "Basics of Biomolecules",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OBT354",
+    "name": "Fundamentals of Cell and Molecular Biology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OHS352",
+    "name": "Project Report Writing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA355",
+    "name": "Advanced Numerical Methods",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA356",
+    "name": "Random Processes",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMA357",
+    "name": "Queuing and Reliability Modelling",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMG354",
+    "name": "Production and Operations Management for Entrepreneurs",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMG355",
+    "name": "Multivariate Data Analysis",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OME352",
+    "name": "Additive Manufacturing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CME343",
+    "name": "New Product Development",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OME355",
+    "name": "Industrial Design & Rapid Prototyping Techniques",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MF3010",
+    "name": "Micro and Precision Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMF354",
+    "name": "Cost Management of Engineering Projects",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "AU3002",
+    "name": "Batteries and Management System",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "AU3008",
+    "name": "Sensors and Actuators",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAS353",
+    "name": "Space Vehicles",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIM352",
+    "name": "Management Science",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIM353",
+    "name": "Production Planning and Control",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OIE353",
+    "name": "Operations Management",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OSF352",
+    "name": "Industrial Hygiene",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OSF353",
+    "name": "Chemical Process Safety",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OML352",
+    "name": "Electrical, Electronic and Magnetic materials",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OML353",
+    "name": "Nanomaterials and applications",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMR352",
+    "name": "Hydraulics and Pneumatics",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMR353",
+    "name": "Sensors",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "ORA352",
+    "name": "Concepts in Mobile Robots",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "MV3501",
+    "name": "Marine Propulsion",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMV351",
+    "name": "Marine Merchant Vessels",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OMV352",
+    "name": "Elements of Marine Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CRA332",
+    "name": "Drone Technologies",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OGI352",
+    "name": "Geographical Information System",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OAI352",
+    "name": "Agriculture Entrepreneurship Development",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEN352",
+    "name": "Biodiversity Conservation",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEE353",
+    "name": "Introduction to control systems",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OEI354",
+    "name": "Introduction to Industrial Automation Systems",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCH353",
+    "name": "Energy Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCH354",
+    "name": "Surface Science",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OFD354",
+    "name": "Fundamentals of Food Engineering",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OFD355",
+    "name": "Food Safety and Quality Regulations",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPY353",
+    "name": "Nutraceuticals",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OTT354",
+    "name": "Basics of Dyeing and Printing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "FT3201",
+    "name": "Fibre Science",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OTT355",
+    "name": "Garment Manufacturing Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPE353",
+    "name": "Industrial safety",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPE354",
+    "name": "Unit Operations in Petro Chemical Industries",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPT352",
+    "name": "Plastic Materials for Engineers",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OPT353",
+    "name": "Properties and Testing of Plastics",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "CBM356",
+    "name": "Medical Informatics",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OCE354",
+    "name": "Basics of Integrated Water Resources Management",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OBT355",
+    "name": "Biotechnology for Waste Management",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OBT356",
+    "name": "Lifestyle Diseases",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "OBT357",
+    "name": "Biotechnology in Health Care",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2021"
+  },
+  {
+    "code": "25MA101",
+    "name": "Calculus and its Applications",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25PH103",
+    "name": "Physics for Electrical Engineering",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25CY102",
+    "name": "Chemistry for Electronics Engineering",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC101",
+    "name": "Problem Solving and C Programming",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS101",
+    "name": "English Language Proficiency",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS102",
+    "name": "Heritage of Tamils",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GE111",
+    "name": "Design Thinking for Innovation",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GE112",
+    "name": "Engineering Graphics",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25BS112",
+    "name": "Basic Sciences Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 1,
+    "regulation": "2025",
+    "defaultLab": "Basic Sciences Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25GEM01",
+    "name": "Induction Programme",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": 1,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MA201",
+    "name": "Complex Variables and Transforms",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25PH204",
+    "name": "Sensors for Engineering Applications",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC201",
+    "name": "Electron Devices",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC202",
+    "name": "Network Analysis",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC203",
+    "name": "Object Oriented Programming with Python",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS201",
+    "name": "Tamils and Technology",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC211",
+    "name": "Devices and Circuits Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 2,
+    "regulation": "2025",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EEC01",
+    "name": "Workplace Communication Skills",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GEM02",
+    "name": "Activity Point Programme I",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": 2,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MA304",
+    "name": "Matrix Theory and Numerical Methods",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC301",
+    "name": "Analog Electronics",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC302",
+    "name": "Digital Electronics",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC303",
+    "name": "Electromagnetic Fields and Waves",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS301",
+    "name": "Project and Finance Management",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC311",
+    "name": "Analog Electronics Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 3,
+    "regulation": "2025",
+    "defaultLab": "Analog Electronics Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EC312",
+    "name": "Digital Electronics Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 3,
+    "regulation": "2025",
+    "defaultLab": "Digital Electronics Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EEC02",
+    "name": "Foundations of Problem Solving",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GEM03",
+    "name": "Activity Point Programme II",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": 3,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MA404",
+    "name": "Probability and Random Processes",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC401",
+    "name": "Linear Integrated Circuits",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC402",
+    "name": "Signals and Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC403",
+    "name": "Computer Architecture",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC404",
+    "name": "Data Structures and Algorithms",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC411",
+    "name": "Linear Integrated Circuits Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 4,
+    "regulation": "2025",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EC412",
+    "name": "Signals and Systems Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 4,
+    "regulation": "2025",
+    "defaultLab": "DSP Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25ECE01",
+    "name": "Mini Project I",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EEC03",
+    "name": "Problem Solving",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GEM04",
+    "name": "Activity Point Programme III",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": 4,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC501",
+    "name": "Analog Communication",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC502",
+    "name": "Embedded Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC503",
+    "name": "Control Systems",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC504",
+    "name": "Computer Networks",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC505",
+    "name": "Antennas and Wave Propagation",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC511",
+    "name": "Analog Communication Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 5,
+    "regulation": "2025",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EC512",
+    "name": "Embedded Systems Design Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 5,
+    "regulation": "2025",
+    "defaultLab": "Embedded Systems Design Laboratory Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25ECE02",
+    "name": "Internship I",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECE03",
+    "name": "Community Project",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EEC04",
+    "name": "Aptitude Skills",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GEM05",
+    "name": "Activity Point Programme IV",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": 5,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC601",
+    "name": "Digital Signal Processing",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC602",
+    "name": "Digital Communication",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC603",
+    "name": "VLSI Design",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC611",
+    "name": "Digital Signal Processing Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 6,
+    "regulation": "2025",
+    "defaultLab": "DSP Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EC612",
+    "name": "VLSI Design Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 6,
+    "regulation": "2025",
+    "defaultLab": "VLSI Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25EC613",
+    "name": "Digital Communication Engineering Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 6,
+    "regulation": "2025",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25ECE04",
+    "name": "Mini Project II",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EEC05",
+    "name": "Enhancing Problem Solving Ability with Code",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2025"
+  },
+  {
+    "code": "25GEM06",
+    "name": "Activity Point Programme V",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": 6,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC701",
+    "name": "RF Passive and Active Circuits",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 7,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC711",
+    "name": "RF and Microwave Engineering Laboratory",
+    "category": "Compulsory",
+    "defaultType": "Lab",
+    "semester": 7,
+    "regulation": "2025",
+    "defaultLab": "Communication & Circuits Lab",
+    "continuous": 3
+  },
+  {
+    "code": "25ECE05",
+    "name": "Project Work I",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 7,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECE06",
+    "name": "Internship II",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 7,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECE07",
+    "name": "Project Work II",
+    "category": "Compulsory",
+    "defaultType": "Main Course",
+    "semester": 8,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP01",
+    "name": "Mixed Signal IC Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP02",
+    "name": "CAD for VLSI",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP03",
+    "name": "Low Power IC Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP04",
+    "name": "VLSI Signal Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP05",
+    "name": "CMOS Analog IC Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP06",
+    "name": "VLSI Testing and Design for Testability",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP07",
+    "name": "Digital Design Verification",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP08",
+    "name": "VLSI Architectures for AI Applications",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP11",
+    "name": "Advanced Digital Signal Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP12",
+    "name": "Digital Image Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP13",
+    "name": "Speech Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP14",
+    "name": "Software Defined Radio",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP15",
+    "name": "Wavelets and its applications",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP16",
+    "name": "Biomedical Signal Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP17",
+    "name": "5G and Beyond",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP18",
+    "name": "Mobile Communication",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP21",
+    "name": "Real Time Operating Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP22",
+    "name": "IoT based System Design",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP23",
+    "name": "Artificial IoT",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP24",
+    "name": "Industrial Internet of Things and Industry 4.0",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP25",
+    "name": "FPGA Based Embedded Systems",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP26",
+    "name": "Robotics",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP27",
+    "name": "Wearable Devices",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP28",
+    "name": "IoT Processors",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP31",
+    "name": "IC Packaging and Electro Magnetic Interference and Compatibility",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP32",
+    "name": "Quantum Computing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP33",
+    "name": "Artificial Intelligence and Machine Learning",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP34",
+    "name": "Natural Language Processing",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP35",
+    "name": "Computer and Machine Vision",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP36",
+    "name": "Avionics",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP37",
+    "name": "Cryptography and Network Security",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECP38",
+    "name": "Information Theory and Coding",
+    "category": "Professional Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM01",
+    "name": "Digital System Design",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM02",
+    "name": "Microprocessors and Microcontrollers",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM03",
+    "name": "Embedded Systems Architecture",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM04",
+    "name": "IoT based System Design",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM05",
+    "name": "IoT Processors",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM06",
+    "name": "Industrial IoT and Industry 4.0",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM07",
+    "name": "Robotics",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECM08",
+    "name": "Mechatronics",
+    "category": "Minor Degree Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECO01",
+    "name": "VLSI Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECO02",
+    "name": "Microcontroller Based System Design",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECO03",
+    "name": "Mechatronics",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECO04",
+    "name": "IoT Architecture and Prototypes",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECO05",
+    "name": "Digital Image Processing",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25ECO06",
+    "name": "Nano Technology",
+    "category": "Open Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC901",
+    "name": "System Verilog Testbenches",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC902",
+    "name": "Universal Verification Methodology",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC903",
+    "name": "Quantum Computing Fundamentals",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC904",
+    "name": "Quantum Cryptography",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC905",
+    "name": "Firmware and Silicon Co-Design for SOC Systems",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC906",
+    "name": "Linux and Scripting for Chip Design Engineers",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC907",
+    "name": "High-Level Synthesis (HLS) For FPGA and ASIC Design",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC908",
+    "name": "Physical Design of VLSI Circuits",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC909",
+    "name": "Advanced Verilog-A and Verilog-AMS Modeling",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC910",
+    "name": "Semiconductor Product Engineering",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC911",
+    "name": "RISC-V CPU Design",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC912",
+    "name": "RTL Synthesis and Scan Insertion Using Fusion Compiler",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC913",
+    "name": "ATPG and Simulation Using EDA Tools",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC914",
+    "name": "IoT Using LoRaWAN Technology",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC915",
+    "name": "Servo Motion Tuning Techniques \u2013 Industrial Applications",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC916",
+    "name": "Digitalization of Manufacturing",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25EC917",
+    "name": "AI in Manufacturing - Industrial Applications",
+    "category": "One-Credit Course",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS211",
+    "name": "Communication Skills for Engineers",
+    "category": "Language Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS212",
+    "name": "Basic German",
+    "category": "Language Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HS213",
+    "name": "Basic Japanese",
+    "category": "Language Elective",
+    "defaultType": "Elective Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC001",
+    "name": "Environmental Science",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC002",
+    "name": "Indian Constitution",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC003",
+    "name": "Industrial Safety",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC004",
+    "name": "Disaster Risk Reduction and Management",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC005",
+    "name": "Indian Knowledge System for Sustainable Human Development",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC006",
+    "name": "Strategic Data Management and Governance",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25MC007",
+    "name": "Professional Ethics",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HSO01",
+    "name": "Physical Education",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  },
+  {
+    "code": "25HSO02",
+    "name": "Yoga and Health",
+    "category": "Mandatory / Non-Credit",
+    "defaultType": "Main Course",
+    "semester": null,
+    "regulation": "2025"
+  }
+]

@@ -1,0 +1,360 @@
+﻿Group,Category,Subject Code,Subject Title,Regulation
+Semester I,Compulsory,IP3151,Induction Programme,2021
+Semester I,Compulsory,HS3152,Professional English - I,2021
+Semester I,Compulsory,MA3151,Matrices and Calculus,2021
+Semester I,Compulsory,PH3151,Engineering Physics,2021
+Semester I,Compulsory,CY3151,Engineering Chemistry,2021
+Semester I,Compulsory,GE3151,Problem Solving and Python Programming,2021
+Semester I,Compulsory,GE3152,Heritage of Tamils,2021
+Semester I,Compulsory,GE3171,Problem Solving and Python Programming Laboratory,2021
+Semester I,Compulsory,BS3171,Physics and Chemistry Laboratory,2021
+Semester I,Compulsory,GE3172,English Laboratory,2021
+Semester II,Compulsory,HS3252,Professional English - II,2021
+Semester II,Compulsory,MA3251,Statistics and Numerical Methods,2021
+Semester II,Compulsory,PH3254,Physics for Electronics Engineering,2021
+Semester II,Compulsory,BE3254,Electrical and Instrumentation Engineering,2021
+Semester II,Compulsory,GE3251,Engineering Graphics,2021
+Semester II,Compulsory,EC3251,Circuit Analysis,2021
+Semester II,Compulsory,GE3252,Tamils and Technology,2021
+Semester II,Compulsory,,NCC Credit Course Level 1,2021
+Semester II,Compulsory,GE3271,Engineering Practices Laboratory,2021
+Semester II,Compulsory,EC3271,Circuits Analysis Laboratory,2021
+Semester II,Compulsory,GE3272,Communication Laboratory / Foreign Language,2021
+Semester III,Compulsory,MA3355,Random Processes and Linear Algebra,2021
+Semester III,Compulsory,CS3353,C Programming and Data Structures,2021
+Semester III,Compulsory,EC3354,Signals and Systems,2021
+Semester III,Compulsory,EC3353,Electronic Devices and Circuits,2021
+Semester III,Compulsory,EC3351,Control Systems,2021
+Semester III,Compulsory,EC3352,Digital Systems Design,2021
+Semester III,Compulsory,EC3361,Electronic Devices and Circuits Laboratory,2021
+Semester III,Compulsory,CS3362,C Programming and Data Structures Laboratory,2021
+Semester III,Compulsory,GE3361,Professional Development,2021
+Semester IV,Compulsory,EC3452,Electromagnetic Fields,2021
+Semester IV,Compulsory,EC3401,Networks and Security,2021
+Semester IV,Compulsory,EC3451,Linear Integrated Circuits,2021
+Semester IV,Compulsory,EC3492,Digital Signal Processing,2021
+Semester IV,Compulsory,EC3491,Communication Systems,2021
+Semester IV,Compulsory,GE3451,Environmental Sciences and Sustainability,2021
+Semester IV,Compulsory,,NCC Credit Course Level 2,2021
+Semester IV,Compulsory,EC3461,Communication Systems Laboratory,2021
+Semester IV,Compulsory,EC3462,Linear Integrated Circuits Laboratory,2021
+Semester V,Compulsory,EC3501,Wireless Communication,2021
+Semester V,Compulsory,EC3552,VLSI and Chip Design,2021
+Semester V,Compulsory,EC3551,Transmission Lines and RF Systems,2021
+Semester V,Compulsory,EC3561,VLSI Laboratory,2021
+Semester VI,Compulsory,ET3491,Embedded Systems and IOT Design,2021
+Semester VI,Compulsory,CS3491,Artificial Intelligence and Machine Learning,2021
+Semester VII / VIII,Compulsory,GE3791,Human Values and Ethics,2021
+Semester VII / VIII,Compulsory,EC3711,Summer internship,2021
+Semester VIII / VII,Compulsory,EC3811,Project Work / Internship,2021
+Elective - Management,Management Elective,GE3751,Principles of Management,2021
+Elective - Management,Management Elective,GE3752,Total Quality Management,2021
+Elective - Management,Management Elective,GE3753,Engineering Economics and Financial Accounting,2021
+Elective - Management,Management Elective,GE3754,Human Resource Management,2021
+Elective - Management,Management Elective,GE3755,Knowledge Management,2021
+Elective - Management,Management Elective,GE3792,Industrial Management,2021
+Mandatory Course I,Mandatory / Non-Credit,MX3081,Introduction to Women and Gender Studies,2021
+Mandatory Course I,Mandatory / Non-Credit,MX3082,Elements of Literature,2021
+Mandatory Course I,Mandatory / Non-Credit,MX3083,Film Appreciation,2021
+Mandatory Course I,Mandatory / Non-Credit,MX3084,Disaster Risk Reduction and Management,2021
+Mandatory Course II,Mandatory / Non-Credit,MX3085,"Well Being with Traditional Practices - Yoga, Ayurveda and Siddha",2021
+Mandatory Course II,Mandatory / Non-Credit,MX3086,History of Science and Technology in India,2021
+Mandatory Course II,Mandatory / Non-Credit,MX3087,Political and Economic Thought for a Humane Society,2021
+Mandatory Course II,Mandatory / Non-Credit,MX3088,"State, Nation Building and Politics in India",2021
+Mandatory Course II,Mandatory / Non-Credit,MX3089,Industrial Safety,2021
+Vertical I - Semiconductor Chip Design and Testing,Professional Elective,CEC363,Wide Bandgap Devices,2021
+Vertical I - Semiconductor Chip Design and Testing,Professional Elective,CEC361,Validation and Testing Technology,2021
+Vertical I - Semiconductor Chip Design and Testing,Professional Elective,CEC370,Low Power IC Design,2021
+Vertical I - Semiconductor Chip Design and Testing,Professional Elective,CEC362,VLSI Testing and Design For Testability,2021
+Vertical I - Semiconductor Chip Design and Testing,Professional Elective,CEC342,Mixed Signal IC Design Testing,2021
+Vertical I - Semiconductor Chip Design and Testing,Professional Elective,CEC334,Analog IC Design,2021
+Vertical II - Signal Processing,Professional Elective,CEC332,Advanced Digital Signal Processing,2021
+Vertical II - Signal Processing,Professional Elective,CEC366,Image Processing,2021
+Vertical II - Signal Processing,Professional Elective,CEC356,Speech Processing,2021
+Vertical II - Signal Processing,Professional Elective,CEC355,Software Defined Radio,2021
+Vertical II - Signal Processing,Professional Elective,CEC337,DSP Architecture and Programming,2021
+Vertical II - Signal Processing,Professional Elective,CCS338,Computer Vision,2021
+Vertical III - RF Technologies,Professional Elective,CEC350,RF Transceivers,2021
+Vertical III - RF Technologies,Professional Elective,CEC353,Signal Integrity,2021
+Vertical III - RF Technologies,Professional Elective,CEC335,Antenna Design,2021
+Vertical III - RF Technologies,Professional Elective,CEC341,MICs and RF System Design,2021
+Vertical III - RF Technologies,Professional Elective,CEC338,EMI/EMC Pre-Compliance Testing,2021
+Vertical III - RF Technologies,Professional Elective,CEC349,RFID System Design and Testing,2021
+Vertical IV - Bio Medical Technologies,Professional Elective,CBM370,Wearable Devices,2021
+Vertical IV - Bio Medical Technologies,Professional Elective,CBM352,Human Assist Devices,2021
+Vertical IV - Bio Medical Technologies,Professional Elective,CBM368,Therapeutic Equipment,2021
+Vertical IV - Bio Medical Technologies,Professional Elective,CBM355,Medical Imaging Systems,2021
+Vertical IV - Bio Medical Technologies,Professional Elective,CBM342,Brain Computer Interface and Applications,2021
+Vertical IV - Bio Medical Technologies,Professional Elective,CBM341,Body Area Networks,2021
+Vertical V - Underwater Technologies,Professional Elective,CEC359,Underwater Instrumentation System,2021
+Vertical V - Underwater Technologies,Professional Elective,CEC358,Underwater Imaging Systems and Image Processing,2021
+Vertical V - Underwater Technologies,Professional Elective,CEC357,Underwater Communication,2021
+Vertical V - Underwater Technologies,Professional Elective,CEC344,Ocean Observation Systems,2021
+Vertical V - Underwater Technologies,Professional Elective,CEC360,Underwater Navigation Systems,2021
+Vertical V - Underwater Technologies,Professional Elective,CEC343,Ocean Acoustics,2021
+Vertical VI - Sensor Technologies and IoT,Professional Elective,CEC369,IoT Processors,2021
+Vertical VI - Sensor Technologies and IoT,Professional Elective,CEC368,IoT Based Systems Design,2021
+Vertical VI - Sensor Technologies and IoT,Professional Elective,CEC365,Wireless Sensor Network Design,2021
+Vertical VI - Sensor Technologies and IoT,Professional Elective,CEC367,Industrial IoT and Industry 4.0,2021
+Vertical VI - Sensor Technologies and IoT,Professional Elective,CEC340,MEMS Design,2021
+Vertical VI - Sensor Technologies and IoT,Professional Elective,CEC339,Fundamentals of Nanoelectronics,2021
+Vertical VII - Space Technologies,Professional Elective,CEC347,Radar Technologies,2021
+Vertical VII - Space Technologies,Professional Elective,CEC336,Avionics Systems,2021
+Vertical VII - Space Technologies,Professional Elective,CEC346,Positioning and Navigation Systems,2021
+Vertical VII - Space Technologies,Professional Elective,CEC352,Satellite Communication,2021
+Vertical VII - Space Technologies,Professional Elective,CEC348,Remote Sensing,2021
+Vertical VII - Space Technologies,Professional Elective,CEC351,Rocketry and Space Mechanics,2021
+Vertical VIII - High Speed Communications,Professional Elective,CEC345,Optical Communication & Networks,2021
+Vertical VIII - High Speed Communications,Professional Elective,CEC364,Wireless Broad Band Networks,2021
+Vertical VIII - High Speed Communications,Professional Elective,CEC331,4G/5G Communication Networks,2021
+Vertical VIII - High Speed Communications,Professional Elective,CEC354,Software Defined Networks,2021
+Vertical VIII - High Speed Communications,Professional Elective,CEC371,Massive MIMO Networks,2021
+Vertical VIII - High Speed Communications,Professional Elective,CEC333,Advanced Wireless Communication Techniques,2021
+Open Elective I,Open Elective,OAS351,Space Science,2021
+Open Elective I,Open Elective,OIE351,Introduction to Industrial Engineering,2021
+Open Elective I,Open Elective,OBT351,"Food, Nutrition and Health",2021
+Open Elective I,Open Elective,OCE351,Environmental and Social Impact Assessment,2021
+Open Elective I,Open Elective,OEE351,Renewable Energy System,2021
+Open Elective I,Open Elective,OEI351,Introduction to Industrial Instrumentation and Control,2021
+Open Elective I,Open Elective,OMA351,Graph Theory,2021
+Open Elective I,Open Elective,CCS355,Neural Networks and Deep Learning,2021
+Open Elective I,Open Elective,CCW332,Digital Marketing,2021
+Open Elective II,Open Elective,OIE352,Resource Management Techniques,2021
+Open Elective II,Open Elective,OMG351,Fintech Regulation,2021
+Open Elective II,Open Elective,OFD351,Holistic Nutrition,2021
+Open Elective II,Open Elective,AI3021,IT in Agricultural System,2021
+Open Elective II,Open Elective,OEI352,Introduction to Control Engineering,2021
+Open Elective II,Open Elective,OPY351,Pharmaceutical Nanotechnology,2021
+Open Elective II,Open Elective,OAE351,Aviation Management,2021
+Open Elective II,Open Elective,CCS342,DevOps,2021
+Open Elective II,Open Elective,CCS361,Robotic Process Automation,2021
+Open Elective III,Open Elective,OHS351,English for Competitive Examinations,2021
+Open Elective III,Open Elective,OMG352,NGOs and Sustainable Development,2021
+Open Elective III,Open Elective,OMG353,Democracy and Good Governance,2021
+Open Elective III,Open Elective,CME365,Renewable Energy Technologies,2021
+Open Elective III,Open Elective,OME354,Applied Design Thinking,2021
+Open Elective III,Open Elective,MF3003,Reverse Engineering,2021
+Open Elective III,Open Elective,OPR351,Sustainable Manufacturing,2021
+Open Elective III,Open Elective,AU3791,Electric and Hybrid Vehicles,2021
+Open Elective III,Open Elective,OAS352,Space Engineering,2021
+Open Elective III,Open Elective,OIM351,Industrial Management,2021
+Open Elective III,Open Elective,OIE354,Quality Engineering,2021
+Open Elective III,Open Elective,OSF351,Fire Safety Engineering,2021
+Open Elective III,Open Elective,OML351,Introduction to Non-Destructive Testing,2021
+Open Elective III,Open Elective,OMR351,Mechatronics,2021
+Open Elective III,Open Elective,ORA351,Foundation of Robotics,2021
+Open Elective III,Open Elective,OAE352,Fundamentals of Aeronautical Engineering,2021
+Open Elective III,Open Elective,OGI351,Remote Sensing Concepts,2021
+Open Elective III,Open Elective,OAI351,Urban Agriculture,2021
+Open Elective III,Open Elective,OEN351,Drinking Water Supply and Treatment,2021
+Open Elective III,Open Elective,OEE352,Electric Vehicle Technology,2021
+Open Elective III,Open Elective,OEI353,Introduction to PLC Programming,2021
+Open Elective III,Open Elective,OCH351,Nano Technology,2021
+Open Elective III,Open Elective,OCH352,Functional Materials,2021
+Open Elective III,Open Elective,OFD352,Traditional Indian Foods,2021
+Open Elective III,Open Elective,OFD353,Introduction to Food Processing,2021
+Open Elective III,Open Elective,OPY352,IPR for Pharma Industry,2021
+Open Elective III,Open Elective,OTT351,Basics of Textile Finishing,2021
+Open Elective III,Open Elective,OTT352,Industrial Engineering for Garment Industry,2021
+Open Elective III,Open Elective,OTT353,Basics of Textile Manufacture,2021
+Open Elective III,Open Elective,OPE351,Introduction to Petroleum Refining and Petrochemicals,2021
+Open Elective III,Open Elective,CPE334,Energy Conservation and Management,2021
+Open Elective III,Open Elective,OPT351,Basics of Plastics Processing,2021
+Open Elective III,Open Elective,CBM348,Foundation Skills in Integrated Product Development,2021
+Open Elective III,Open Elective,CBM333,Assistive Technology,2021
+Open Elective III,Open Elective,OMA352,Operations Research,2021
+Open Elective III,Open Elective,OMA353,Algebra and Number Theory,2021
+Open Elective III,Open Elective,OMA354,Linear Algebra,2021
+Open Elective III,Open Elective,OCE353,"Lean Concepts, Tools and Practices",2021
+Open Elective III,Open Elective,OBT352,Basics of Microbial Technology,2021
+Open Elective III,Open Elective,OBT353,Basics of Biomolecules,2021
+Open Elective III,Open Elective,OBT354,Fundamentals of Cell and Molecular Biology,2021
+Open Elective IV,Open Elective,OHS352,Project Report Writing,2021
+Open Elective IV,Open Elective,OMA355,Advanced Numerical Methods,2021
+Open Elective IV,Open Elective,OMA356,Random Processes,2021
+Open Elective IV,Open Elective,OMA357,Queuing and Reliability Modelling,2021
+Open Elective IV,Open Elective,OMG354,Production and Operations Management for Entrepreneurs,2021
+Open Elective IV,Open Elective,OMG355,Multivariate Data Analysis,2021
+Open Elective IV,Open Elective,OME352,Additive Manufacturing,2021
+Open Elective IV,Open Elective,CME343,New Product Development,2021
+Open Elective IV,Open Elective,OME355,Industrial Design & Rapid Prototyping Techniques,2021
+Open Elective IV,Open Elective,MF3010,Micro and Precision Engineering,2021
+Open Elective IV,Open Elective,OMF354,Cost Management of Engineering Projects,2021
+Open Elective IV,Open Elective,AU3002,Batteries and Management System,2021
+Open Elective IV,Open Elective,AU3008,Sensors and Actuators,2021
+Open Elective IV,Open Elective,OAS353,Space Vehicles,2021
+Open Elective IV,Open Elective,OIM352,Management Science,2021
+Open Elective IV,Open Elective,OIM353,Production Planning and Control,2021
+Open Elective IV,Open Elective,OIE353,Operations Management,2021
+Open Elective IV,Open Elective,OSF352,Industrial Hygiene,2021
+Open Elective IV,Open Elective,OSF353,Chemical Process Safety,2021
+Open Elective IV,Open Elective,OML352,"Electrical, Electronic and Magnetic materials",2021
+Open Elective IV,Open Elective,OML353,Nanomaterials and applications,2021
+Open Elective IV,Open Elective,OMR352,Hydraulics and Pneumatics,2021
+Open Elective IV,Open Elective,OMR353,Sensors,2021
+Open Elective IV,Open Elective,ORA352,Concepts in Mobile Robots,2021
+Open Elective IV,Open Elective,MV3501,Marine Propulsion,2021
+Open Elective IV,Open Elective,OMV351,Marine Merchant Vessels,2021
+Open Elective IV,Open Elective,OMV352,Elements of Marine Engineering,2021
+Open Elective IV,Open Elective,CRA332,Drone Technologies,2021
+Open Elective IV,Open Elective,OGI352,Geographical Information System,2021
+Open Elective IV,Open Elective,OAI352,Agriculture Entrepreneurship Development,2021
+Open Elective IV,Open Elective,OEN352,Biodiversity Conservation,2021
+Open Elective IV,Open Elective,OEE353,Introduction to control systems,2021
+Open Elective IV,Open Elective,OEI354,Introduction to Industrial Automation Systems,2021
+Open Elective IV,Open Elective,OCH353,Energy Technology,2021
+Open Elective IV,Open Elective,OCH354,Surface Science,2021
+Open Elective IV,Open Elective,OFD354,Fundamentals of Food Engineering,2021
+Open Elective IV,Open Elective,OFD355,Food Safety and Quality Regulations,2021
+Open Elective IV,Open Elective,OPY353,Nutraceuticals,2021
+Open Elective IV,Open Elective,OTT354,Basics of Dyeing and Printing,2021
+Open Elective IV,Open Elective,FT3201,Fibre Science,2021
+Open Elective IV,Open Elective,OTT355,Garment Manufacturing Technology,2021
+Open Elective IV,Open Elective,OPE353,Industrial safety,2021
+Open Elective IV,Open Elective,OPE354,Unit Operations in Petro Chemical Industries,2021
+Open Elective IV,Open Elective,OPT352,Plastic Materials for Engineers,2021
+Open Elective IV,Open Elective,OPT353,Properties and Testing of Plastics,2021
+Open Elective IV,Open Elective,CBM370,Wearable Devices,2021
+Open Elective IV,Open Elective,CBM356,Medical Informatics,2021
+Open Elective IV,Open Elective,OCE354,Basics of Integrated Water Resources Management,2021
+Open Elective IV,Open Elective,OBT355,Biotechnology for Waste Management,2021
+Open Elective IV,Open Elective,OBT356,Lifestyle Diseases,2021
+Open Elective IV,Open Elective,OBT357,Biotechnology in Health Care,2021
+Semester I,Compulsory,25MA101,Calculus and its Applications,2025
+Semester I,Compulsory,25PH103,Physics for Electrical Engineering,2025
+Semester I,Compulsory,25CY102,Chemistry for Electronics Engineering,2025
+Semester I,Compulsory,25EC101,Problem Solving and C Programming,2025
+Semester I,Compulsory,25HS101,English Language Proficiency,2025
+Semester I,Compulsory,25HS102,Heritage of Tamils,2025
+Semester I,Compulsory,25GE111,Design Thinking for Innovation,2025
+Semester I,Compulsory,25GE112,Engineering Graphics,2025
+Semester I,Compulsory,25BS112,Basic Sciences Laboratory,2025
+Semester I,Mandatory / Non-Credit,25GEM01,Induction Programme,2025
+Semester II,Compulsory,25MA201,Complex Variables and Transforms,2025
+Semester II,Compulsory,25PH204,Sensors for Engineering Applications,2025
+Semester II,Compulsory,25EC201,Electron Devices,2025
+Semester II,Compulsory,25EC202,Network Analysis,2025
+Semester II,Compulsory,25EC203,Object Oriented Programming with Python,2025
+Semester II,Compulsory,25HS201,Tamils and Technology,2025
+Semester II,Compulsory,25EC211,Devices and Circuits Laboratory,2025
+Semester II,Compulsory,25EEC01,Workplace Communication Skills,2025
+Semester II,Mandatory / Non-Credit,25GEM02,Activity Point Programme I,2025
+Semester III,Compulsory,25MA304,Matrix Theory and Numerical Methods,2025
+Semester III,Compulsory,25EC301,Analog Electronics,2025
+Semester III,Compulsory,25EC302,Digital Electronics,2025
+Semester III,Compulsory,25EC303,Electromagnetic Fields and Waves,2025
+Semester III,Compulsory,25HS301,Project and Finance Management,2025
+Semester III,Compulsory,25EC311,Analog Electronics Laboratory,2025
+Semester III,Compulsory,25EC312,Digital Electronics Laboratory,2025
+Semester III,Compulsory,25EEC02,Foundations of Problem Solving,2025
+Semester III,Mandatory / Non-Credit,25GEM03,Activity Point Programme II,2025
+Semester IV,Compulsory,25MA404,Probability and Random Processes,2025
+Semester IV,Compulsory,25EC401,Linear Integrated Circuits,2025
+Semester IV,Compulsory,25EC402,Signals and Systems,2025
+Semester IV,Compulsory,25EC403,Computer Architecture,2025
+Semester IV,Compulsory,25EC404,Data Structures and Algorithms,2025
+Semester IV,Compulsory,25EC411,Linear Integrated Circuits Laboratory,2025
+Semester IV,Compulsory,25EC412,Signals and Systems Laboratory,2025
+Semester IV,Compulsory,25ECE01,Mini Project I,2025
+Semester IV,Compulsory,25EEC03,Problem Solving,2025
+Semester IV,Mandatory / Non-Credit,25GEM04,Activity Point Programme III,2025
+Semester V,Compulsory,25EC501,Analog Communication,2025
+Semester V,Compulsory,25EC502,Embedded Systems,2025
+Semester V,Compulsory,25EC503,Control Systems,2025
+Semester V,Compulsory,25EC504,Computer Networks,2025
+Semester V,Compulsory,25EC505,Antennas and Wave Propagation,2025
+Semester V,Compulsory,25EC511,Analog Communication Laboratory,2025
+Semester V,Compulsory,25EC512,Embedded Systems Design Laboratory,2025
+Semester V,Compulsory,25ECE02,Internship I,2025
+Semester V,Compulsory,25ECE03,Community Project,2025
+Semester V,Compulsory,25EEC04,Aptitude Skills,2025
+Semester V,Mandatory / Non-Credit,25GEM05,Activity Point Programme IV,2025
+Semester VI,Compulsory,25EC601,Digital Signal Processing,2025
+Semester VI,Compulsory,25EC602,Digital Communication,2025
+Semester VI,Compulsory,25EC603,VLSI Design,2025
+Semester VI,Compulsory,25EC611,Digital Signal Processing Laboratory,2025
+Semester VI,Compulsory,25EC612,VLSI Design Laboratory,2025
+Semester VI,Compulsory,25EC613,Digital Communication Engineering Laboratory,2025
+Semester VI,Compulsory,25ECE04,Mini Project II,2025
+Semester VI,Compulsory,25EEC05,Enhancing Problem Solving Ability with Code,2025
+Semester VI,Mandatory / Non-Credit,25GEM06,Activity Point Programme V,2025
+Semester VII,Compulsory,25EC701,RF Passive and Active Circuits,2025
+Semester VII,Compulsory,25EC711,RF and Microwave Engineering Laboratory,2025
+Semester VII,Compulsory,25ECE05,Project Work I,2025
+Semester VII,Compulsory,25ECE06,Internship II,2025
+Semester VIII,Compulsory,25ECE07,Project Work II,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP01,Mixed Signal IC Design,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP02,CAD for VLSI,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP03,Low Power IC Design,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP04,VLSI Signal Processing,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP05,CMOS Analog IC Design,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP06,VLSI Testing and Design for Testability,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP07,Digital Design Verification,2025
+Vertical I - VLSI Design and Testing,Professional Elective,25ECP08,VLSI Architectures for AI Applications,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP11,Advanced Digital Signal Processing,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP12,Digital Image Processing,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP13,Speech Processing,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP14,Software Defined Radio,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP15,Wavelets and its applications,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP16,Biomedical Signal Processing,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP17,5G and Beyond,2025
+Vertical II - Signal Processing and Wireless Technologies,Professional Elective,25ECP18,Mobile Communication,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP21,Real Time Operating Systems,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP22,IoT based System Design,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP23,Artificial IoT,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP24,Industrial Internet of Things and Industry 4.0,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP25,FPGA Based Embedded Systems,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP26,Robotics,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP27,Wearable Devices,2025
+Vertical III - IoT and Embedded Systems,Professional Elective,25ECP28,IoT Processors,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP31,IC Packaging and Electro Magnetic Interference and Compatibility,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP32,Quantum Computing,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP33,Artificial Intelligence and Machine Learning,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP34,Natural Language Processing,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP35,Computer and Machine Vision,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP36,Avionics,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP37,Cryptography and Network Security,2025
+Vertical IV - Emerging Technologies,Professional Elective,25ECP38,Information Theory and Coding,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM01,Digital System Design,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM02,Microprocessors and Microcontrollers,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM03,Embedded Systems Architecture,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM04,IoT based System Design,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM05,IoT Processors,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM06,Industrial IoT and Industry 4.0,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM07,Robotics,2025
+Minor Degree - Embedded Systems and IoT,Minor Degree Elective,25ECM08,Mechatronics,2025
+Open Elective,Open Elective,25ECO01,VLSI Technology,2025
+Open Elective,Open Elective,25ECO02,Microcontroller Based System Design,2025
+Open Elective,Open Elective,25ECO03,Mechatronics,2025
+Open Elective,Open Elective,25ECO04,IoT Architecture and Prototypes,2025
+Open Elective,Open Elective,25ECO05,Digital Image Processing,2025
+Open Elective,Open Elective,25ECO06,Nano Technology,2025
+One-Credit Courses,One-Credit Course,25EC901,System Verilog Testbenches,2025
+One-Credit Courses,One-Credit Course,25EC902,Universal Verification Methodology,2025
+One-Credit Courses,One-Credit Course,25EC903,Quantum Computing Fundamentals,2025
+One-Credit Courses,One-Credit Course,25EC904,Quantum Cryptography,2025
+One-Credit Courses,One-Credit Course,25EC905,Firmware and Silicon Co-Design for SOC Systems,2025
+One-Credit Courses,One-Credit Course,25EC906,Linux and Scripting for Chip Design Engineers,2025
+One-Credit Courses,One-Credit Course,25EC907,High-Level Synthesis (HLS) For FPGA and ASIC Design,2025
+One-Credit Courses,One-Credit Course,25EC908,Physical Design of VLSI Circuits,2025
+One-Credit Courses,One-Credit Course,25EC909,Advanced Verilog-A and Verilog-AMS Modeling,2025
+One-Credit Courses,One-Credit Course,25EC910,Semiconductor Product Engineering,2025
+One-Credit Courses,One-Credit Course,25EC911,RISC-V CPU Design,2025
+One-Credit Courses,One-Credit Course,25EC912,RTL Synthesis and Scan Insertion Using Fusion Compiler,2025
+One-Credit Courses,One-Credit Course,25EC913,ATPG and Simulation Using EDA Tools,2025
+One-Credit Courses,One-Credit Course,25EC914,IoT Using LoRaWAN Technology,2025
+One-Credit Courses,One-Credit Course,25EC915,Servo Motion Tuning Techniques – Industrial Applications,2025
+One-Credit Courses,One-Credit Course,25EC916,Digitalization of Manufacturing,2025
+One-Credit Courses,One-Credit Course,25EC917,AI in Manufacturing - Industrial Applications,2025
+Language Elective,Language Elective,25HS211,Communication Skills for Engineers,2025
+Language Elective,Language Elective,25HS212,Basic German,2025
+Language Elective,Language Elective,25HS213,Basic Japanese,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC001,Environmental Science,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC002,Indian Constitution,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC003,Industrial Safety,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC004,Disaster Risk Reduction and Management,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC005,Indian Knowledge System for Sustainable Human Development,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC006,Strategic Data Management and Governance,2025
+Mandatory Courses,Mandatory / Non-Credit,25MC007,Professional Ethics,2025
+Mandatory Courses,Mandatory / Non-Credit,25HSO01,Physical Education,2025
+Mandatory Courses,Mandatory / Non-Credit,25HSO02,Yoga and Health,2025

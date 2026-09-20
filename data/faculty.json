@@ -1,0 +1,3344 @@
+{
+  "departments": {
+    "VLSI": [
+      {
+        "id": "FAC_VLSI_1",
+        "name": "Dr. P. Vijayakumar",
+        "department": "VLSI",
+        "designation": "Professor & HoD",
+        "specialization": "VLSI (Low Power), Automation",
+        "email": "pvk@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_2",
+        "name": "Dr. M. Jayasanthi",
+        "department": "VLSI",
+        "designation": "Professor",
+        "specialization": "ASIC Design & Signal Processing",
+        "email": "jayasanthiranjith@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_3",
+        "name": "Dr. S. Sridevi Sathya Priya",
+        "department": "VLSI",
+        "designation": "Associate Professor",
+        "specialization": "VLSI, FPGA Hardware Security",
+        "email": "sridevi.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_4",
+        "name": "Dr. S. Padmapriya",
+        "department": "VLSI",
+        "designation": "Assistant Professor (Sl.G)",
+        "specialization": "Low Power VLSI, Reconfigurable Architectures",
+        "email": "padmapriya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_5",
+        "name": "Dr. M. Deepa",
+        "department": "VLSI",
+        "designation": "Assistant Professor (Sl.G)",
+        "specialization": "Digital Design and VLSI Design",
+        "email": "deepa@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_6",
+        "name": "Dr. K. Paldurai",
+        "department": "VLSI",
+        "designation": "Assistant Professor (Sl.G)",
+        "specialization": "Digital Arithmetic Circuit Design, Mixed Signal IC",
+        "email": "paldurai.k@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_7",
+        "name": "Dr. J. R. Dinesh Kumar",
+        "department": "VLSI",
+        "designation": "Assistant Professor (Sl.G)",
+        "specialization": "VLSI, Low Power Architectures",
+        "email": "dineshkumar.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_VLSI_8",
+        "name": "Dr. M. Priyadharshini",
+        "department": "VLSI",
+        "designation": "Assistant Professor",
+        "specialization": "Hardware Security, VLSI Design, AI",
+        "email": "priyadharshini.ec@psgitech.ac.in"
+      }
+    ],
+    "ECE": [
+      {
+        "id": "FAC_ECE_101",
+        "name": "Dr. P. Vijayakumar",
+        "department": "ECE",
+        "designation": "Professor & HoD",
+        "specialization": "VLSI (Low Power), Automation",
+        "email": "pvk@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_102",
+        "name": "Dr. M. Jayasanthi",
+        "department": "ECE",
+        "designation": "Professor",
+        "specialization": "ASIC Design and Signal processing",
+        "email": "jayasanthiranjith@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_103",
+        "name": "Dr. C. Arvind",
+        "department": "ECE",
+        "designation": "Professor",
+        "specialization": "Signal Processing & Communication Systems",
+        "email": "arvind@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_104",
+        "name": "Dr. G. Santhanamari",
+        "department": "ECE",
+        "designation": "Associate Professor",
+        "specialization": "Image Processing, Embedded systems",
+        "email": "gsm@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_105",
+        "name": "Dr. D. Selvakumar",
+        "department": "ECE",
+        "designation": "Associate Professor",
+        "specialization": "Nanoelectronics, Embedded systems",
+        "email": "selvakumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_106",
+        "name": "Dr. B. A. Sapna",
+        "department": "ECE",
+        "designation": "Associate Professor",
+        "specialization": "Communication Systems",
+        "email": "sapna.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_107",
+        "name": "Dr. S. Sridevi Sathya Priya",
+        "department": "ECE",
+        "designation": "Associate Professor",
+        "specialization": "VLSI, FPGA based Hardware Security, Cryptographic Hardware Architecture , PUF based Security Systems",
+        "email": "sridevi.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_108",
+        "name": "Dr. S. Padmapriya",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Low Power VLSI, Reconfigurable Architectures, Signal Processing and Computer Vision",
+        "email": "padmapriya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_109",
+        "name": "Dr. M. Jothibasu",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Digital Signal Processing, Image processing",
+        "email": "jothibasu@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_110",
+        "name": "Dr. M. Deepa",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Digital Design and VLSI Design",
+        "email": "deepa@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_111",
+        "name": "Dr. K. Paldurai",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Digital Arithmetic Circuit Design, Mixed Signal IC Design",
+        "email": "paldurai.k@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_112",
+        "name": "Dr. T. Pravinraj",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "MEMS, VLSI Process Technology, Solver Development",
+        "email": "pravinraj@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_113",
+        "name": "Dr. P. Sridhar",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Signal Processing, Image Processing, Computer Vision",
+        "email": "sridhar.p@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_114",
+        "name": "Dr. S. P. Cowsigan",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "RF, Microwave and Antenna Design",
+        "email": "cowsigan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_115",
+        "name": "Dr. J. S. Sujin",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Image Processing, Signal Processing, Robotics",
+        "email": "sujin@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_116",
+        "name": "Dr. P. Sakthivel",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Wireless Technologies",
+        "email": "drspvel.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_117",
+        "name": "Dr. J. R. Dinesh Kumar",
+        "department": "ECE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "VLSI, Low Power Architectures, Biomedical Signal Processing and Machine Learning",
+        "email": "dineshkumar.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_118",
+        "name": "Dr. B. Tharini",
+        "department": "ECE",
+        "designation": "Assistant Professor",
+        "specialization": "MIMO Antennas, Wireless Communication",
+        "email": "tharini@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_119",
+        "name": "Dr. M. Priyadharshini",
+        "department": "ECE",
+        "designation": "Assistant Professor",
+        "specialization": "Hardware Security, VLSI Design, AI",
+        "email": "priyadharshini.ec@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_120",
+        "name": "Dr. S. Jayanthi Sree",
+        "department": "ECE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Biomedical Image Processing, VLSI Design, ML",
+        "email": "jayanthisree@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_121",
+        "name": "Mr. R. RajaRaja",
+        "department": "ECE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "VLSI Design",
+        "email": "rajaraja@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_122",
+        "name": "Ms. N. Susithra",
+        "department": "ECE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "VLSI Design, VLSI Signal Processing",
+        "email": "susithra@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_123",
+        "name": "Dr. M. Sowmiya",
+        "department": "ECE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Communication Systems, Biomedical Signal Processing, Machine Learning",
+        "email": "sowmiya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_124",
+        "name": "Ms. D.Archana",
+        "department": "ECE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Applied Electronics",
+        "email": "archana@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ECE_125",
+        "name": "Dr. N. Iswarya",
+        "department": "ECE",
+        "designation": "Assistant Professor",
+        "specialization": "Communication Systems",
+        "email": "iswarya@psgitech.ac.in"
+      }
+    ],
+    "CSE": [
+      {
+        "id": "FAC_CSE_126",
+        "name": "Dr. B. Gomathy",
+        "department": "CSE",
+        "designation": "Professor & HOD (i/c)",
+        "specialization": "Data Analytics",
+        "email": "drgomathy@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_127",
+        "name": "Dr. R. Manimegalai",
+        "department": "CSE",
+        "designation": "Professor",
+        "specialization": "Distributed Computing VLSI Algorithms, IoT and Security",
+        "email": "drrm@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_128",
+        "name": "Dr. S. Kalarani",
+        "department": "CSE",
+        "designation": "HoD (i/c)",
+        "specialization": "Cloud Computing, Deep Learning",
+        "email": "kalarani@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_129",
+        "name": "Dr. R. Manjula Devi",
+        "department": "CSE",
+        "designation": "Professor",
+        "specialization": "Machine Learning, Image Processing, Soft Computing, AI",
+        "email": "manjuladevi.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_130",
+        "name": "Mr. V. Harikrishnan",
+        "department": "CSE",
+        "designation": "Professor of Practice",
+        "specialization": "Project Management, ERP",
+        "email": "harikrishnan.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_131",
+        "name": "Dr. I. Kala",
+        "department": "CSE",
+        "designation": "Associate Professor",
+        "specialization": "Mobile AdHoc Network and Database Management System",
+        "email": "kala@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_132",
+        "name": "Dr. K. Malarvizhi",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Machine Learning, Deep Learning",
+        "email": "malarvizhi@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_133",
+        "name": "Dr. T. Kalai Selvi",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Internet of Things (IoT), Data Management",
+        "email": "tks.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_134",
+        "name": "Dr. M. N. Kavitha",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Machine Learning, Deep Learning & Operating System",
+        "email": "kavitha@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_135",
+        "name": "Dr. A. Sunitha Nandhini",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Artifical Intelligence, Internet of Things",
+        "email": "asn@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_136",
+        "name": "Ms. M. Kirubadevi",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Software Engineering",
+        "email": "kirubadevi@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_137",
+        "name": "Dr. M. Sangeetha",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Deep Learning, Graph Neural Networks",
+        "email": "sangeetha.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_138",
+        "name": "Dr. M. Karthigha",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Network Security, Augmented Reality & Virtual Reality",
+        "email": "karthigha@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_139",
+        "name": "Ms. P. Jeevitha",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Machine Learning",
+        "email": "jeevithap@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_140",
+        "name": "Dr. S. S. Saranya",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Security, Blockchain",
+        "email": "saranya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_141",
+        "name": "Dr. Sathya Balaji",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Machine Learning, Artificial Intelligence",
+        "email": "sathyabalaji@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_142",
+        "name": "Ms. P. Shanmugapriya",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "DBMS, Machine Learning , Deep Learning",
+        "email": "shanmugapriya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_143",
+        "name": "Lt. V. Vilasini",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Data Science and Data Analytics",
+        "email": "vilasini@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_144",
+        "name": "Dr. S. Vaishnavi",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Data Science, Machine Learning",
+        "email": "vaishnavis@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_145",
+        "name": "Dr. V. C. Maha Vishnu",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Video Data Mining and Image Analytics",
+        "email": "mvvc@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_146",
+        "name": "Ms. P. Gouthami",
+        "department": "CSE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Machine Learning, Deep Learning",
+        "email": "gouthami.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_147",
+        "name": "Ms. S. Leela",
+        "department": "CSE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Deep Learning",
+        "email": "leela.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_148",
+        "name": "Mr. B. Ajith Jerom",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "specialization": "Data Science and Data Analytics",
+        "email": "ajith@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_149",
+        "name": "Ms. C. Divya Gowri",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "specialization": "Data Mining, Database Management System",
+        "email": "divya.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_150",
+        "name": "Mr. S. Joemathew",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "specialization": "Software Testing, AI Testing",
+        "email": "joemathews.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_151",
+        "name": "Ms. S. V. Sowthika",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "specialization": "Machine Learning, DBMS",
+        "email": "sowthika.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_152",
+        "name": "Ms. R. Hemapriya",
+        "department": "CSE",
+        "designation": "Assistant Professor",
+        "specialization": "DBMS, Machine Learning",
+        "email": "hemapriya.cs@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_153",
+        "name": "Dr. B. Gomathi",
+        "department": "CSE",
+        "designation": "Associate Professor",
+        "specialization": "Cloud Computing, Machine Learning, Optimization Techniques",
+        "email": "gomathi@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_154",
+        "name": "Dr. P. Anantha Prabha",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Deep Learning, Cloud Computing",
+        "email": "ap@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_155",
+        "name": "Mr. K. S. Giriprasath",
+        "department": "CSE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Cyber security, Network Security",
+        "email": "giriprasath@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CSE_156",
+        "name": "Dr. G. Sudha Sadasivam",
+        "department": "CSE",
+        "designation": "Visiting Professor",
+        "specialization": "Big Data Analytics, Privacy Preservation",
+        "email": ""
+      }
+    ],
+    "AI & DS": [
+      {
+        "id": "FAC_AI _157",
+        "name": "Dr. S. Kalarani",
+        "department": "AI & DS",
+        "designation": "HoD (i/c)",
+        "specialization": "Cloud Computing, Deep Learning",
+        "email": "kalarani@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _158",
+        "name": "Dr. S. Lokesh",
+        "department": "AI & DS",
+        "designation": "Professor",
+        "specialization": "AI, Human-Computer Interaction, Data Science",
+        "email": "lokesh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _159",
+        "name": "Dr. R. Priya Vaijayanthi",
+        "department": "AI & DS",
+        "designation": "Associate Professor",
+        "specialization": "Machine Learning, Deep Learning, Generative AI",
+        "email": "rpv.ai@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _160",
+        "name": "Dr. S. Sangeetha",
+        "department": "AI & DS",
+        "designation": "Associate Professor",
+        "specialization": "Responsible AI, Deep Learning, Generative AI",
+        "email": "sangeetha@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _161",
+        "name": "Mr. R. Muthu Kumar",
+        "department": "AI & DS",
+        "designation": "Associate Professor of Practice",
+        "specialization": "DevOps, Technology Modernization",
+        "email": "muthukumar.ai@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _162",
+        "name": "Mr. C. Santhosh",
+        "department": "AI & DS",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Data Science, Big Data Analysis",
+        "email": "santhosh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _163",
+        "name": "Ms. S. Dhivya",
+        "department": "AI & DS",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Database management systems, Fullstack development, Machine Learning",
+        "email": "dhivya.ai@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _164",
+        "name": "Ms. G. Suganya",
+        "department": "AI & DS",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "DevOps, Soft Computing",
+        "email": "suganya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _165",
+        "name": "Ms. P. Gomathi",
+        "department": "AI & DS",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Deep Learning, Computer Networks, Data Science",
+        "email": "gomathi.ai@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _166",
+        "name": "Ms. P. Nirmala Priyadharshini",
+        "department": "AI & DS",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Cloud Computing, Object Oriented Programming",
+        "email": "nirmala.ai@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _167",
+        "name": "Ms. E. Kalaivani",
+        "department": "AI & DS",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Machine Learning",
+        "email": "kalaivani.ai@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _168",
+        "name": "Ms. K. Sathya",
+        "department": "AI & DS",
+        "designation": "Assistant Professor",
+        "specialization": "Machine Learning, Deep Learning",
+        "email": "sathya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _169",
+        "name": "Ms. K. Santhiya",
+        "department": "AI & DS",
+        "designation": "Assistant Professor",
+        "specialization": "Data Structures, Machine Learning, Deep Learning",
+        "email": "santhiya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_AI _170",
+        "name": "Ms. R. S. Niranjana",
+        "department": "AI & DS",
+        "designation": "Assistant Professor",
+        "specialization": "Deep Learning, Cybersecurity, Data Structures",
+        "email": "niranjana@psgitech.ac.in"
+      }
+    ],
+    "EEE": [
+      {
+        "id": "FAC_EEE_171",
+        "name": "Dr. C. S. Subash Kumar",
+        "department": "EEE",
+        "designation": "Associate Professor & HOD (i/c)",
+        "specialization": "Electrical Machines",
+        "email": "css@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_172",
+        "name": "Dr. C. L. Vasu",
+        "department": "EEE",
+        "designation": "Professor",
+        "specialization": "Embedded Systems",
+        "email": "clv@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_173",
+        "name": "Dr. E. Malar",
+        "department": "EEE",
+        "designation": "Professor",
+        "specialization": "Biomedical Instrumentation and MI Processing",
+        "email": "emr@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_174",
+        "name": "Dr. M. Mohamed Iqbal",
+        "department": "EEE",
+        "designation": "Professor",
+        "specialization": "Power System and Renewable Energy",
+        "email": "iqbal@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_175",
+        "name": "Dr. J. Baskaran",
+        "department": "EEE",
+        "designation": "Professor",
+        "specialization": "Power System Engineering, Distributed Generation, Renewable Energy",
+        "email": "baskaran@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_176",
+        "name": "Dr. D. Sivakumar",
+        "department": "EEE",
+        "designation": "Visiting Professor",
+        "specialization": "Instrumentation & Process Control",
+        "email": "sivakumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_177",
+        "name": "Dr. N. Bharathi",
+        "department": "EEE",
+        "designation": "Professor",
+        "specialization": "Process Control, Intelligent Controllers",
+        "email": "bharathi.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_178",
+        "name": "Mr. V. Sivaganesh",
+        "department": "EEE",
+        "designation": "Professor of Practice",
+        "specialization": "Applied Electronics",
+        "email": "sivaganesh.v@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_179",
+        "name": "Dr. B. Adhavan",
+        "department": "EEE",
+        "designation": "Associate Professor",
+        "specialization": "Power Electronics and Drives",
+        "email": "adhavan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_180",
+        "name": "Dr. M. Sathiyanathan",
+        "department": "EEE",
+        "designation": "Associate Professor",
+        "specialization": "Power Electronics.Drives",
+        "email": "sathiyangm@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_181",
+        "name": "Dr. E. Govinda Kumar",
+        "department": "EEE",
+        "designation": "Associate Professor",
+        "specialization": "Control Systems, Sliding mode control, Controller optimization",
+        "email": "govindakumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_182",
+        "name": "Dr. M. Elenchezhiyan",
+        "department": "EEE",
+        "designation": "Associate Professor",
+        "specialization": "Control & Instrumentation",
+        "email": "elen.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_183",
+        "name": "Dr. S. Julius Fusic",
+        "department": "EEE",
+        "designation": "Associate Professor",
+        "specialization": "Localization and Navigation of Autonomous Systems",
+        "email": "sjf.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_184",
+        "name": "Dr. R. Vijay",
+        "department": "EEE",
+        "designation": "Associate Professor",
+        "specialization": "Power Systems Engineering, Applications of AI & ML in EEE, Green Hydrogen, Electric Vehicle Routing",
+        "email": "vijay.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_185",
+        "name": "Dr. M. Senthilkumar",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Embedded System",
+        "email": "senthilkumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_186",
+        "name": "Mr. S. Ravikrishna",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Electrical Machines",
+        "email": "ravikrishna@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_187",
+        "name": "Dr. C. V. Pavithra",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Electrical Machines",
+        "email": "pavithra@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_188",
+        "name": "Dr. B. Suresh",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Power Electronics and Drives",
+        "email": "suresh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_189",
+        "name": "Dr. S. Arivoli",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Control Systems and Instrumentation",
+        "email": "arivoli@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_190",
+        "name": "Dr. A. P. Roger Rozario",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Internet of Things, AI & ML",
+        "email": "rogerrozario@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_191",
+        "name": "Dr. H. Ramesh",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Electrical Drives and Control, Motion Control Applications, Industry 4.0, Robotics",
+        "email": "ramesh.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_192",
+        "name": "Dr. K. Bavithra",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Power systems engineering (Restructuring)",
+        "email": "bavithra@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_193",
+        "name": "Ms. R. Divya",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Power Systems",
+        "email": "divya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_194",
+        "name": "Dr. G. Sophia Jasmine",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Power Systems Engineering",
+        "email": "sophia.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_195",
+        "name": "Dr. S. Karthikeyan",
+        "department": "EEE",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Power Electronics and Drives",
+        "email": "karthikeyans.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_196",
+        "name": "Dr. A. Jeyashree",
+        "department": "EEE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Power Electronics & Drives.Solar Energy",
+        "email": "jeyashreea@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_197",
+        "name": "Dr. V. R. Kavya",
+        "department": "EEE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Process Control",
+        "email": "kavya.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_198",
+        "name": "Dr. P. R. Jain Vinith",
+        "department": "EEE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Power System Planning and Operation, Energy Management",
+        "email": "jainvinith.ee@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_EEE_199",
+        "name": "Mr. V. Srimaheswaran",
+        "department": "EEE",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Power Electronics & Drives",
+        "email": "srimaheswaran.ee@psgitech.ac.in"
+      }
+    ],
+    "Civil": [
+      {
+        "id": "FAC_CIV_200",
+        "name": "Dr. P. Muthupriya",
+        "department": "Civil",
+        "designation": "Professor & HoD",
+        "specialization": "Structural Engineering",
+        "email": "muthupriya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_201",
+        "name": "Dr. M. I. Abdul Aleem",
+        "department": "Civil",
+        "designation": "Professor",
+        "specialization": "Structural Engineering",
+        "email": "aleem@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_202",
+        "name": "Dr. M. Arun",
+        "department": "Civil",
+        "designation": "Professor",
+        "specialization": "Structural Engineering",
+        "email": "arun@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_203",
+        "name": "Dr. R. Rajkumar",
+        "department": "Civil",
+        "designation": "Associate Professor",
+        "specialization": "Infrastructure Engineering",
+        "email": "rajkumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_204",
+        "name": "Dr. V. Navin Ganesh",
+        "department": "Civil",
+        "designation": "Associate Professor",
+        "specialization": "Transportation Engineering and Management",
+        "email": "navinganesh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_205",
+        "name": "Mr. S. Elayaraja",
+        "department": "Civil",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Geotechnical Engineering",
+        "email": "elayaraja@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_206",
+        "name": "Dr. M. R. Ezhil Kumar",
+        "department": "Civil",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Environmental Management",
+        "email": "ezhilkumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_207",
+        "name": "Mr. P. Balakumar",
+        "department": "Civil",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Infrastructure Engineering",
+        "email": "pbkciv@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_208",
+        "name": "Dr. J. Karthick",
+        "department": "Civil",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Structural Engineering",
+        "email": "karthick@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_209",
+        "name": "Dr. K. Govarthanambikai",
+        "department": "Civil",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Infrastructure Engineering",
+        "email": "kgk@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_210",
+        "name": "Ms. V. Selvapriya",
+        "department": "Civil",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Structural Engineering",
+        "email": "vsp@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_211",
+        "name": "Mr. K. Sakthi Prasanth",
+        "department": "Civil",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Structural Engineering",
+        "email": "ksp@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_212",
+        "name": "Ms. R. Nidhya",
+        "department": "Civil",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Structural Engineering",
+        "email": "nidhya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_213",
+        "name": "Dr. P. A. Sivasubramani",
+        "department": "Civil",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Infrastructure Engineer",
+        "email": "sivasubramani@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_214",
+        "name": "Dr. R. Balaji",
+        "department": "Civil",
+        "designation": "Assistant Professor",
+        "specialization": "Environmental Engineering",
+        "email": "balaji.civil@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CIV_215",
+        "name": "Dr. N. Divyah",
+        "department": "Civil",
+        "designation": "Assistant Professor",
+        "specialization": "Structural Engineering",
+        "email": "divyah@psgitech.ac.in"
+      }
+    ],
+    "Mathematics": [
+      {
+        "id": "FAC_MAT_216",
+        "name": "Dr. S. Aramuthakannan",
+        "department": "Mathematics",
+        "designation": "Professor & HoD (i/c)",
+        "specialization": "Optimization Techniques",
+        "email": "sakannan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_217",
+        "name": "Dr. M. Venkatesan",
+        "department": "Mathematics",
+        "designation": "Professor",
+        "specialization": "Solid Mechanics",
+        "email": "coe@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_218",
+        "name": "Dr. R. S. Sankara Subramanian",
+        "department": "Mathematics",
+        "designation": "Professor",
+        "specialization": "Cryptography",
+        "email": "rss@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_219",
+        "name": "Dr. P. Chinnaraj",
+        "department": "Mathematics",
+        "designation": "Associate Professor",
+        "specialization": "Algebra, Probability and Queueing Theory",
+        "email": "chinnaraj@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_220",
+        "name": "Dr. V. Chitra",
+        "department": "Mathematics",
+        "designation": "Associate Professor",
+        "specialization": "Graph Theory - Graph Decompositions & Factorization",
+        "email": "chitra@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_221",
+        "name": "Mr. P. Gajendran",
+        "department": "Mathematics",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Algebra Complex Analysis",
+        "email": "gajendranp@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_222",
+        "name": "Dr. S. Anitha",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Fluid Dynamics, Heat exchange",
+        "email": "anitha@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_223",
+        "name": "Dr. J. Grayna",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Differential Equations",
+        "email": "grayna@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_224",
+        "name": "Dr. E. Vignesh",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Computational fluid dynamics, Heat transfer",
+        "email": "vignesh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_225",
+        "name": "Dr. J. Prabu",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Coding Theory",
+        "email": "prabu@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_226",
+        "name": "Dr. T. P. Sandhiya",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Graph Theory",
+        "email": "sandhiya@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_227",
+        "name": "Dr. M. S. Surendar",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Nonlinear Dynamics in Biology",
+        "email": "surendar.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_228",
+        "name": "Dr. M. Kalaiselvi",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Epidemic Model, Complex Networks, Mathematical Biology",
+        "email": "kalaiselvi.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_229",
+        "name": "Dr. D. Vignesh",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Wavelet Transform, Machine Learning",
+        "email": "vignesh.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_230",
+        "name": "Dr. Y. Mary Christin Otto",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Functional Analysis",
+        "email": "ymco.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_231",
+        "name": "Dr. S. Duraimurugan",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Graph theory",
+        "email": "durai.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MAT_232",
+        "name": "Dr. A. R. Gokul",
+        "department": "Mathematics",
+        "designation": "Assistant Professor",
+        "specialization": "Response Surface Methodology, Probability and statistics",
+        "email": "gokul.sh@psgitech.ac.in"
+      }
+    ],
+    "Physics": [
+      {
+        "id": "FAC_PHY_233",
+        "name": "Dr. S. Maruthamuthu",
+        "department": "Physics",
+        "designation": "Professor & HoD (i/c)",
+        "specialization": "Dye sensitized solar cells, Energy storage devices, Thin films",
+        "email": "maruthamuthu@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_234",
+        "name": "Dr. D. Thangaraju",
+        "department": "Physics",
+        "designation": "Associate Professor",
+        "specialization": "Nano Biotechnology and Bioimageing",
+        "email": "thangaraju@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_235",
+        "name": "Dr. T. K. Abilasha Ramadhas",
+        "department": "Physics",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Materials Science, Non-Destructive Testing",
+        "email": "abilasha@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_236",
+        "name": "Dr. G. Bhavani",
+        "department": "Physics",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Luminescence, Nanomaterials",
+        "email": "bhavani@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_237",
+        "name": "Dr. P. K. Kannan",
+        "department": "Physics",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Inorganic thin film solar cell, Perovskite, High entropy oxides",
+        "email": "kannan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_238",
+        "name": "Dr. Deepannita Chakraborty",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Dilute Magnetic oxide Thin films",
+        "email": "deepannita@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_239",
+        "name": "Dr. K. Mariselvam",
+        "department": "Physics",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Spectroscopy, Radiation detection, Glasses, Perovskites",
+        "email": "mariselvam@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_240",
+        "name": "Dr. S. Gowrishankar",
+        "department": "Physics",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Thin Films, Nanomaterials for Optoelectronic Applications",
+        "email": "gowrishankar.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_241",
+        "name": "Dr. P. Mathan Kumar",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Thin films, Dye Sensitized Solar Cells, Electrochemical storage and conversion",
+        "email": "mathankumar.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_242",
+        "name": "Dr. Riza Paul",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Photocatalysis, Nanomaterials, Photoelectrochemical studies",
+        "email": "rizapaul.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_PHY_243",
+        "name": "Dr. T. Abhijith",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Nanoscience, Experimental Condensed Matter Physics",
+        "email": ""
+      },
+      {
+        "id": "FAC_PHY_244",
+        "name": "Dr. M. Veena",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Material Science, Electrocatalysis, Nanosensor",
+        "email": ""
+      },
+      {
+        "id": "FAC_PHY_245",
+        "name": "Dr. Sebin Devasia",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Computational Materials Science, Photovoltaics, Photodetectors",
+        "email": ""
+      },
+      {
+        "id": "FAC_PHY_246",
+        "name": "Dr. P. Atheek",
+        "department": "Physics",
+        "designation": "Assistant Professor",
+        "specialization": "Thin Film, Piezoelectric Materials",
+        "email": ""
+      },
+      {
+        "id": "FAC_PHY_247",
+        "name": "Dr. S. Gunasekaran",
+        "department": "Physics",
+        "designation": "Post-Doctoral Fellow",
+        "specialization": "Materials science, Energy storage",
+        "email": "gunasekaran.sh@psgitech.ac.in"
+      }
+    ],
+    "Chemistry": [
+      {
+        "id": "FAC_CHE_248",
+        "name": "Dr. G. Latha",
+        "department": "Chemistry",
+        "designation": "Professor & HoD",
+        "specialization": "Polymer Chemistry",
+        "email": "latha@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_249",
+        "name": "Dr. K. Balaji",
+        "department": "Chemistry",
+        "designation": "Professor",
+        "specialization": "Polymer Chemistry",
+        "email": "balaji@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_250",
+        "name": "Dr. A. Kumaravel",
+        "department": "Chemistry",
+        "designation": "Associate Professor",
+        "specialization": "Electro Chemistry",
+        "email": "kumaravel@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_251",
+        "name": "Dr. S. Devaraju",
+        "department": "Chemistry",
+        "designation": "Associate Professor",
+        "specialization": "Polymer Nanocomposites and Hybrid Materials",
+        "email": "devaraju@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_252",
+        "name": "Dr. S. Chandirasekar",
+        "department": "Chemistry",
+        "designation": "Associate Professor",
+        "specialization": "Nanoscience, Polymer Chemistry",
+        "email": ""
+      },
+      {
+        "id": "FAC_CHE_253",
+        "name": "Dr. R. Sasikumar",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Polymer Science",
+        "email": "sasikumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_254",
+        "name": "Dr. G. Sathiyan",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Organic Chemistry, Organic/Perovskite Solar Cells, Chemosensor Polymers",
+        "email": ""
+      },
+      {
+        "id": "FAC_CHE_255",
+        "name": "Dr. P. Pradeepkumar",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Polymer Chemistry",
+        "email": "pradeepkumar.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_256",
+        "name": "Dr. M. Mayakkannan",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Nanomaterials for Energy Storage Applications",
+        "email": "maya.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_257",
+        "name": "Dr. G. Alagarsamy",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Critical Metal Recovery, Wastewater Treatment",
+        "email": "asg.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_258",
+        "name": "Dr. S. Manigandan",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Polymer Chemistry",
+        "email": "manigandan.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_259",
+        "name": "Dr. V. Naveensubramaniam",
+        "department": "Chemistry",
+        "designation": "Assistant Professor",
+        "specialization": "Materials Chemistry",
+        "email": "naveenv.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_260",
+        "name": "Dr. S. Prabhu",
+        "department": "Chemistry",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Photo/Electrocatalysis for Energy Applications",
+        "email": "prabhu@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_261",
+        "name": "Dr. K Arunkumar",
+        "department": "Chemistry",
+        "designation": "Assistant Professor",
+        "specialization": "Fuel Cell, Polymer Chemistry",
+        "email": "arunkumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_CHE_262",
+        "name": "Dr. A. V. Rajalakshmi",
+        "department": "Chemistry",
+        "designation": "Assistant Professor",
+        "specialization": "Fluorescent Sensors, Organic Chemistry",
+        "email": "rajalakshmi@psgitech.ac.in"
+      }
+    ],
+    "English": [
+      {
+        "id": "FAC_ENG_263",
+        "name": "Dr. K. Pramila",
+        "department": "English",
+        "designation": "Professor & HOD",
+        "specialization": "English Literature, English Language Teaching and Softskills",
+        "email": "pramila@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ENG_264",
+        "name": "Dr. S. Gandhimathi",
+        "department": "English",
+        "designation": "Associate Professor",
+        "specialization": "English Language Teaching, English Literature and Educational Psychology",
+        "email": "gandhimathi@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ENG_265",
+        "name": "Dr. R. Ravindran",
+        "department": "English",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Comparative Literature",
+        "email": "ravindran@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ENG_266",
+        "name": "Dr. A. Muthukannan",
+        "department": "English",
+        "designation": "Assistant Professor",
+        "specialization": "American Literature",
+        "email": "muthukannan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ENG_267",
+        "name": "Dr. V. Sutharshan",
+        "department": "English",
+        "designation": "Assistant Professor",
+        "specialization": "ELT and Fiction",
+        "email": "sutharshan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ENG_268",
+        "name": "Dr. K. Satheesh Kumar",
+        "department": "English",
+        "designation": "Assistant Professor",
+        "specialization": "English Language Teaching, Comparative Literature, & Public Speaking",
+        "email": "sk.sh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_ENG_269",
+        "name": "Dr. C. Ganesh",
+        "department": "English",
+        "designation": "Assistant Professor",
+        "specialization": "Indian Writing in English, Comparative Literature",
+        "email": "ganesh.sh@psgitech.ac.in"
+      }
+    ],
+    "Humanities": [
+      {
+        "id": "FAC_HUM_270",
+        "name": "Dr. R. Ravikumar",
+        "department": "Humanities",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Agribusiness Management",
+        "email": "ravikumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_HUM_271",
+        "name": "Dr. R. Uma",
+        "department": "Humanities",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Human Resource Management",
+        "email": "uma@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_HUM_272",
+        "name": "Dr. K. Selvamohana",
+        "department": "Humanities",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Management (Marketing & Finance)",
+        "email": "selvamohana@psgitech.ac.in"
+      }
+    ],
+    "Tamil": [
+      {
+        "id": "FAC_TAM_273",
+        "name": "Mr. T. Prakash",
+        "department": "Tamil",
+        "designation": "Assistant Professor - Tamil",
+        "specialization": "Sangam Literature",
+        "email": "prakash@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_TAM_274",
+        "name": "Ms. S. Lubuna Leilani",
+        "department": "Tamil",
+        "designation": "Assistant Professor - Tamil",
+        "specialization": "Tamil Literature",
+        "email": "lls.sh@psgitech.ac.in"
+      }
+    ],
+    "Mechanical": [
+      {
+        "id": "FAC_MEC_275",
+        "name": "Dr. P. Manoj Kumar",
+        "department": "Mechanical",
+        "designation": "Professor & HOD",
+        "specialization": "Heat Transfer Energy",
+        "email": "manoj@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_276",
+        "name": "Dr. P. V. Mohanram",
+        "department": "Mechanical",
+        "designation": "Professor",
+        "specialization": "Mechanical Engineering",
+        "email": "secretary@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_277",
+        "name": "Dr. G. Chandramohan",
+        "department": "Mechanical",
+        "designation": "Professor",
+        "specialization": "Mechanical Engineering",
+        "email": "gcm@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_278",
+        "name": "Dr. N. Saravanakumar",
+        "department": "Mechanical",
+        "designation": "Professor",
+        "specialization": "Engineering Design",
+        "email": "principal@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_279",
+        "name": "Dr. R. Ramesh",
+        "department": "Mechanical",
+        "designation": "Professor",
+        "specialization": "Engineering Design",
+        "email": "ramesh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_280",
+        "name": "Dr. G. Rajeshkumar",
+        "department": "Mechanical",
+        "designation": "Professor",
+        "specialization": "Engineering Design",
+        "email": "rajesh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_281",
+        "name": "Dr. S. Thirumalai Kumaran",
+        "department": "Mechanical",
+        "designation": "Professor",
+        "specialization": "Manufacturing Engineering",
+        "email": "thirumalaikumaran@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_282",
+        "name": "Dr. V Rajkumar",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "specialization": "Manufacturing Engineering",
+        "email": "rajkumarv@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_283",
+        "name": "Dr. K. Senthil Kumar",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "specialization": "Composite Materials",
+        "email": "kmsenthilkumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_284",
+        "name": "Dr. X. Ajay Vasanth",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "specialization": "Vibration, Smart Materials, IIOT",
+        "email": "ajayvasanth@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_285",
+        "name": "Dr. S. Nanthakumar",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "specialization": "Lean Manufacturing",
+        "email": "snkmech@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_286",
+        "name": "Dr. J. Nagarjun",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "specialization": "Engineering Design",
+        "email": "nagarjun@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_287",
+        "name": "Dr. T. Prem kumar",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "specialization": "Solar energy and Thermal energy",
+        "email": "premkumar@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_288",
+        "name": "Dr. G. Swaminathan",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Smart Materials, Materials Characterization",
+        "email": "swaminathan@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_289",
+        "name": "Dr. G. Girish",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Material Science, Manufacturing and Industrial Engg.",
+        "email": "girish@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_290",
+        "name": "Dr. R. Avinash Kumar",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Thermal & Fluids",
+        "email": "avinash@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_291",
+        "name": "Dr. S. Jayachandran",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Selection Grade)",
+        "specialization": "Surface Coating, Material Characterization",
+        "email": "jayachandran.me@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_292",
+        "name": "Dr. B. Jagadeesh",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Advanced Manufacturing",
+        "email": "jagadeesh@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_293",
+        "name": "Dr. V. G. Shanmuga Priyan",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Metal Matrix Composites, Non-conventional Machines, Micro-Machines",
+        "email": "shanmugapriyan.me@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_294",
+        "name": "Dr. Yogesh Prabhu",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Material science",
+        "email": "yogeshprabhu.me@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_295",
+        "name": "Dr. N. Bhuvanesh",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Senior Grade)",
+        "specialization": "Thermal Engineering",
+        "email": "bhuvanesh.me@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_296",
+        "name": "Mr. V. Vijai Kaarthi",
+        "department": "Mechanical",
+        "designation": "Assistant Professor",
+        "specialization": "Energy Engineering",
+        "email": "vvk.mech@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_297",
+        "name": "Dr. P. Abhilash",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Materials Joining, Additive manufacturing",
+        "email": "abhilash.me@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_298",
+        "name": "Dr. M. Dinesh Kumar",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Fuel Cells",
+        "email": "mdk.me@psgitech.ac.in"
+      },
+      {
+        "id": "FAC_MEC_299",
+        "name": "Dr. G. Sathyamoorthy",
+        "department": "Mechanical",
+        "designation": "Assistant Professor (Research)",
+        "specialization": "Brake Friction Materials, Polymer Composites",
+        "email": "sathyamoorthy.me@psgitech.ac.in"
+      }
+    ]
+  },
+  "list": [
+    {
+      "id": "FAC_VLSI_1",
+      "name": "Dr. P. Vijayakumar",
+      "department": "VLSI",
+      "designation": "Professor & HoD",
+      "specialization": "VLSI (Low Power), Automation",
+      "email": "pvk@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_2",
+      "name": "Dr. M. Jayasanthi",
+      "department": "VLSI",
+      "designation": "Professor",
+      "specialization": "ASIC Design & Signal Processing",
+      "email": "jayasanthiranjith@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_3",
+      "name": "Dr. S. Sridevi Sathya Priya",
+      "department": "VLSI",
+      "designation": "Associate Professor",
+      "specialization": "VLSI, FPGA Hardware Security",
+      "email": "sridevi.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_4",
+      "name": "Dr. S. Padmapriya",
+      "department": "VLSI",
+      "designation": "Assistant Professor (Sl.G)",
+      "specialization": "Low Power VLSI, Reconfigurable Architectures",
+      "email": "padmapriya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_5",
+      "name": "Dr. M. Deepa",
+      "department": "VLSI",
+      "designation": "Assistant Professor (Sl.G)",
+      "specialization": "Digital Design and VLSI Design",
+      "email": "deepa@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_6",
+      "name": "Dr. K. Paldurai",
+      "department": "VLSI",
+      "designation": "Assistant Professor (Sl.G)",
+      "specialization": "Digital Arithmetic Circuit Design, Mixed Signal IC",
+      "email": "paldurai.k@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_7",
+      "name": "Dr. J. R. Dinesh Kumar",
+      "department": "VLSI",
+      "designation": "Assistant Professor (Sl.G)",
+      "specialization": "VLSI, Low Power Architectures",
+      "email": "dineshkumar.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_VLSI_8",
+      "name": "Dr. M. Priyadharshini",
+      "department": "VLSI",
+      "designation": "Assistant Professor",
+      "specialization": "Hardware Security, VLSI Design, AI",
+      "email": "priyadharshini.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_101",
+      "name": "Dr. P. Vijayakumar",
+      "department": "ECE",
+      "designation": "Professor & HoD",
+      "specialization": "VLSI (Low Power), Automation",
+      "email": "pvk@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_102",
+      "name": "Dr. M. Jayasanthi",
+      "department": "ECE",
+      "designation": "Professor",
+      "specialization": "ASIC Design and Signal processing",
+      "email": "jayasanthiranjith@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_103",
+      "name": "Dr. C. Arvind",
+      "department": "ECE",
+      "designation": "Professor",
+      "specialization": "Signal Processing & Communication Systems",
+      "email": "arvind@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_104",
+      "name": "Dr. G. Santhanamari",
+      "department": "ECE",
+      "designation": "Associate Professor",
+      "specialization": "Image Processing, Embedded systems",
+      "email": "gsm@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_105",
+      "name": "Dr. D. Selvakumar",
+      "department": "ECE",
+      "designation": "Associate Professor",
+      "specialization": "Nanoelectronics, Embedded systems",
+      "email": "selvakumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_106",
+      "name": "Dr. B. A. Sapna",
+      "department": "ECE",
+      "designation": "Associate Professor",
+      "specialization": "Communication Systems",
+      "email": "sapna.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_107",
+      "name": "Dr. S. Sridevi Sathya Priya",
+      "department": "ECE",
+      "designation": "Associate Professor",
+      "specialization": "VLSI, FPGA based Hardware Security, Cryptographic Hardware Architecture , PUF based Security Systems",
+      "email": "sridevi.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_108",
+      "name": "Dr. S. Padmapriya",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Low Power VLSI, Reconfigurable Architectures, Signal Processing and Computer Vision",
+      "email": "padmapriya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_109",
+      "name": "Dr. M. Jothibasu",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Digital Signal Processing, Image processing",
+      "email": "jothibasu@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_110",
+      "name": "Dr. M. Deepa",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Digital Design and VLSI Design",
+      "email": "deepa@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_111",
+      "name": "Dr. K. Paldurai",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Digital Arithmetic Circuit Design, Mixed Signal IC Design",
+      "email": "paldurai.k@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_112",
+      "name": "Dr. T. Pravinraj",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "MEMS, VLSI Process Technology, Solver Development",
+      "email": "pravinraj@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_113",
+      "name": "Dr. P. Sridhar",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Signal Processing, Image Processing, Computer Vision",
+      "email": "sridhar.p@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_114",
+      "name": "Dr. S. P. Cowsigan",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "RF, Microwave and Antenna Design",
+      "email": "cowsigan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_115",
+      "name": "Dr. J. S. Sujin",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Image Processing, Signal Processing, Robotics",
+      "email": "sujin@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_116",
+      "name": "Dr. P. Sakthivel",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Wireless Technologies",
+      "email": "drspvel.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_117",
+      "name": "Dr. J. R. Dinesh Kumar",
+      "department": "ECE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "VLSI, Low Power Architectures, Biomedical Signal Processing and Machine Learning",
+      "email": "dineshkumar.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_118",
+      "name": "Dr. B. Tharini",
+      "department": "ECE",
+      "designation": "Assistant Professor",
+      "specialization": "MIMO Antennas, Wireless Communication",
+      "email": "tharini@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_119",
+      "name": "Dr. M. Priyadharshini",
+      "department": "ECE",
+      "designation": "Assistant Professor",
+      "specialization": "Hardware Security, VLSI Design, AI",
+      "email": "priyadharshini.ec@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_120",
+      "name": "Dr. S. Jayanthi Sree",
+      "department": "ECE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Biomedical Image Processing, VLSI Design, ML",
+      "email": "jayanthisree@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_121",
+      "name": "Mr. R. RajaRaja",
+      "department": "ECE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "VLSI Design",
+      "email": "rajaraja@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_122",
+      "name": "Ms. N. Susithra",
+      "department": "ECE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "VLSI Design, VLSI Signal Processing",
+      "email": "susithra@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_123",
+      "name": "Dr. M. Sowmiya",
+      "department": "ECE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Communication Systems, Biomedical Signal Processing, Machine Learning",
+      "email": "sowmiya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_124",
+      "name": "Ms. D.Archana",
+      "department": "ECE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Applied Electronics",
+      "email": "archana@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ECE_125",
+      "name": "Dr. N. Iswarya",
+      "department": "ECE",
+      "designation": "Assistant Professor",
+      "specialization": "Communication Systems",
+      "email": "iswarya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_126",
+      "name": "Dr. B. Gomathy",
+      "department": "CSE",
+      "designation": "Professor & HOD (i/c)",
+      "specialization": "Data Analytics",
+      "email": "drgomathy@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_127",
+      "name": "Dr. R. Manimegalai",
+      "department": "CSE",
+      "designation": "Professor",
+      "specialization": "Distributed Computing VLSI Algorithms, IoT and Security",
+      "email": "drrm@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_128",
+      "name": "Dr. S. Kalarani",
+      "department": "CSE",
+      "designation": "HoD (i/c)",
+      "specialization": "Cloud Computing, Deep Learning",
+      "email": "kalarani@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_129",
+      "name": "Dr. R. Manjula Devi",
+      "department": "CSE",
+      "designation": "Professor",
+      "specialization": "Machine Learning, Image Processing, Soft Computing, AI",
+      "email": "manjuladevi.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_130",
+      "name": "Mr. V. Harikrishnan",
+      "department": "CSE",
+      "designation": "Professor of Practice",
+      "specialization": "Project Management, ERP",
+      "email": "harikrishnan.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_131",
+      "name": "Dr. I. Kala",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specialization": "Mobile AdHoc Network and Database Management System",
+      "email": "kala@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_132",
+      "name": "Dr. K. Malarvizhi",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Machine Learning, Deep Learning",
+      "email": "malarvizhi@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_133",
+      "name": "Dr. T. Kalai Selvi",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Internet of Things (IoT), Data Management",
+      "email": "tks.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_134",
+      "name": "Dr. M. N. Kavitha",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Machine Learning, Deep Learning & Operating System",
+      "email": "kavitha@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_135",
+      "name": "Dr. A. Sunitha Nandhini",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Artifical Intelligence, Internet of Things",
+      "email": "asn@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_136",
+      "name": "Ms. M. Kirubadevi",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Software Engineering",
+      "email": "kirubadevi@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_137",
+      "name": "Dr. M. Sangeetha",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Deep Learning, Graph Neural Networks",
+      "email": "sangeetha.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_138",
+      "name": "Dr. M. Karthigha",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Network Security, Augmented Reality & Virtual Reality",
+      "email": "karthigha@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_139",
+      "name": "Ms. P. Jeevitha",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Machine Learning",
+      "email": "jeevithap@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_140",
+      "name": "Dr. S. S. Saranya",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Security, Blockchain",
+      "email": "saranya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_141",
+      "name": "Dr. Sathya Balaji",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Machine Learning, Artificial Intelligence",
+      "email": "sathyabalaji@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_142",
+      "name": "Ms. P. Shanmugapriya",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "DBMS, Machine Learning , Deep Learning",
+      "email": "shanmugapriya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_143",
+      "name": "Lt. V. Vilasini",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Data Science and Data Analytics",
+      "email": "vilasini@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_144",
+      "name": "Dr. S. Vaishnavi",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Data Science, Machine Learning",
+      "email": "vaishnavis@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_145",
+      "name": "Dr. V. C. Maha Vishnu",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Video Data Mining and Image Analytics",
+      "email": "mvvc@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_146",
+      "name": "Ms. P. Gouthami",
+      "department": "CSE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Machine Learning, Deep Learning",
+      "email": "gouthami.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_147",
+      "name": "Ms. S. Leela",
+      "department": "CSE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Deep Learning",
+      "email": "leela.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_148",
+      "name": "Mr. B. Ajith Jerom",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specialization": "Data Science and Data Analytics",
+      "email": "ajith@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_149",
+      "name": "Ms. C. Divya Gowri",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specialization": "Data Mining, Database Management System",
+      "email": "divya.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_150",
+      "name": "Mr. S. Joemathew",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specialization": "Software Testing, AI Testing",
+      "email": "joemathews.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_151",
+      "name": "Ms. S. V. Sowthika",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specialization": "Machine Learning, DBMS",
+      "email": "sowthika.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_152",
+      "name": "Ms. R. Hemapriya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specialization": "DBMS, Machine Learning",
+      "email": "hemapriya.cs@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_153",
+      "name": "Dr. B. Gomathi",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specialization": "Cloud Computing, Machine Learning, Optimization Techniques",
+      "email": "gomathi@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_154",
+      "name": "Dr. P. Anantha Prabha",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Deep Learning, Cloud Computing",
+      "email": "ap@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_155",
+      "name": "Mr. K. S. Giriprasath",
+      "department": "CSE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Cyber security, Network Security",
+      "email": "giriprasath@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CSE_156",
+      "name": "Dr. G. Sudha Sadasivam",
+      "department": "CSE",
+      "designation": "Visiting Professor",
+      "specialization": "Big Data Analytics, Privacy Preservation",
+      "email": ""
+    },
+    {
+      "id": "FAC_AI _157",
+      "name": "Dr. S. Kalarani",
+      "department": "AI & DS",
+      "designation": "HoD (i/c)",
+      "specialization": "Cloud Computing, Deep Learning",
+      "email": "kalarani@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _158",
+      "name": "Dr. S. Lokesh",
+      "department": "AI & DS",
+      "designation": "Professor",
+      "specialization": "AI, Human-Computer Interaction, Data Science",
+      "email": "lokesh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _159",
+      "name": "Dr. R. Priya Vaijayanthi",
+      "department": "AI & DS",
+      "designation": "Associate Professor",
+      "specialization": "Machine Learning, Deep Learning, Generative AI",
+      "email": "rpv.ai@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _160",
+      "name": "Dr. S. Sangeetha",
+      "department": "AI & DS",
+      "designation": "Associate Professor",
+      "specialization": "Responsible AI, Deep Learning, Generative AI",
+      "email": "sangeetha@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _161",
+      "name": "Mr. R. Muthu Kumar",
+      "department": "AI & DS",
+      "designation": "Associate Professor of Practice",
+      "specialization": "DevOps, Technology Modernization",
+      "email": "muthukumar.ai@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _162",
+      "name": "Mr. C. Santhosh",
+      "department": "AI & DS",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Data Science, Big Data Analysis",
+      "email": "santhosh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _163",
+      "name": "Ms. S. Dhivya",
+      "department": "AI & DS",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Database management systems, Fullstack development, Machine Learning",
+      "email": "dhivya.ai@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _164",
+      "name": "Ms. G. Suganya",
+      "department": "AI & DS",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "DevOps, Soft Computing",
+      "email": "suganya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _165",
+      "name": "Ms. P. Gomathi",
+      "department": "AI & DS",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Deep Learning, Computer Networks, Data Science",
+      "email": "gomathi.ai@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _166",
+      "name": "Ms. P. Nirmala Priyadharshini",
+      "department": "AI & DS",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Cloud Computing, Object Oriented Programming",
+      "email": "nirmala.ai@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _167",
+      "name": "Ms. E. Kalaivani",
+      "department": "AI & DS",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Machine Learning",
+      "email": "kalaivani.ai@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _168",
+      "name": "Ms. K. Sathya",
+      "department": "AI & DS",
+      "designation": "Assistant Professor",
+      "specialization": "Machine Learning, Deep Learning",
+      "email": "sathya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _169",
+      "name": "Ms. K. Santhiya",
+      "department": "AI & DS",
+      "designation": "Assistant Professor",
+      "specialization": "Data Structures, Machine Learning, Deep Learning",
+      "email": "santhiya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_AI _170",
+      "name": "Ms. R. S. Niranjana",
+      "department": "AI & DS",
+      "designation": "Assistant Professor",
+      "specialization": "Deep Learning, Cybersecurity, Data Structures",
+      "email": "niranjana@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_171",
+      "name": "Dr. C. S. Subash Kumar",
+      "department": "EEE",
+      "designation": "Associate Professor & HOD (i/c)",
+      "specialization": "Electrical Machines",
+      "email": "css@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_172",
+      "name": "Dr. C. L. Vasu",
+      "department": "EEE",
+      "designation": "Professor",
+      "specialization": "Embedded Systems",
+      "email": "clv@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_173",
+      "name": "Dr. E. Malar",
+      "department": "EEE",
+      "designation": "Professor",
+      "specialization": "Biomedical Instrumentation and MI Processing",
+      "email": "emr@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_174",
+      "name": "Dr. M. Mohamed Iqbal",
+      "department": "EEE",
+      "designation": "Professor",
+      "specialization": "Power System and Renewable Energy",
+      "email": "iqbal@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_175",
+      "name": "Dr. J. Baskaran",
+      "department": "EEE",
+      "designation": "Professor",
+      "specialization": "Power System Engineering, Distributed Generation, Renewable Energy",
+      "email": "baskaran@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_176",
+      "name": "Dr. D. Sivakumar",
+      "department": "EEE",
+      "designation": "Visiting Professor",
+      "specialization": "Instrumentation & Process Control",
+      "email": "sivakumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_177",
+      "name": "Dr. N. Bharathi",
+      "department": "EEE",
+      "designation": "Professor",
+      "specialization": "Process Control, Intelligent Controllers",
+      "email": "bharathi.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_178",
+      "name": "Mr. V. Sivaganesh",
+      "department": "EEE",
+      "designation": "Professor of Practice",
+      "specialization": "Applied Electronics",
+      "email": "sivaganesh.v@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_179",
+      "name": "Dr. B. Adhavan",
+      "department": "EEE",
+      "designation": "Associate Professor",
+      "specialization": "Power Electronics and Drives",
+      "email": "adhavan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_180",
+      "name": "Dr. M. Sathiyanathan",
+      "department": "EEE",
+      "designation": "Associate Professor",
+      "specialization": "Power Electronics.Drives",
+      "email": "sathiyangm@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_181",
+      "name": "Dr. E. Govinda Kumar",
+      "department": "EEE",
+      "designation": "Associate Professor",
+      "specialization": "Control Systems, Sliding mode control, Controller optimization",
+      "email": "govindakumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_182",
+      "name": "Dr. M. Elenchezhiyan",
+      "department": "EEE",
+      "designation": "Associate Professor",
+      "specialization": "Control & Instrumentation",
+      "email": "elen.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_183",
+      "name": "Dr. S. Julius Fusic",
+      "department": "EEE",
+      "designation": "Associate Professor",
+      "specialization": "Localization and Navigation of Autonomous Systems",
+      "email": "sjf.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_184",
+      "name": "Dr. R. Vijay",
+      "department": "EEE",
+      "designation": "Associate Professor",
+      "specialization": "Power Systems Engineering, Applications of AI & ML in EEE, Green Hydrogen, Electric Vehicle Routing",
+      "email": "vijay.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_185",
+      "name": "Dr. M. Senthilkumar",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Embedded System",
+      "email": "senthilkumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_186",
+      "name": "Mr. S. Ravikrishna",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Electrical Machines",
+      "email": "ravikrishna@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_187",
+      "name": "Dr. C. V. Pavithra",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Electrical Machines",
+      "email": "pavithra@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_188",
+      "name": "Dr. B. Suresh",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Power Electronics and Drives",
+      "email": "suresh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_189",
+      "name": "Dr. S. Arivoli",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Control Systems and Instrumentation",
+      "email": "arivoli@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_190",
+      "name": "Dr. A. P. Roger Rozario",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Internet of Things, AI & ML",
+      "email": "rogerrozario@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_191",
+      "name": "Dr. H. Ramesh",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Electrical Drives and Control, Motion Control Applications, Industry 4.0, Robotics",
+      "email": "ramesh.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_192",
+      "name": "Dr. K. Bavithra",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Power systems engineering (Restructuring)",
+      "email": "bavithra@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_193",
+      "name": "Ms. R. Divya",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Power Systems",
+      "email": "divya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_194",
+      "name": "Dr. G. Sophia Jasmine",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Power Systems Engineering",
+      "email": "sophia.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_195",
+      "name": "Dr. S. Karthikeyan",
+      "department": "EEE",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Power Electronics and Drives",
+      "email": "karthikeyans.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_196",
+      "name": "Dr. A. Jeyashree",
+      "department": "EEE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Power Electronics & Drives.Solar Energy",
+      "email": "jeyashreea@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_197",
+      "name": "Dr. V. R. Kavya",
+      "department": "EEE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Process Control",
+      "email": "kavya.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_198",
+      "name": "Dr. P. R. Jain Vinith",
+      "department": "EEE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Power System Planning and Operation, Energy Management",
+      "email": "jainvinith.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_EEE_199",
+      "name": "Mr. V. Srimaheswaran",
+      "department": "EEE",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Power Electronics & Drives",
+      "email": "srimaheswaran.ee@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_200",
+      "name": "Dr. P. Muthupriya",
+      "department": "Civil",
+      "designation": "Professor & HoD",
+      "specialization": "Structural Engineering",
+      "email": "muthupriya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_201",
+      "name": "Dr. M. I. Abdul Aleem",
+      "department": "Civil",
+      "designation": "Professor",
+      "specialization": "Structural Engineering",
+      "email": "aleem@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_202",
+      "name": "Dr. M. Arun",
+      "department": "Civil",
+      "designation": "Professor",
+      "specialization": "Structural Engineering",
+      "email": "arun@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_203",
+      "name": "Dr. R. Rajkumar",
+      "department": "Civil",
+      "designation": "Associate Professor",
+      "specialization": "Infrastructure Engineering",
+      "email": "rajkumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_204",
+      "name": "Dr. V. Navin Ganesh",
+      "department": "Civil",
+      "designation": "Associate Professor",
+      "specialization": "Transportation Engineering and Management",
+      "email": "navinganesh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_205",
+      "name": "Mr. S. Elayaraja",
+      "department": "Civil",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Geotechnical Engineering",
+      "email": "elayaraja@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_206",
+      "name": "Dr. M. R. Ezhil Kumar",
+      "department": "Civil",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Environmental Management",
+      "email": "ezhilkumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_207",
+      "name": "Mr. P. Balakumar",
+      "department": "Civil",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Infrastructure Engineering",
+      "email": "pbkciv@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_208",
+      "name": "Dr. J. Karthick",
+      "department": "Civil",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Structural Engineering",
+      "email": "karthick@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_209",
+      "name": "Dr. K. Govarthanambikai",
+      "department": "Civil",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Infrastructure Engineering",
+      "email": "kgk@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_210",
+      "name": "Ms. V. Selvapriya",
+      "department": "Civil",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Structural Engineering",
+      "email": "vsp@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_211",
+      "name": "Mr. K. Sakthi Prasanth",
+      "department": "Civil",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Structural Engineering",
+      "email": "ksp@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_212",
+      "name": "Ms. R. Nidhya",
+      "department": "Civil",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Structural Engineering",
+      "email": "nidhya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_213",
+      "name": "Dr. P. A. Sivasubramani",
+      "department": "Civil",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Infrastructure Engineer",
+      "email": "sivasubramani@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_214",
+      "name": "Dr. R. Balaji",
+      "department": "Civil",
+      "designation": "Assistant Professor",
+      "specialization": "Environmental Engineering",
+      "email": "balaji.civil@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CIV_215",
+      "name": "Dr. N. Divyah",
+      "department": "Civil",
+      "designation": "Assistant Professor",
+      "specialization": "Structural Engineering",
+      "email": "divyah@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_216",
+      "name": "Dr. S. Aramuthakannan",
+      "department": "Mathematics",
+      "designation": "Professor & HoD (i/c)",
+      "specialization": "Optimization Techniques",
+      "email": "sakannan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_217",
+      "name": "Dr. M. Venkatesan",
+      "department": "Mathematics",
+      "designation": "Professor",
+      "specialization": "Solid Mechanics",
+      "email": "coe@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_218",
+      "name": "Dr. R. S. Sankara Subramanian",
+      "department": "Mathematics",
+      "designation": "Professor",
+      "specialization": "Cryptography",
+      "email": "rss@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_219",
+      "name": "Dr. P. Chinnaraj",
+      "department": "Mathematics",
+      "designation": "Associate Professor",
+      "specialization": "Algebra, Probability and Queueing Theory",
+      "email": "chinnaraj@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_220",
+      "name": "Dr. V. Chitra",
+      "department": "Mathematics",
+      "designation": "Associate Professor",
+      "specialization": "Graph Theory - Graph Decompositions & Factorization",
+      "email": "chitra@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_221",
+      "name": "Mr. P. Gajendran",
+      "department": "Mathematics",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Algebra Complex Analysis",
+      "email": "gajendranp@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_222",
+      "name": "Dr. S. Anitha",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Fluid Dynamics, Heat exchange",
+      "email": "anitha@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_223",
+      "name": "Dr. J. Grayna",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Differential Equations",
+      "email": "grayna@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_224",
+      "name": "Dr. E. Vignesh",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Computational fluid dynamics, Heat transfer",
+      "email": "vignesh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_225",
+      "name": "Dr. J. Prabu",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Coding Theory",
+      "email": "prabu@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_226",
+      "name": "Dr. T. P. Sandhiya",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Graph Theory",
+      "email": "sandhiya@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_227",
+      "name": "Dr. M. S. Surendar",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Nonlinear Dynamics in Biology",
+      "email": "surendar.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_228",
+      "name": "Dr. M. Kalaiselvi",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Epidemic Model, Complex Networks, Mathematical Biology",
+      "email": "kalaiselvi.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_229",
+      "name": "Dr. D. Vignesh",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Wavelet Transform, Machine Learning",
+      "email": "vignesh.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_230",
+      "name": "Dr. Y. Mary Christin Otto",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Functional Analysis",
+      "email": "ymco.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_231",
+      "name": "Dr. S. Duraimurugan",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Graph theory",
+      "email": "durai.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MAT_232",
+      "name": "Dr. A. R. Gokul",
+      "department": "Mathematics",
+      "designation": "Assistant Professor",
+      "specialization": "Response Surface Methodology, Probability and statistics",
+      "email": "gokul.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_233",
+      "name": "Dr. S. Maruthamuthu",
+      "department": "Physics",
+      "designation": "Professor & HoD (i/c)",
+      "specialization": "Dye sensitized solar cells, Energy storage devices, Thin films",
+      "email": "maruthamuthu@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_234",
+      "name": "Dr. D. Thangaraju",
+      "department": "Physics",
+      "designation": "Associate Professor",
+      "specialization": "Nano Biotechnology and Bioimageing",
+      "email": "thangaraju@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_235",
+      "name": "Dr. T. K. Abilasha Ramadhas",
+      "department": "Physics",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Materials Science, Non-Destructive Testing",
+      "email": "abilasha@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_236",
+      "name": "Dr. G. Bhavani",
+      "department": "Physics",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Luminescence, Nanomaterials",
+      "email": "bhavani@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_237",
+      "name": "Dr. P. K. Kannan",
+      "department": "Physics",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Inorganic thin film solar cell, Perovskite, High entropy oxides",
+      "email": "kannan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_238",
+      "name": "Dr. Deepannita Chakraborty",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Dilute Magnetic oxide Thin films",
+      "email": "deepannita@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_239",
+      "name": "Dr. K. Mariselvam",
+      "department": "Physics",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Spectroscopy, Radiation detection, Glasses, Perovskites",
+      "email": "mariselvam@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_240",
+      "name": "Dr. S. Gowrishankar",
+      "department": "Physics",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Thin Films, Nanomaterials for Optoelectronic Applications",
+      "email": "gowrishankar.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_241",
+      "name": "Dr. P. Mathan Kumar",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Thin films, Dye Sensitized Solar Cells, Electrochemical storage and conversion",
+      "email": "mathankumar.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_242",
+      "name": "Dr. Riza Paul",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Photocatalysis, Nanomaterials, Photoelectrochemical studies",
+      "email": "rizapaul.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_PHY_243",
+      "name": "Dr. T. Abhijith",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Nanoscience, Experimental Condensed Matter Physics",
+      "email": ""
+    },
+    {
+      "id": "FAC_PHY_244",
+      "name": "Dr. M. Veena",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Material Science, Electrocatalysis, Nanosensor",
+      "email": ""
+    },
+    {
+      "id": "FAC_PHY_245",
+      "name": "Dr. Sebin Devasia",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Computational Materials Science, Photovoltaics, Photodetectors",
+      "email": ""
+    },
+    {
+      "id": "FAC_PHY_246",
+      "name": "Dr. P. Atheek",
+      "department": "Physics",
+      "designation": "Assistant Professor",
+      "specialization": "Thin Film, Piezoelectric Materials",
+      "email": ""
+    },
+    {
+      "id": "FAC_PHY_247",
+      "name": "Dr. S. Gunasekaran",
+      "department": "Physics",
+      "designation": "Post-Doctoral Fellow",
+      "specialization": "Materials science, Energy storage",
+      "email": "gunasekaran.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_248",
+      "name": "Dr. G. Latha",
+      "department": "Chemistry",
+      "designation": "Professor & HoD",
+      "specialization": "Polymer Chemistry",
+      "email": "latha@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_249",
+      "name": "Dr. K. Balaji",
+      "department": "Chemistry",
+      "designation": "Professor",
+      "specialization": "Polymer Chemistry",
+      "email": "balaji@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_250",
+      "name": "Dr. A. Kumaravel",
+      "department": "Chemistry",
+      "designation": "Associate Professor",
+      "specialization": "Electro Chemistry",
+      "email": "kumaravel@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_251",
+      "name": "Dr. S. Devaraju",
+      "department": "Chemistry",
+      "designation": "Associate Professor",
+      "specialization": "Polymer Nanocomposites and Hybrid Materials",
+      "email": "devaraju@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_252",
+      "name": "Dr. S. Chandirasekar",
+      "department": "Chemistry",
+      "designation": "Associate Professor",
+      "specialization": "Nanoscience, Polymer Chemistry",
+      "email": ""
+    },
+    {
+      "id": "FAC_CHE_253",
+      "name": "Dr. R. Sasikumar",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Polymer Science",
+      "email": "sasikumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_254",
+      "name": "Dr. G. Sathiyan",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Organic Chemistry, Organic/Perovskite Solar Cells, Chemosensor Polymers",
+      "email": ""
+    },
+    {
+      "id": "FAC_CHE_255",
+      "name": "Dr. P. Pradeepkumar",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Polymer Chemistry",
+      "email": "pradeepkumar.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_256",
+      "name": "Dr. M. Mayakkannan",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Nanomaterials for Energy Storage Applications",
+      "email": "maya.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_257",
+      "name": "Dr. G. Alagarsamy",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Critical Metal Recovery, Wastewater Treatment",
+      "email": "asg.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_258",
+      "name": "Dr. S. Manigandan",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Polymer Chemistry",
+      "email": "manigandan.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_259",
+      "name": "Dr. V. Naveensubramaniam",
+      "department": "Chemistry",
+      "designation": "Assistant Professor",
+      "specialization": "Materials Chemistry",
+      "email": "naveenv.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_260",
+      "name": "Dr. S. Prabhu",
+      "department": "Chemistry",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Photo/Electrocatalysis for Energy Applications",
+      "email": "prabhu@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_261",
+      "name": "Dr. K Arunkumar",
+      "department": "Chemistry",
+      "designation": "Assistant Professor",
+      "specialization": "Fuel Cell, Polymer Chemistry",
+      "email": "arunkumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_CHE_262",
+      "name": "Dr. A. V. Rajalakshmi",
+      "department": "Chemistry",
+      "designation": "Assistant Professor",
+      "specialization": "Fluorescent Sensors, Organic Chemistry",
+      "email": "rajalakshmi@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_263",
+      "name": "Dr. K. Pramila",
+      "department": "English",
+      "designation": "Professor & HOD",
+      "specialization": "English Literature, English Language Teaching and Softskills",
+      "email": "pramila@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_264",
+      "name": "Dr. S. Gandhimathi",
+      "department": "English",
+      "designation": "Associate Professor",
+      "specialization": "English Language Teaching, English Literature and Educational Psychology",
+      "email": "gandhimathi@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_265",
+      "name": "Dr. R. Ravindran",
+      "department": "English",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Comparative Literature",
+      "email": "ravindran@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_266",
+      "name": "Dr. A. Muthukannan",
+      "department": "English",
+      "designation": "Assistant Professor",
+      "specialization": "American Literature",
+      "email": "muthukannan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_267",
+      "name": "Dr. V. Sutharshan",
+      "department": "English",
+      "designation": "Assistant Professor",
+      "specialization": "ELT and Fiction",
+      "email": "sutharshan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_268",
+      "name": "Dr. K. Satheesh Kumar",
+      "department": "English",
+      "designation": "Assistant Professor",
+      "specialization": "English Language Teaching, Comparative Literature, & Public Speaking",
+      "email": "sk.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_ENG_269",
+      "name": "Dr. C. Ganesh",
+      "department": "English",
+      "designation": "Assistant Professor",
+      "specialization": "Indian Writing in English, Comparative Literature",
+      "email": "ganesh.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_HUM_270",
+      "name": "Dr. R. Ravikumar",
+      "department": "Humanities",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Agribusiness Management",
+      "email": "ravikumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_HUM_271",
+      "name": "Dr. R. Uma",
+      "department": "Humanities",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Human Resource Management",
+      "email": "uma@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_HUM_272",
+      "name": "Dr. K. Selvamohana",
+      "department": "Humanities",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Management (Marketing & Finance)",
+      "email": "selvamohana@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_TAM_273",
+      "name": "Mr. T. Prakash",
+      "department": "Tamil",
+      "designation": "Assistant Professor - Tamil",
+      "specialization": "Sangam Literature",
+      "email": "prakash@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_TAM_274",
+      "name": "Ms. S. Lubuna Leilani",
+      "department": "Tamil",
+      "designation": "Assistant Professor - Tamil",
+      "specialization": "Tamil Literature",
+      "email": "lls.sh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_275",
+      "name": "Dr. P. Manoj Kumar",
+      "department": "Mechanical",
+      "designation": "Professor & HOD",
+      "specialization": "Heat Transfer Energy",
+      "email": "manoj@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_276",
+      "name": "Dr. P. V. Mohanram",
+      "department": "Mechanical",
+      "designation": "Professor",
+      "specialization": "Mechanical Engineering",
+      "email": "secretary@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_277",
+      "name": "Dr. G. Chandramohan",
+      "department": "Mechanical",
+      "designation": "Professor",
+      "specialization": "Mechanical Engineering",
+      "email": "gcm@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_278",
+      "name": "Dr. N. Saravanakumar",
+      "department": "Mechanical",
+      "designation": "Professor",
+      "specialization": "Engineering Design",
+      "email": "principal@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_279",
+      "name": "Dr. R. Ramesh",
+      "department": "Mechanical",
+      "designation": "Professor",
+      "specialization": "Engineering Design",
+      "email": "ramesh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_280",
+      "name": "Dr. G. Rajeshkumar",
+      "department": "Mechanical",
+      "designation": "Professor",
+      "specialization": "Engineering Design",
+      "email": "rajesh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_281",
+      "name": "Dr. S. Thirumalai Kumaran",
+      "department": "Mechanical",
+      "designation": "Professor",
+      "specialization": "Manufacturing Engineering",
+      "email": "thirumalaikumaran@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_282",
+      "name": "Dr. V Rajkumar",
+      "department": "Mechanical",
+      "designation": "Associate Professor",
+      "specialization": "Manufacturing Engineering",
+      "email": "rajkumarv@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_283",
+      "name": "Dr. K. Senthil Kumar",
+      "department": "Mechanical",
+      "designation": "Associate Professor",
+      "specialization": "Composite Materials",
+      "email": "kmsenthilkumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_284",
+      "name": "Dr. X. Ajay Vasanth",
+      "department": "Mechanical",
+      "designation": "Associate Professor",
+      "specialization": "Vibration, Smart Materials, IIOT",
+      "email": "ajayvasanth@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_285",
+      "name": "Dr. S. Nanthakumar",
+      "department": "Mechanical",
+      "designation": "Associate Professor",
+      "specialization": "Lean Manufacturing",
+      "email": "snkmech@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_286",
+      "name": "Dr. J. Nagarjun",
+      "department": "Mechanical",
+      "designation": "Associate Professor",
+      "specialization": "Engineering Design",
+      "email": "nagarjun@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_287",
+      "name": "Dr. T. Prem kumar",
+      "department": "Mechanical",
+      "designation": "Associate Professor",
+      "specialization": "Solar energy and Thermal energy",
+      "email": "premkumar@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_288",
+      "name": "Dr. G. Swaminathan",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Smart Materials, Materials Characterization",
+      "email": "swaminathan@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_289",
+      "name": "Dr. G. Girish",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Material Science, Manufacturing and Industrial Engg.",
+      "email": "girish@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_290",
+      "name": "Dr. R. Avinash Kumar",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Thermal & Fluids",
+      "email": "avinash@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_291",
+      "name": "Dr. S. Jayachandran",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Selection Grade)",
+      "specialization": "Surface Coating, Material Characterization",
+      "email": "jayachandran.me@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_292",
+      "name": "Dr. B. Jagadeesh",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Advanced Manufacturing",
+      "email": "jagadeesh@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_293",
+      "name": "Dr. V. G. Shanmuga Priyan",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Metal Matrix Composites, Non-conventional Machines, Micro-Machines",
+      "email": "shanmugapriyan.me@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_294",
+      "name": "Dr. Yogesh Prabhu",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Material science",
+      "email": "yogeshprabhu.me@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_295",
+      "name": "Dr. N. Bhuvanesh",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Senior Grade)",
+      "specialization": "Thermal Engineering",
+      "email": "bhuvanesh.me@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_296",
+      "name": "Mr. V. Vijai Kaarthi",
+      "department": "Mechanical",
+      "designation": "Assistant Professor",
+      "specialization": "Energy Engineering",
+      "email": "vvk.mech@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_297",
+      "name": "Dr. P. Abhilash",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Materials Joining, Additive manufacturing",
+      "email": "abhilash.me@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_298",
+      "name": "Dr. M. Dinesh Kumar",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Fuel Cells",
+      "email": "mdk.me@psgitech.ac.in"
+    },
+    {
+      "id": "FAC_MEC_299",
+      "name": "Dr. G. Sathyamoorthy",
+      "department": "Mechanical",
+      "designation": "Assistant Professor (Research)",
+      "specialization": "Brake Friction Materials, Polymer Composites",
+      "email": "sathyamoorthy.me@psgitech.ac.in"
+    }
+  ]
+}

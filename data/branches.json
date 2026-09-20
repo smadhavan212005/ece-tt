@@ -1,0 +1,27 @@
+[
+  {
+    "code": 1,
+    "name": "ECE",
+    "fullName": "Electronics and Communication Engineering"
+  },
+  {
+    "code": 2,
+    "name": "VLSI",
+    "fullName": "VLSI Design & Technology"
+  },
+  {
+    "code": 3,
+    "name": "CSE",
+    "fullName": "Computer Science and Engineering"
+  },
+  {
+    "code": 4,
+    "name": "EEE",
+    "fullName": "Electrical and Electronics Engineering"
+  },
+  {
+    "code": 5,
+    "name": "AI & DS",
+    "fullName": "Artificial Intelligence and Data Science"
+  }
+]

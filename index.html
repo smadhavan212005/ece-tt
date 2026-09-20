@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Professional Engineering Department Timetable Preparation and Automatic Generation System with Conflict-Free Scheduling">
+  <title>Department Timetable Generator | PSG iTech ECE</title>
+  
+  <!-- Modern Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header no-print">
+    <div class="header-brand">
+      <img class="logo logo-left" src="psgitech.png" alt="PSG Institute of Technology and Applied Research logo">
+      <div class="brand-titles">
+        <p class="brand-college">PSG Institute of Technology and Applied Research</p>
+        <h1>Department Timetable Generator</h1>
+        <p class="brand-dept">Department of Electronics &amp; Communication Engineering</p>
+      </div>
+      <img class="logo logo-right" src="ecea.png" alt="ECE Association logo">
+    </div>
+
+    <div class="header-bar">
+      <!-- Step Navigation Bar -->
+      <nav class="nav-steps" aria-label="Workflow steps">
+        <button class="step-tab active" data-step="1">
+          <span class="step-num">1</span>
+          <span>Department Setup</span>
+        </button>
+        <button class="step-tab" data-step="2">
+          <span class="step-num">2</span>
+          <span>Classes &amp; Classrooms</span>
+        </button>
+        <button class="step-tab" data-step="3">
+          <span class="step-num">3</span>
+          <span>Select Class</span>
+        </button>
+        <button class="step-tab" data-step="4">
+          <span class="step-num">4</span>
+          <span>Class Configuration</span>
+        </button>
+        <button class="step-tab" data-step="5">
+          <span class="step-num">5</span>
+          <span>Generation &amp; Dashboard</span>
+        </button>
+      </nav>
+
+      <div class="header-actions">
+        <button class="btn btn-secondary btn-sm" id="header-btn-manage-subjects">📖 Master Subjects</button>
+        <button class="btn btn-secondary btn-sm" id="header-btn-manage-faculty">👥 Master Faculty</button>
+        <button class="btn btn-secondary btn-sm" id="header-btn-save-project">💾 Save</button>
+        <button class="btn btn-secondary btn-sm" id="header-btn-load-project">📂 Load</button>
+        <input type="file" id="header-project-file-input" accept=".json" style="display:none;">
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="container">
+    <div id="step-content-area">
+      <!-- Steps rendered dynamically by UIController -->
+    </div>
+  </main>
+
+  <!-- Script Modules (Client-side, Zero external backend) -->
+  <script src="js/data.js"></script>
+  <script src="js/class-parser.js"></script>
+  <script src="js/subject-manager.js"></script>
+  <script src="js/faculty-manager.js"></script>
+  <script src="js/classroom-manager.js"></script>
+  <script src="js/constraints.js"></script>
+  <script src="js/timetable-engine.js"></script>
+  <script src="js/validator.js"></script>
+  <script src="js/optimizer.js"></script>
+  <script src="js/export.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

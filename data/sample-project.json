@@ -1,0 +1,886 @@
+{
+  "metadata": {
+    "collegeName": "PSG Institute of Technology and Applied Research",
+    "departmentName": "Department of Electronics and Communication Engineering",
+    "academicYear": "2026-2027",
+    "workingDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "periodsPerDay": 8
+  },
+  "departmentConfig": {
+    "totalClasses": 8,
+    "availableClassrooms": 6,
+    "classrooms": [
+      {
+        "room": "101",
+        "capacity": 65
+      },
+      {
+        "room": "102",
+        "capacity": 65
+      },
+      {
+        "room": "103",
+        "capacity": 65
+      },
+      {
+        "room": "104",
+        "capacity": 65
+      },
+      {
+        "room": "201",
+        "capacity": 60
+      },
+      {
+        "room": "202",
+        "capacity": 60
+      }
+    ]
+  },
+  "classes": [
+    {
+      "code": "1113",
+      "year": 1,
+      "branchCode": 1,
+      "branch": "ECE",
+      "division": "A",
+      "semester": 3,
+      "strength": 60
+    },
+    {
+      "code": "1123",
+      "year": 1,
+      "branchCode": 1,
+      "branch": "ECE",
+      "division": "B",
+      "semester": 3,
+      "strength": 58
+    },
+    {
+      "code": "2115",
+      "year": 2,
+      "branchCode": 1,
+      "branch": "ECE",
+      "division": "A",
+      "semester": 5,
+      "strength": 60
+    },
+    {
+      "code": "2125",
+      "year": 2,
+      "branchCode": 1,
+      "branch": "ECE",
+      "division": "B",
+      "semester": 5,
+      "strength": 58
+    },
+    {
+      "code": "2215",
+      "year": 2,
+      "branchCode": 2,
+      "branch": "VLSI",
+      "division": "A",
+      "semester": 5,
+      "strength": 55
+    },
+    {
+      "code": "3115",
+      "year": 3,
+      "branchCode": 1,
+      "branch": "ECE",
+      "division": "A",
+      "semester": 5,
+      "strength": 62
+    },
+    {
+      "code": "3215",
+      "year": 3,
+      "branchCode": 2,
+      "branch": "VLSI",
+      "division": "A",
+      "semester": 5,
+      "strength": 54
+    },
+    {
+      "code": "4117",
+      "year": 4,
+      "branchCode": 1,
+      "branch": "ECE",
+      "division": "A",
+      "semester": 7,
+      "strength": 56
+    }
+  ],
+  "facultyAvailability": {
+    "Dr. S. Aramuthakannan": {
+      "department": "Mathematics",
+      "isOtherDept": true,
+      "availableSlots": {
+        "Monday": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Tuesday": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "Wednesday": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "Thursday": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Friday": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    "Dr. P. Chinnaraj": {
+      "department": "Mathematics",
+      "isOtherDept": true,
+      "availableSlots": {
+        "Monday": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "Tuesday": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Wednesday": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "Thursday": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "Friday": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    "Dr. B. Gomathy": {
+      "department": "CSE",
+      "isOtherDept": true,
+      "availableSlots": {
+        "Monday": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "Tuesday": [
+          3,
+          4,
+          7,
+          8
+        ],
+        "Wednesday": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Thursday": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "Friday": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    }
+  },
+  "classConfigurations": {
+    "1113": {
+      "subjects": [
+        {
+          "code": "MA3355",
+          "name": "Random Processes and Linear Algebra",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. Aramuthakannan"
+          ]
+        },
+        {
+          "code": "CS3353",
+          "name": "C Programming and Data Structures",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. B. Gomathy"
+          ]
+        },
+        {
+          "code": "EC3354",
+          "name": "Signals and Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. C. Arvind"
+          ]
+        },
+        {
+          "code": "EC3353",
+          "name": "Electronic Devices and Circuits",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. D. Selvakumar"
+          ]
+        },
+        {
+          "code": "EC3351",
+          "name": "Control Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. G. Santhanamari"
+          ]
+        },
+        {
+          "code": "EC3361",
+          "name": "Electronic Devices and Circuits Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "Circuits Lab",
+          "faculty": [
+            "Dr. D. Selvakumar",
+            "Dr. B. A. Sapna"
+          ]
+        },
+        {
+          "code": "CS3362",
+          "name": "C Programming and Data Structures Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "Computing Lab",
+          "faculty": [
+            "Dr. B. Gomathy"
+          ]
+        },
+        {
+          "code": "GE3361",
+          "name": "Professional Development",
+          "type": "Elective Course",
+          "hours": 2,
+          "faculty": [
+            "Dr. K. Pramila"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 7,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "1123": {
+      "subjects": [
+        {
+          "code": "MA3355",
+          "name": "Random Processes and Linear Algebra",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. P. Chinnaraj"
+          ]
+        },
+        {
+          "code": "CS3353",
+          "name": "C Programming and Data Structures",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. B. Gomathy"
+          ]
+        },
+        {
+          "code": "EC3354",
+          "name": "Signals and Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. P. Sridhar"
+          ]
+        },
+        {
+          "code": "EC3353",
+          "name": "Electronic Devices and Circuits",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. M. Deepa"
+          ]
+        },
+        {
+          "code": "EC3351",
+          "name": "Control Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. G. Santhanamari"
+          ]
+        },
+        {
+          "code": "EC3361",
+          "name": "Electronic Devices and Circuits Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "Circuits Lab",
+          "faculty": [
+            "Dr. M. Deepa",
+            "Dr. B. A. Sapna"
+          ]
+        },
+        {
+          "code": "CS3362",
+          "name": "C Programming and Data Structures Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "Computing Lab",
+          "faculty": [
+            "Dr. B. Gomathy"
+          ]
+        },
+        {
+          "code": "GE3361",
+          "name": "Professional Development",
+          "type": "Elective Course",
+          "hours": 2,
+          "faculty": [
+            "Dr. S. Gandhimathi"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 7,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "2115": {
+      "subjects": [
+        {
+          "code": "EC3501",
+          "name": "Wireless Communication",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. B. Tharini"
+          ]
+        },
+        {
+          "code": "EC3552",
+          "name": "VLSI and Chip Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. P. Vijayakumar"
+          ]
+        },
+        {
+          "code": "EC3551",
+          "name": "Transmission Lines and RF Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. P. Cowsigan"
+          ]
+        },
+        {
+          "code": "EC3492",
+          "name": "Digital Signal Processing",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. M. Jothibasu"
+          ]
+        },
+        {
+          "code": "EC3352",
+          "name": "Digital Systems Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. K. Paldurai"
+          ]
+        },
+        {
+          "code": "EC3561",
+          "name": "VLSI Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "VLSI Lab",
+          "faculty": [
+            "Dr. P. Vijayakumar",
+            "Dr. M. Deepa"
+          ]
+        },
+        {
+          "code": "CEC366",
+          "name": "Image Processing",
+          "type": "Elective Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. J. S. Sujin"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 8,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "2125": {
+      "subjects": [
+        {
+          "code": "EC3501",
+          "name": "Wireless Communication",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. P. Sakthivel"
+          ]
+        },
+        {
+          "code": "EC3552",
+          "name": "VLSI and Chip Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. M. Jayasanthi"
+          ]
+        },
+        {
+          "code": "EC3551",
+          "name": "Transmission Lines and RF Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. P. Cowsigan"
+          ]
+        },
+        {
+          "code": "EC3492",
+          "name": "Digital Signal Processing",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. P. Sridhar"
+          ]
+        },
+        {
+          "code": "EC3352",
+          "name": "Digital Systems Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. Padmapriya"
+          ]
+        },
+        {
+          "code": "EC3561",
+          "name": "VLSI Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "VLSI Lab",
+          "faculty": [
+            "Dr. M. Jayasanthi",
+            "Dr. S. Padmapriya"
+          ]
+        },
+        {
+          "code": "CEC366",
+          "name": "Image Processing",
+          "type": "Elective Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. J. S. Sujin"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 8,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "2215": {
+      "subjects": [
+        {
+          "code": "VL3401",
+          "name": "Digital VLSI Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. Sridevi Sathya Priya"
+          ]
+        },
+        {
+          "code": "VL3501",
+          "name": "CMOS Analog IC Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. K. Paldurai"
+          ]
+        },
+        {
+          "code": "EC3552",
+          "name": "VLSI and Chip Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. P. Vijayakumar"
+          ]
+        },
+        {
+          "code": "VL3702",
+          "name": "Hardware Description Languages",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. J. R. Dinesh Kumar"
+          ]
+        },
+        {
+          "code": "CEC370",
+          "name": "Low Power IC Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. Padmapriya"
+          ]
+        },
+        {
+          "code": "EC3561",
+          "name": "VLSI Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "VLSI Lab",
+          "faculty": [
+            "Dr. S. Sridevi Sathya Priya",
+            "Dr. J. R. Dinesh Kumar"
+          ]
+        },
+        {
+          "code": "CEC342",
+          "name": "Mixed Signal IC Design Testing",
+          "type": "Elective Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. K. Paldurai"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 8,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "3115": {
+      "subjects": [
+        {
+          "code": "EC3501",
+          "name": "Wireless Communication",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. B. Tharini"
+          ]
+        },
+        {
+          "code": "EC3552",
+          "name": "VLSI and Chip Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. M. Jayasanthi"
+          ]
+        },
+        {
+          "code": "EC3551",
+          "name": "Transmission Lines and RF Systems",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. P. Cowsigan"
+          ]
+        },
+        {
+          "code": "EC3492",
+          "name": "Digital Signal Processing",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. M. Jothibasu"
+          ]
+        },
+        {
+          "code": "ET3491",
+          "name": "Embedded Systems and IOT Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. G. Santhanamari"
+          ]
+        },
+        {
+          "code": "EC3561",
+          "name": "VLSI Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "VLSI Lab",
+          "faculty": [
+            "Dr. M. Jayasanthi",
+            "Dr. M. Priyadharshini"
+          ]
+        },
+        {
+          "code": "CEC335",
+          "name": "Antenna Design",
+          "type": "Honours Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. S. P. Cowsigan"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 8,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "3215": {
+      "subjects": [
+        {
+          "code": "VL3601",
+          "name": "Low Power VLSI Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. Padmapriya"
+          ]
+        },
+        {
+          "code": "VL3501",
+          "name": "CMOS Analog IC Design",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. K. Paldurai"
+          ]
+        },
+        {
+          "code": "VL3701",
+          "name": "VLSI Testing and Verification",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. M. Priyadharshini"
+          ]
+        },
+        {
+          "code": "VL3702",
+          "name": "Hardware Description Languages",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. J. R. Dinesh Kumar"
+          ]
+        },
+        {
+          "code": "CEC362",
+          "name": "VLSI Testing and Design For Testability",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. S. Sridevi Sathya Priya"
+          ]
+        },
+        {
+          "code": "EC3561",
+          "name": "VLSI Laboratory",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "VLSI Lab",
+          "faculty": [
+            "Dr. M. Priyadharshini",
+            "Dr. K. Paldurai"
+          ]
+        },
+        {
+          "code": "CEC370",
+          "name": "Low Power IC Design",
+          "type": "Honours Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. S. Padmapriya"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 8,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": []
+    },
+    "4117": {
+      "subjects": [
+        {
+          "code": "GE3791",
+          "name": "Human Values and Ethics",
+          "type": "Main Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. R. Ravikumar"
+          ]
+        },
+        {
+          "code": "GE3751",
+          "name": "Principles of Management",
+          "type": "Main Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. R. Uma"
+          ]
+        },
+        {
+          "code": "CEC352",
+          "name": "Satellite Communication",
+          "type": "Elective Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. B. Tharini"
+          ]
+        },
+        {
+          "code": "CEC345",
+          "name": "Optical Communication & Networks",
+          "type": "Elective Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. P. Sakthivel"
+          ]
+        },
+        {
+          "code": "CEC371",
+          "name": "Massive MIMO Networks",
+          "type": "Main Course",
+          "hours": 5,
+          "faculty": [
+            "Dr. C. Arvind"
+          ]
+        },
+        {
+          "code": "EC3711",
+          "name": "Summer internship",
+          "type": "Main Course",
+          "hours": 4,
+          "faculty": [
+            "Dr. P. Vijayakumar"
+          ]
+        },
+        {
+          "code": "VL3711",
+          "name": "Cadence / Synopsys EDA Lab",
+          "type": "Lab",
+          "hours": 3,
+          "continuous": 3,
+          "labName": "EDA Lab",
+          "faculty": [
+            "Dr. J. R. Dinesh Kumar",
+            "Dr. M. Priyadharshini"
+          ]
+        },
+        {
+          "code": "FREE",
+          "name": "Free Period",
+          "type": "Free Period",
+          "hours": 12,
+          "faculty": []
+        }
+      ],
+      "simultaneousGroups": [
+        {
+          "id": "SIM_GROUP_1",
+          "name": "Professional Elective Vertical Pool",
+          "subjects": [
+            "CEC352",
+            "CEC345"
+          ]
+        }
+      ]
+    }
+  }
+}
