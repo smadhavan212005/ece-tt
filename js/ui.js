@@ -84,14 +84,13 @@
             </div>
             <div style="display:flex; gap:10px;">
               <button class="btn btn-secondary btn-sm" id="btn-load-sample">
-                <span>⚡</span> Load Sample Realistic Dataset (ECE + VLSI)
+                Load Sample Realistic Dataset (ECE + VLSI)
               </button>
             </div>
           </div>
 
           <!-- Prominent Section 3 & 32 Callout -->
           <div class="callout callout-info">
-            <span class="callout-icon">ℹ️</span>
             <div>
               <strong>Important Classroom Rule:</strong>
               Do not include <em>Peer Learning Hall</em> in the classroom count. Peer Learning Hall is automatically considered as a variable/overflow classroom for eligible 3rd and 4th year classes.
@@ -318,10 +317,10 @@
           interpBox.style.display = 'block';
           if (res.isValid) {
             interpBox.style.borderColor = 'var(--success)';
-            interpText.innerHTML = `✅ ${res.yearLabel} &bull; ${res.branch} (${res.branchFullName}) &bull; Division ${res.division} &bull; Semester ${res.semester}`;
+            interpText.innerHTML = `${res.yearLabel} &bull; ${res.branch} (${res.branchFullName}) &bull; Division ${res.division} &bull; Semester ${res.semester}`;
           } else {
             interpBox.style.borderColor = 'var(--danger)';
-            interpText.innerHTML = `⚠️ <span style="color:var(--danger);">${res.error}</span>`;
+            interpText.innerHTML = `<span style="color:var(--danger);">${res.error}</span>`;
           }
         } else if (val.length > 0) {
           interpBox.style.display = 'block';
@@ -509,7 +508,7 @@
           </div>
           <div style="margin-top:14px;">
             <button class="btn btn-primary btn-sm" style="width:100%;" onclick="window.App.ui.selectClassToConfigure('${c.code}')">
-              ${isComplete ? 'Edit Configuration ⚙️' : 'Configure Class ➔'}
+              ${isComplete ? 'Edit Configuration' : 'Configure Class ➔'}
             </button>
           </div>
         `;
@@ -581,12 +580,25 @@
             </div>
           </div>
 
+          <!-- Break System -->
+          <div style="margin-bottom:24px; padding-bottom:20px; border-bottom:1px solid var(--border);">
+            <h3 style="font-size:15px; color:var(--secondary); margin-bottom:4px;">Break System</h3>
+            <p style="font-size:12px; color:var(--text-muted); margin-bottom:10px;">
+              Choose how the day is divided by breaks and lunch for this class. Laboratories of 2 or 3 continuous periods never cross lunch; those of 4 continuous periods may cross both lunch and breaks.
+            </p>
+            <select id="select-break-system" style="max-width:560px;">
+              ${Object.values(window.Constraints.BREAK_SYSTEMS).map(bs => `
+                <option value="${bs.id}" ${((existingConfig.breakSystem || window.Constraints.DEFAULT_BREAK_SYSTEM) === bs.id) ? 'selected' : ''}>${bs.label}: ${bs.description}</option>
+              `).join('')}
+            </select>
+          </div>
+
           <!-- Section 1: Subject Master Picker with Search -->
           <div style="margin-bottom:24px;">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
               <h3 style="font-size:15px; color:var(--secondary);">Select Subjects for Class ${classObj.code}</h3>
               <div style="display:flex; gap:10px; width:60%;">
-                <input type="text" id="subj-search-input" placeholder="🔍 Search subjects by code, title, or category..." style="padding:8px 12px; font-size:13px;">
+                <input type="text" id="subj-search-input" placeholder="Search subjects by code, title, or category..." style="padding:8px 12px; font-size:13px;">
                 <select id="subj-cat-filter" style="width:180px; padding:8px; font-size:13px;">
                   <option value="ALL">All Categories</option>
                   <option value="Main Course">Main Courses</option>
@@ -789,8 +801,8 @@
             </div>
             <div id="faculty-tags-${subj.code}" style="display:flex; flex-wrap:wrap; gap:6px;">
               ${(subj.faculty && subj.faculty.length > 0)
-                ? subj.faculty.map(f => `<span class="badge badge-primary" style="font-size:12px; padding:4px 8px;">👤 ${f}</span>`).join('')
-                : `<span style="font-size:12px; color:var(--danger);">⚠️ No faculty assigned yet</span>`
+                ? subj.faculty.map(f => `<span class="badge badge-primary" style="font-size:12px; padding:4px 8px;">${f}</span>`).join('')
+                : `<span style="font-size:12px; color:var(--danger);">No faculty assigned yet</span>`
               }
             </div>
           </div>
@@ -975,7 +987,7 @@
             </p>
 
             <div style="display:flex; gap:10px; margin-bottom:12px;">
-              <input type="text" id="fac-modal-search" placeholder="🔍 Search faculty by name, specialization..." style="flex:1;">
+              <input type="text" id="fac-modal-search" placeholder="Search faculty by name, specialization..." style="flex:1;">
               <select id="fac-modal-dept" style="width:160px;">
                 <option value="ALL">All Departments</option>
                 ${allDepts.map(d => `<option value="${d}">${d}</option>`).join('')}
@@ -1028,7 +1040,7 @@
             <div style="display:flex; align-items:center; gap:8px;">
               <span class="badge ${isOtherDept ? 'badge-warning' : 'badge-primary'}">${isOtherDept ? 'Other Dept' : 'Same Dept'}</span>
               <button class="btn btn-secondary btn-sm" onclick="window.App.ui.openAvailabilityMatrixModal('${fac.name}', '${fac.department}')">
-                🗓️ Availability
+                Availability
               </button>
             </div>
           `;
@@ -1290,6 +1302,7 @@
       }
 
       window.App.project.classConfigurations[classCode] = {
+        breakSystem: document.getElementById('select-break-system').value,
         subjects: subjects,
         simultaneousGroups: this.currentConfigState.simultaneousGroups || []
       };
@@ -1314,7 +1327,7 @@
             </div>
             <div style="display:flex; gap:10px;">
               <button class="btn btn-primary btn-lg" id="btn-generate-timetable">
-                🚀 Generate Department Timetable
+                Generate Department Timetable
               </button>
             </div>
           </div>
@@ -1328,6 +1341,14 @@
         <!-- Output Views Area (Visible when generated) -->
         <div id="timetable-views-container">
           ${isGenerated ? this.renderTimetableViewArea() : ''}
+        </div>
+
+        <!-- Credit -->
+        <div class="callout callout-info no-print" style="justify-content:center; text-align:center; margin-top:8px;">
+          <div>
+            Designed and Developed for the Department of ECE &amp; VLSI by
+            <a href="https://www.linkedin.com/in/s--madhavan/" target="_blank" rel="noopener noreferrer"><strong>Madhavan S</strong></a>
+          </div>
         </div>
       `;
 
@@ -1352,7 +1373,6 @@
       if (!this.lastGeneratedResult) {
         return `
           <div class="callout ${isReady ? 'callout-info' : 'callout-warning'}">
-            <span class="callout-icon">${isReady ? '✅' : '⚠️'}</span>
             <div>
               <strong>Department Configuration Status:</strong>
               Classes: ${completedCount} / ${totalClasses} configured &bull; Classrooms: ${(window.App.project.departmentConfig && window.App.project.departmentConfig.classrooms.length) || 0}
@@ -1368,7 +1388,6 @@
       if (res.success) {
         return `
           <div class="callout callout-success" style="background:#ecfdf5; border-color:#a7f3d0;">
-            <span class="callout-icon">🎉</span>
             <div style="flex:1;">
               <div style="display:flex; justify-content:space-between; align-items:center;">
                 <strong style="font-size:15px; color:#065f46;">TIMETABLE GENERATED SUCCESSFULLY &mdash; VALID TIMETABLE</strong>
@@ -1390,7 +1409,6 @@
       } else {
         return `
           <div class="callout callout-danger">
-            <span class="callout-icon">❌</span>
             <div>
               <strong style="font-size:15px;">NO VALID TIMETABLE FOUND</strong>
               <p style="margin-top:4px;">The scheduler could not fulfill all hard constraints with the current settings.</p>
@@ -1408,7 +1426,6 @@
       if (statusDiv) {
         statusDiv.innerHTML = `
           <div class="callout callout-info">
-            <span class="callout-icon">⏳</span>
             <div>Generating timetables and validating constraints...</div>
           </div>
         `;
@@ -1458,26 +1475,26 @@
           <div class="no-print" style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid var(--border); padding-bottom:12px; margin-bottom:16px;">
             <div style="display:flex; gap:6px;">
               <button class="btn ${this.selectedViewType === 'class' ? 'btn-primary' : 'btn-secondary'} btn-sm" onclick="window.App.ui.switchViewType('class')">
-                📚 Class Timetables
+                Class Timetables
               </button>
               <button class="btn ${this.selectedViewType === 'faculty' ? 'btn-primary' : 'btn-secondary'} btn-sm" onclick="window.App.ui.switchViewType('faculty')">
-                👨‍🏫 Faculty Timetables
+                Faculty Timetables
               </button>
               <button class="btn ${this.selectedViewType === 'room' ? 'btn-primary' : 'btn-secondary'} btn-sm" onclick="window.App.ui.switchViewType('room')">
-                🏛️ Classroom Timetables
+                Classroom Timetables
               </button>
               <button class="btn ${this.selectedViewType === 'lab' ? 'btn-primary' : 'btn-secondary'} btn-sm" onclick="window.App.ui.switchViewType('lab')">
-                🔬 Laboratory Timetables
+                Laboratory Timetables
               </button>
             </div>
 
             <!-- Export & Print Actions -->
             <div style="display:flex; gap:8px;">
               <button class="btn btn-secondary btn-sm" id="btn-export-csv">
-                📥 Export CSV
+                Export CSV
               </button>
               <button class="btn btn-secondary btn-sm" id="btn-print-timetable">
-                🖨️ Print (A4 Landscape)
+                Print (A4 Landscape)
               </button>
             </div>
           </div>
@@ -1499,9 +1516,8 @@
           <!-- Manual Edit Instruction Callout -->
           ${this.selectedViewType === 'class' ? `
             <div class="callout callout-info no-print" style="padding:10px 14px; margin-bottom:14px;">
-              <span class="callout-icon">💡</span>
               <div style="font-size:12px;">
-                <strong>Interactive Manual Editing:</strong> Click any cell to select it, then click another cell to move/swap. The system automatically validates faculty collisions, room conflicts, and lunch rules before moving! Click 🔒 to lock a slot.
+                <strong>Interactive Manual Editing:</strong> Click any cell to select it, then click another cell to move/swap. The system automatically validates faculty collisions, room conflicts, and lunch rules before moving! Use the Lock button on a slot to lock it.
               </div>
             </div>
           ` : ''}
@@ -1583,39 +1599,33 @@
 
       const days = window.App.project.metadata.workingDays || ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
 
+      // Column layout (periods, breaks, lunch) follows the break system chosen for this class
+      const classConfig = (window.App.project.classConfigurations && window.App.project.classConfigurations[classCode]) || {};
+      const layout = window.Constraints.getBreakSystem(classConfig.breakSystem).layout;
+      const timeLabel = (time) => time ? `<br><small>${time}</small>` : '';
+
+      const headerCells = layout.map(col => {
+        if (col.type === 'period') return `<th>Period ${col.period}${timeLabel(col.time)}</th>`;
+        if (col.type === 'lunch') return `<th class="col-lunch">LUNCH${timeLabel(col.time)}</th>`;
+        return `<th class="col-break">BREAK${timeLabel(col.time)}</th>`;
+      }).join('');
+
       return `
         <table class="timetable-grid-table">
           <thead>
             <tr>
               <th class="col-day">DAY</th>
-              <th>Period 1<br><small>8:45-9:45</small></th>
-              <th>Period 2<br><small>9:45-10:45</small></th>
-              <th class="col-break">BREAK<br><small>10:45-11:00</small></th>
-              <th>Period 3<br><small>11:00-12:00</small></th>
-              <th>Period 4<br><small>12:00-1:00</small></th>
-              <th class="col-lunch">LUNCH<br><small>1:00-1:45</small></th>
-              <th>Period 5<br><small>1:45-2:45</small></th>
-              <th>Period 6<br><small>2:45-3:45</small></th>
-              <th class="col-break">BREAK<br><small>3:45-4:00</small></th>
-              <th>Period 7<br><small>4:00-4:45</small></th>
-              <th>Period 8<br><small>4:45-5:30</small></th>
+              ${headerCells}
             </tr>
           </thead>
           <tbody>
             ${days.map(day => `
               <tr>
                 <td class="day-cell">${day}</td>
-                ${this.renderClassSlotCell(classCode, day, 1, sched[day][1])}
-                ${this.renderClassSlotCell(classCode, day, 2, sched[day][2])}
-                <td class="interval-cell">TEA</td>
-                ${this.renderClassSlotCell(classCode, day, 3, sched[day][3])}
-                ${this.renderClassSlotCell(classCode, day, 4, sched[day][4])}
-                <td class="interval-cell">LUNCH</td>
-                ${this.renderClassSlotCell(classCode, day, 5, sched[day][5])}
-                ${this.renderClassSlotCell(classCode, day, 6, sched[day][6])}
-                <td class="interval-cell">TEA</td>
-                ${this.renderClassSlotCell(classCode, day, 7, sched[day][7])}
-                ${this.renderClassSlotCell(classCode, day, 8, sched[day][8])}
+                ${layout.map(col => {
+                  if (col.type === 'period') return this.renderClassSlotCell(classCode, day, col.period, sched[day][col.period]);
+                  return `<td class="interval-cell">${col.type === 'lunch' ? 'LUNCH' : 'TEA'}</td>`;
+                }).join('')}
               </tr>
             `).join('')}
           </tbody>
@@ -1653,12 +1663,12 @@
             <div style="display:flex; justify-content:space-between; align-items:flex-start;">
               <div class="slot-subject">${slot.subjectName}</div>
               <button class="btn btn-sm no-print" style="padding:2px 4px; font-size:10px; background:none; border:none;" onclick="event.stopPropagation(); window.App.ui.toggleLockSlot('${classCode}', '${day}', ${period})">
-                ${slot.isLocked ? '🔒' : '🔓'}
+                ${slot.isLocked ? 'Unlock' : 'Lock'}
               </button>
             </div>
-            <div class="slot-faculty">👤 ${facultyNames || 'Unassigned'}</div>
+            <div class="slot-faculty">${facultyNames || 'Unassigned'}</div>
             <div class="slot-room ${roomClass}">
-              <span>${slot.isLab ? '🔬 ' + (slot.labName || slot.room) : '🏛️ ' + (slot.room || '-')}</span>
+              <span>${slot.isLab ? 'Lab: ' + (slot.labName || slot.room) : 'Room: ' + (slot.room || '-')}</span>
               <span style="font-size:10px; opacity:0.8;">P${period}</span>
             </div>
           </div>
@@ -1695,7 +1705,7 @@
                         <div class="slot-subject" style="color:var(--primary); font-size:13px;">Class ${slot.classCode}</div>
                         <div style="font-weight:600; font-size:11px;">${slot.subjectName}</div>
                         <div class="slot-room" style="color:#b45309;">
-                          <span>📍 ${slot.isLab ? 'Lab: ' + slot.room : 'Room: ' + (slot.room || '-')}</span>
+                          <span>${slot.isLab ? 'Lab: ' + slot.room : 'Room: ' + (slot.room || '-')}</span>
                         </div>
                       </div>
                     </td>
@@ -1736,7 +1746,7 @@
                       <div class="slot-card is-main">
                         <div class="slot-subject" style="color:var(--primary); font-size:13px;">Class ${slot.classCode}</div>
                         <div style="font-size:11px; font-weight:600;">${slot.subjectName}</div>
-                        <div class="slot-faculty">👤 ${(slot.faculty || []).join(', ')}</div>
+                        <div class="slot-faculty">${(slot.faculty || []).join(', ')}</div>
                       </div>
                     </td>
                   `;
@@ -1776,7 +1786,7 @@
                       <div class="slot-card is-lab">
                         <div class="slot-subject" style="color:#c026d3; font-size:13px;">Class ${slot.classCode}</div>
                         <div style="font-size:11px; font-weight:600;">${slot.subjectName}</div>
-                        <div class="slot-faculty">👤 ${(slot.faculty || []).join(', ')}</div>
+                        <div class="slot-faculty">${(slot.faculty || []).join(', ')}</div>
                       </div>
                     </td>
                   `;

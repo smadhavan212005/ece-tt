@@ -5,6 +5,38 @@ CSP Scheduling Engine mirror for offline testing and verification.
 import copy
 from itertools import permutations
 
+# Lunch falls after this period for each break system a class can choose:
+#   '2-2': P1-P2 | Break | P3-P4 | Lunch | P5-P6 | Break | P7-P8
+#   '3-2': P1-P3 | Break | P4-P5 | Lunch | P6-P7 | Break | P8
+LUNCH_AFTER_PERIOD = {'2-2': 4, '3-2': 5}
+DEFAULT_BREAK_SYSTEM = '2-2'
+
+
+def lunch_boundary(break_system):
+    return LUNCH_AFTER_PERIOD.get(break_system, LUNCH_AFTER_PERIOD[DEFAULT_BREAK_SYSTEM])
+
+
+# Labs of this many continuous periods or more may cross lunch and breaks; shorter ones never cross lunch.
+LUNCH_EXEMPT_MIN_PERIODS = 4
+
+
+def can_cross_lunch(cont):
+    return cont >= LUNCH_EXEMPT_MIN_PERIODS
+
+
+def scheduler_lab_starts(cont, break_system, total_periods=8):
+    """Start periods tried for a lab; P1 is left to Main Courses."""
+    lb = lunch_boundary(break_system)
+    if not can_cross_lunch(cont):
+        if break_system != '3-2':
+            return [2, 5, 6] if cont == 3 else [2, 3, 5, 6, 7]
+        return [sp for sp in range(2, total_periods - cont + 2) if sp + cont - 1 <= lb or sp > lb]
+    # Lunch-exempt: try blocks that avoid lunch first, then ones that cross it
+    starts = list(range(2, total_periods - cont + 2))
+    avoids = lambda sp: sp + cont - 1 <= lb or sp > lb
+    return [sp for sp in starts if avoids(sp)] + [sp for sp in starts if not avoids(sp)]
+
+
 class PythonTimetableEngine:
     def __init__(self, project_data):
         self.project = copy.deepcopy(project_data)
@@ -254,8 +286,11 @@ class PythonTimetableEngine:
                     fac = subj.get('faculty', [])
                     placed = False
 
+                    # Lunch position depends on the class's break system (default: two-period system)
+                    lb = lunch_boundary(cfg.get('breakSystem'))
+
                     # Valid starts avoiding P1 when class has 5 main courses
-                    valid_starts = [2, 5, 6] if cont == 3 else [2, 3, 5, 6, 7]
+                    valid_starts = scheduler_lab_starts(cont, cfg.get('breakSystem'))
                     for d in self.working_days:
                         if placed: break
                         for sp in valid_starts:
@@ -263,7 +298,7 @@ class PythonTimetableEngine:
                             for offset in range(cont):
                                 p = sp + offset
                                 if p > self.periods_per_day: can_fit = False; break
-                                if (sp <= 4 and p > 4) or (sp >= 5 and p < 5): can_fit = False; break # No lunch cross
+                                if not can_cross_lunch(cont) and ((sp <= lb and p > lb) or (sp > lb and p <= lb)): can_fit = False; break # No lunch cross (4+ period labs exempt)
                                 if self.class_schedules[cls['code']][d][p] is not None: can_fit = False; break
                                 if not self.is_lab_free(lab_name, d, p): can_fit = False; break
                                 if not self.are_all_faculty_free(fac, d, p, cls['code']): can_fit = False; break
@@ -278,7 +313,8 @@ class PythonTimetableEngine:
                                         'faculty': fac,
                                         'room': lab_name,
                                         'labName': lab_name,
-                                        'isLab': True
+                                        'isLab': True,
+                                        'continuousTotal': cont
                                     })
                                 placed = True
                                 break

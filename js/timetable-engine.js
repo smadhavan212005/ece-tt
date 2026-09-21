@@ -435,8 +435,11 @@
             const faculty = subj.faculty || [];
             let placed = false;
 
+            // Lunch position depends on the class's break system (default: two-period system)
+            const lunchBoundary = window.Constraints.getLunchBoundary(cfg.breakSystem);
+
             // Valid starts avoiding P1 when class has 5 main courses
-            const validStarts = continuous === 3 ? [2, 5, 6] : [2, 3, 5, 6, 7];
+            const validStarts = window.Constraints.getSchedulerLabStartPeriods(continuous, cfg.breakSystem);
 
             for (const day of this.workingDays) {
               if (placed) break;
@@ -448,7 +451,7 @@
                   const p = startP + offset;
                   if (p > this.periodsPerDay) { canFit = false; break; }
                   // No lunch cross
-                  if ((startP <= 4 && p > 4) || (startP >= 5 && p < 5)) { canFit = false; break; }
+                  if (!window.Constraints.canCrossLunch(continuous) && ((startP <= lunchBoundary && p > lunchBoundary) || (startP > lunchBoundary && p <= lunchBoundary))) { canFit = false; break; }
                   if (this.classSchedules[cls.code][day][p] !== null) { canFit = false; break; }
                   if (!this.isLabFree(labName, day, p)) { canFit = false; break; }
                   if (!this.areAllFacultyFree(faculty, day, p, cls.code)) { canFit = false; break; }

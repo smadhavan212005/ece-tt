@@ -66,14 +66,15 @@ def validate_all(generated_result, project_data):
             if p not in allowed:
                 errors.append(f"Availability violation: {f} on {d} P{p} (allowed: {allowed}).")
 
-    # 5. Lab lunch rule
+    # 5. Lab lunch rule (lunch is after P4, or after P5 in the 3-2 break system)
     for cls in classes:
         sched = class_scheds.get(cls['code'], {})
+        lb = 5 if class_configs.get(cls['code'], {}).get('breakSystem') == '3-2' else 4
         for d in days:
-            p4 = sched.get(d, {}).get(4)
-            p5 = sched.get(d, {}).get(5)
-            if p4 and p5 and p4.get('isLab') and p5.get('isLab') and p4.get('subjectCode') == p5.get('subjectCode'):
-                errors.append(f"Lab lunch violation: Class {cls['code']} lab spans P4 to P5 across lunch on {d}.")
+            before = sched.get(d, {}).get(lb)
+            after = sched.get(d, {}).get(lb + 1)
+            if before and after and before.get('isLab') and after.get('isLab') and before.get('subjectCode') == after.get('subjectCode') and before.get('continuousTotal', 0) < 4:
+                errors.append(f"Lab lunch violation: Class {cls['code']} lab spans P{lb} to P{lb + 1} across lunch on {d}.")
 
     # 6. Main course P1 rule
     for cls in classes:

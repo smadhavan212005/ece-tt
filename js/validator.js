@@ -186,16 +186,21 @@
       }
 
       // 5. Check Lab Continuity & Lunch Rule (HARD)
-      // Labs must be continuous and must NOT cross Lunch (P4 -> P5)
+      // Labs must be continuous and must NOT cross Lunch (P4 -> P5, or P5 -> P6 in the 3-2 break system).
+      // Exception: labs of 4 or more continuous periods may cross lunch.
       for (const cls of classes) {
         const sched = classSchedules[cls.code];
         if (!sched) continue;
+        const clsConfig = (project.classConfigurations && project.classConfigurations[cls.code]) || {};
+        const lunchBoundary = window.Constraints.getLunchBoundary(clsConfig.breakSystem);
+        const lunchBoundaryLabel = `Period ${lunchBoundary} and Period ${lunchBoundary + 1}`;
         for (const day of workingDays) {
-          // Check if any lab crosses lunch (active at P4 AND P5 for the same lab subject)
-          const p4 = sched[day][4];
-          const p5 = sched[day][5];
-          if (p4 && p5 && p4.isLab && p5.isLab && p4.subjectCode === p5.subjectCode) {
-            const desc = `Lab Lunch Rule Violation: Class ${cls.code} has laboratory "${p4.subjectName}" spanning across Lunch between Period 4 and Period 5 on ${day}.`;
+          // Check if any lab crosses lunch (active on both sides of lunch for the same lab subject)
+          const before = sched[day][lunchBoundary];
+          const after = sched[day][lunchBoundary + 1];
+          if (before && after && before.isLab && after.isLab && before.subjectCode === after.subjectCode &&
+              !window.Constraints.canCrossLunch(before.continuousTotal || 0)) {
+            const desc = `Lab Lunch Rule Violation: Class ${cls.code} has laboratory "${before.subjectName}" spanning across Lunch between ${lunchBoundaryLabel} on ${day}.`;
             errors.push(desc);
             conflictReport.push({
               type: 'LAB_LUNCH_VIOLATION',
@@ -204,7 +209,9 @@
               description: desc,
               classCode: cls.code,
               day: day,
-              suggestion: `Schedule labs strictly before lunch (P1-P3, P2-P4) or strictly after lunch (P5-P7, P6-P8).`
+              suggestion: lunchBoundary === 4
+                ? `Schedule labs strictly before lunch (P1-P3, P2-P4) or strictly after lunch (P5-P7, P6-P8).`
+                : `Schedule labs strictly before lunch (P1-P3, P2-P4, P3-P5) or strictly after lunch (P6-P8).`
             });
           }
         }

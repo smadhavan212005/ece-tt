@@ -140,7 +140,7 @@
           </div>
           <div class="modal-body">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-              <input type="text" id="subj-master-search" placeholder="🔍 Search subjects..." style="width:300px;">
+              <input type="text" id="subj-master-search" placeholder="Search subjects..." style="width:300px;">
               <button class="btn btn-primary btn-sm" id="btn-add-master-subj">+ Add New Subject</button>
             </div>
 
@@ -307,7 +307,7 @@
           </div>
           <div class="modal-body">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; gap:10px;">
-              <input type="text" id="fac-master-search" placeholder="🔍 Search faculty..." style="flex:1;">
+              <input type="text" id="fac-master-search" placeholder="Search faculty..." style="flex:1;">
               <select id="fac-master-dept-filter" style="width:160px;">
                 <option value="ALL">All Departments</option>
                 ${allDepts.map(d => `<option value="${esc(d)}">${esc(d)}</option>`).join('')}
